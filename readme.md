@@ -121,24 +121,24 @@ Teknoloji, operasyonel sınırları yok etti. Bugün, tek bir birey; AI araçlar
 
 | 🏗️ **ENGINEERING** | 🎨 **DESIGN** | 🔬 **BASIC SCIENCES** | 🏥 **HEALTH** |
 | :---: | :---: | :---: | :---: |
-| [![Eng](https://img.shields.io/badge/-ENGINEERING-blue?style=flat-square&logo=probot)](ALAN_MUHENDISLIK/) | [![Des](https://img.shields.io/badge/-ARCH_&_URBAN-blue?style=flat-square&logo=autodesk)](ALAN_TASARIM_MIMARLIK/) | [![Sci](https://img.shields.io/badge/-BASIC_SCIENCES-green?style=flat-square&logo=scientificamerican)](ALAN_TEMEL_BILIMLER/) | [![Health](https://img.shields.io/badge/-HEALTH_&_LIFE-red?style=flat-square&logo=redcross)](ALAN_SAGLIK_YASAM/) |
-| **[Bilgisayar](ALAN_MUHENDISLIK/bilgisayar_mühendisligi)** | **[Mimarlık](ALAN_TASARIM_MIMARLIK/01_Tasarim_Studyolari)** | **[Matematik](ALAN_TEMEL_BILIMLER/matematik)** | **[Tıp Fakültesi](ALAN_SAGLIK_YASAM/tıp)** |
-| **[Elektrik-Elk.](ALAN_MUHENDISLIK/elektrik_elektronik_mühendisligi)** | **[Şehircilik](ALAN_TASARIM_MIMARLIK/05_Sehircilik_ve_Peyzaj)** | **[Fizik](ALAN_TEMEL_BILIMLER/fizik)** | **[Eczacılık](ALAN_SAGLIK_YASAM/eczacilik)** |
-| **[Mekatronik](ALAN_MUHENDISLIK/mekatronik_mühendisligi)** | **[CAD/BIM](ALAN_TASARIM_MIMARLIK/08_Bilgisayar_Destekli_Tasarim)** | **[Kimya](ALAN_TEMEL_BILIMLER/kimya)** | **[Genetik](ALAN_SAGLIK_YASAM/molekuler_biyoloji_genetik)** |
+| [![Eng](https://img.shields.io/badge/-ENGINEERING-blue?style=flat-square&logo=probot)](FAK_MUHENDISLIK/) | [![Des](https://img.shields.io/badge/-ARCH_&_URBAN-blue?style=flat-square&logo=autodesk)](FAK_MIMARLIK_VE_TASARIM/) | [![Sci](https://img.shields.io/badge/-BASIC_SCIENCES-green?style=flat-square&logo=scientificamerican)](FAK_DOGAN_VE_UYGULAMALI_BILIMLER/) | [![Health](https://img.shields.io/badge/-HEALTH_&_LIFE-red?style=flat-square&logo=redcross)](FAK_TIP_VE_SAGLIK/) |
+| **[Bilgisayar](FAK_MUHENDISLIK/bilgisayar_mühendisligi)** | **[Mimarlık](FAK_MIMARLIK_VE_TASARIM/tasarim_studyolari)** | **[Matematik](FAK_DOGAN_VE_UYGULAMALI_BILIMLER/matematik)** | **[Tıp Fakültesi](FAK_TIP_VE_SAGLIK/tıp)** |
+| **[Elektrik-Elk.](FAK_MUHENDISLIK/elektrik_elektronik_mühendisligi)** | **[Şehircilik](FAK_MIMARLIK_VE_TASARIM/sehircilik_ve_peyzaj)** | **[Fizik](FAK_DOGAN_VE_UYGULAMALI_BILIMLER/fizik)** | **[Eczacılık](FAK_TIP_VE_SAGLIK/eczacilik)** |
+| **[Mekatronik](FAK_MUHENDISLIK/mekatronik_mühendisligi)** | **[CAD/BIM](FAK_MIMARLIK_VE_TASARIM/bilgisayar_destekli_tasarim)** | **[Kimya](FAK_DOGAN_VE_UYGULAMALI_BILIMLER/kimya)** | **[Genetik](FAK_TIP_VE_SAGLIK/molekuler_biyoloji_genetik)** |
 
 | ⚖️ **SOCIAL** | 📉 **ECONOMICS** | 🚀 **FRONTIER** | 🧠 **STRATEGIC** |
 | :---: | :---: | :---: | :---: |
-| [![Soc](https://img.shields.io/badge/-SOCIAL_HUMAN-green?style=flat-square&logo=googlescholar)](ALAN_SOSYAL_INSAN/) | [![Econ](https://img.shields.io/badge/-ECON_&_MGMT-blue?style=flat-square&logo=chartdotjs)](ALAN_EKONOMI_ISLETME/) | [![Front](https://img.shields.io/badge/-FRONTIER_TECH-purple?style=flat-square&logo=spacex)](ALAN_ONE_TEKNOLOJI/) | [![Strat](https://img.shields.io/badge/-STRATEGIC_IQ-black?style=flat-square&logo=chess.com)](ALAN_STRATEJIK_ZEKA/) |
-| **[Hukuk](ALAN_SOSYAL_INSAN/medeni_hukuk)** | **[İktisat](ALAN_EKONOMI_ISLETME/iktisat)** | **[Kuantum](ALAN_ONE_TEKNOLOJI/kuantum_mühendisligi)** | **[Oyun Teorisi](ALAN_STRATEJIK_ZEKA/README.md)** |
-| **[Sosyoloji](ALAN_SOSYAL_INSAN/sosyoloji)** | **[İşletme](ALAN_EKONOMI_ISLETME/işletme)** | **[Metaverse](ALAN_ONE_TEKNOLOJI/metaverse)** | **[Zihinsel Modeller](ALAN_STRATEJIK_ZEKA/README.md)** |
-| **[Felsefe](ALAN_SOSYAL_INSAN/felsefe)** | **[Finans](ALAN_EKONOMI_ISLETME/finans_mühendisligi)** | **[BCI](ALAN_ONE_TEKNOLOJI/bci)** | **[Strateji](ALAN_STRATEJIK_ZEKA/README.md)** |
+| [![Soc](https://img.shields.io/badge/-SOCIAL_HUMAN-green?style=flat-square&logo=googlescholar)](FAK_SOSYAL_BILIMLER/) | [![Econ](https://img.shields.io/badge/-ECON_&_MGMT-blue?style=flat-square&logo=chartdotjs)](FAK_IKTISAT_VE_ISLETME/) | [![Front](https://img.shields.io/badge/-FRONTIER_TECH-purple?style=flat-square&logo=spacex)](FAK_GELECEK_VE_ILERI_TEKNOLOJI/) | [![Strat](https://img.shields.io/badge/-STRATEGIC_IQ-black?style=flat-square&logo=chess.com)](FAK_SOSYAL_BILIMLER/) |
+| **[Hukuk](FAK_SOSYAL_BILIMLER/medeni_hukuk)** | **[İktisat](FAK_IKTISAT_VE_ISLETME/iktisat)** | **[Kuantum](FAK_GELECEK_VE_ILERI_TEKNOLOJI/kuantum_mühendisligi)** | **[Oyun Teorisi](FAK_SOSYAL_BILIMLER/README.md)** |
+| **[Sosyoloji](FAK_SOSYAL_BILIMLER/sosyoloji)** | **[İşletme](FAK_IKTISAT_VE_ISLETME/işletme)** | **[Metaverse](FAK_GELECEK_VE_ILERI_TEKNOLOJI/metaverse)** | **[Zihinsel Modeller](FAK_SOSYAL_BILIMLER/README.md)** |
+| **[Felsefe](FAK_SOSYAL_BILIMLER/felsefe)** | **[Finans](FAK_IKTISAT_VE_ISLETME/finans_mühendisligi)** | **[BCI](FAK_GELECEK_VE_ILERI_TEKNOLOJI/bci)** | **[Strateji](FAK_SOSYAL_BILIMLER/README.md)** |
 
 | 💎 **MASTERY** | 🎭 **ARTS** | 🏗️ **ARCHITECT** | 🏥 **HEALTH** |
 | :---: | :---: | :---: | :---: |
-| [![Mastery](https://img.shields.io/badge/-PERSONAL_MASTERY-gold?style=flat-square&logo=target)](ALAN_KISISEL_GELISIM/) | [![Arts](https://img.shields.io/badge/-ARTS_&_MEDIA-orange?style=flat-square&logo=adobe)](ALAN_SANAT_MEDYA/) | [![Des](https://img.shields.io/badge/-DESIGN-blue?style=flat-square&logo=autodesk)](ALAN_TASARIM_MIMARLIK/) | [![Health](https://img.shields.io/badge/-HEALTH_&_LIFE-red?style=flat-square&logo=redcross)](ALAN_SAGLIK_YASAM/) |
-| **[Deep Work](ALAN_KISISEL_GELISIM/README.md)** | **[Güz. Sanatlar](ALAN_SANAT_MEDYA/guzel_sanatlar)** | **[Mimarlık](ALAN_TASARIM_MIMARLIK/01_Tasarim_Studyolari)** | **[Tıp Fakültesi](ALAN_SAGLIK_YASAM/tıp)** |
-| **[Bio-Hacking](ALAN_KISISEL_GELISIM/README.md)** | **[Sinema & TV](ALAN_SANAT_MEDYA/radyo_tv_sinema)** | **[Şehircilik](ALAN_TASARIM_MIMARLIK/05_Sehircilik_ve_Peyzaj)** | **[Eczacılık](ALAN_SAGLIK_YASAM/eczacilik)** |
-| **[Verimlilik](ALAN_KISISEL_GELISIM/README.md)** | **[UI/UX](ALAN_SANAT_MEDYA/gorsel_iletisim_tasarimi)** | **[CAD/BIM](ALAN_TASARIM_MIMARLIK/08_Bilgisayar_Destekli_Tasarim)** | **[Genetik](ALAN_SAGLIK_YASAM/molekuler_biyoloji_genetik)** |
+| [![Mastery](https://img.shields.io/badge/-PERSONAL_MASTERY-gold?style=flat-square&logo=target)](FAK_SOSYAL_BILIMLER/) | [![Arts](https://img.shields.io/badge/-ARTS_&_MEDIA-orange?style=flat-square&logo=adobe)](FAK_GUZEL_SANATLAR_VE_TASARIM/) | [![Des](https://img.shields.io/badge/-DESIGN-blue?style=flat-square&logo=autodesk)](FAK_MIMARLIK_VE_TASARIM/) | [![Health](https://img.shields.io/badge/-HEALTH_&_LIFE-red?style=flat-square&logo=redcross)](FAK_TIP_VE_SAGLIK/) |
+| **[Deep Work](FAK_SOSYAL_BILIMLER/README.md)** | **[Güz. Sanatlar](FAK_GUZEL_SANATLAR_VE_TASARIM/guzel_sanatlar)** | **[Mimarlık](FAK_MIMARLIK_VE_TASARIM/tasarim_studyolari)** | **[Tıp Fakültesi](FAK_TIP_VE_SAGLIK/tıp)** |
+| **[Bio-Hacking](FAK_SOSYAL_BILIMLER/README.md)** | **[Sinema & TV](FAK_GUZEL_SANATLAR_VE_TASARIM/radyo_tv_sinema)** | **[Şehircilik](FAK_MIMARLIK_VE_TASARIM/sehircilik_ve_peyzaj)** | **[Eczacılık](FAK_TIP_VE_SAGLIK/eczacilik)** |
+| **[Verimlilik](FAK_SOSYAL_BILIMLER/README.md)** | **[UI/UX](FAK_GUZEL_SANATLAR_VE_TASARIM/gorsel_iletisim_tasarimi)** | **[CAD/BIM](FAK_MIMARLIK_VE_TASARIM/bilgisayar_destekli_tasarim)** | **[Genetik](FAK_TIP_VE_SAGLIK/molekuler_biyoloji_genetik)** |
 
 ---
 
@@ -146,84 +146,84 @@ Teknoloji, operasyonel sınırları yok etti. Bugün, tek bir birey; AI araçlar
 *Tüm modüllere tam erişim sağlayan devasa bilgi ağı.*
 
 <details>
-<summary><b>🛠️ ALAN_MUHENDISLIK (Mühendislik Harikaları) - Tıklayın</b></summary>
+<summary><b>🛠️ FAK_MUHENDISLIK (Mühendislik Harikaları) - Tıklayın</b></summary>
 <br>
 
 | Branş | Modül / Ders |
 | :--- | :--- |
-| 💻 **Yazılım & IT** | [Bilgisayar Mühendisliği](ALAN_MUHENDISLIK/bilgisayar_mühendisligi) • [Yazılım Mühendisliği](ALAN_MUHENDISLIK/yazilim_mühendisligi) • [Bilişim Sistemleri](ALAN_MUHENDISLIK/bilişim_sistemleri_mühendisligi) • [Adli Bilişim](ALAN_MUHENDISLIK/adli_bilisim_mühendisligi) |
-| ⚡ **Elektronik & Haberleşme** | [Elektrik-Elektronik Mühendisliği](ALAN_MUHENDISLIK/elektrik_elektronik_mühendisligi) • [Elektronik Haberleşme Mühendisliği](ALAN_MUHENDISLIK/elektronik_haberlesme_muhendisligi) • [Optik Mühendisliği](ALAN_MUHENDISLIK/optik_mühendisligi) |
-| 🤖 **Robotik & AI** | [Mekatronik Mühendisliği](ALAN_MUHENDISLIK/mekatronik_mühendisligi) • [Yapay Zeka ve Veri Mühendisliği](ALAN_MUHENDISLIK/yapay_zeka_ve_veri_mühendisligi) • [Kontrol ve Otomasyon](ALAN_MUHENDISLIK/kontrol-otomasyon_mühendisligi) |
-| ⚙️ **Mekanik & İmalat** | [Makine Mühendisliği](ALAN_MUHENDISLIK/makine_mühendisligi) • [İmalat Mühendisliği](ALAN_MUHENDISLIK/imalat_mühendisligi) • [Endüstriyel Tasarım Mühendisliği](ALAN_MUHENDISLIK/endustriyel_tasarim_muhendisligi) |
-| 🏗️ **İnşaat & Enerji** | [İnşaat Mühendisliği](ALAN_MUHENDISLIK/inşaat_mühendisligi) • [Enerji Sistemleri Mühendisliği](ALAN_MUHENDISLIK/enerji-sistemleri_mühendisligi) • [Harita Mühendisliği](ALAN_MUHENDISLIK/harita_mühendisligi) |
-| ✈️ **Havacılık & Uzay** | [Havacılık ve Uzay Mühendisliği](ALAN_MUHENDISLIK/havacilik_uzay_mühendisligi) |
-| 🧪 **Proses & Malzeme** | [Kimya Mühendisliği](ALAN_MUHENDISLIK/kimya_mühendisligi) • [Metalurji ve Malzeme Mühendisliği](ALAN_MUHENDISLIK/metalurji_malzeme_mühendisligi) • [Jeoloji Mühendisliği](ALAN_MUHENDISLIK/jeoloji_mühendisligi) |
-| 🌾 **Ziraat & Çevre** | [Ziraat Mühendisliği](ALAN_MUHENDISLIK/ziraat_mühendisligi) • [Çevre Mühendisliği](ALAN_MUHENDISLIK/çevre_mühendisligi) |
+| 💻 **Yazılım & IT** | [Bilgisayar Mühendisliği](FAK_MUHENDISLIK/bilgisayar_mühendisligi) • [Yazılım Mühendisliği](FAK_MUHENDISLIK/yazilim_mühendisligi) • [Bilişim Sistemleri](FAK_MUHENDISLIK/bilişim_sistemleri_mühendisligi) • [Adli Bilişim](FAK_MUHENDISLIK/adli_bilisim_mühendisligi) |
+| ⚡ **Elektronik & Haberleşme** | [Elektrik-Elektronik Mühendisliği](FAK_MUHENDISLIK/elektrik_elektronik_mühendisligi) • [Elektronik Haberleşme Mühendisliği](FAK_MUHENDISLIK/elektronik_haberlesme_muhendisligi) • [Optik Mühendisliği](FAK_MUHENDISLIK/optik_mühendisligi) |
+| 🤖 **Robotik & AI** | [Mekatronik Mühendisliği](FAK_MUHENDISLIK/mekatronik_mühendisligi) • [Yapay Zeka ve Veri Mühendisliği](FAK_MUHENDISLIK/yapay_zeka_ve_veri_mühendisligi) • [Kontrol ve Otomasyon](FAK_MUHENDISLIK/kontrol-otomasyon_mühendisligi) |
+| ⚙️ **Mekanik & İmalat** | [Makine Mühendisliği](FAK_MUHENDISLIK/makine_mühendisligi) • [İmalat Mühendisliği](FAK_MUHENDISLIK/imalat_mühendisligi) • [Endüstriyel Tasarım Mühendisliği](FAK_MUHENDISLIK/endustriyel_tasarim_muhendisligi) |
+| 🏗️ **İnşaat & Enerji** | [İnşaat Mühendisliği](FAK_MUHENDISLIK/inşaat_mühendisligi) • [Enerji Sistemleri Mühendisliği](FAK_MUHENDISLIK/enerji-sistemleri_mühendisligi) • [Harita Mühendisliği](FAK_MUHENDISLIK/harita_mühendisligi) |
+| ✈️ **Havacılık & Uzay** | [Havacılık ve Uzay Mühendisliği](FAK_MUHENDISLIK/havacilik_uzay_mühendisligi) |
+| 🧪 **Proses & Malzeme** | [Kimya Mühendisliği](FAK_MUHENDISLIK/kimya_mühendisligi) • [Metalurji ve Malzeme Mühendisliği](FAK_MUHENDISLIK/metalurji_malzeme_mühendisligi) • [Jeoloji Mühendisliği](FAK_MUHENDISLIK/jeoloji_mühendisligi) |
+| 🌾 **Ziraat & Çevre** | [Ziraat Mühendisliği](FAK_MUHENDISLIK/ziraat_mühendisligi) • [Çevre Mühendisliği](FAK_MUHENDISLIK/çevre_mühendisligi) |
 
 </details>
 
 <details>
-<summary><b>🧠 DOMINION_STRATEGIC & 💎 PERSONAL MASTERY - Tıklayın</b></summary>
+<summary><b>🧠 FAK_SOSYAL_BILIMLER & 💎 FAK_SOSYAL_BILIMLER - Tıklayın</b></summary>
 <br>
 
 | Kategori | Erişim |
 | :--- | :--- |
-| ♟️ **Stratejik Zeka** | [Oyun Teorisi](ALAN_STRATEJIK_ZEKA/README.md) • [Zihinsel Modeller](ALAN_STRATEJIK_ZEKA/README.md) • [Jeopolitik](ALAN_STRATEJIK_ZEKA/README.md) |
-| 🦾 **Kişisel Ustalık** | [Deep Work](ALAN_KISISEL_GELISIM/README.md) • [Bio-Hacking](ALAN_KISISEL_GELISIM/README.md) • [Zihinsel Dayanıklılık](ALAN_KISISEL_GELISIM/README.md) |
+| ♟️ **Stratejik Zeka** | [Oyun Teorisi](FAK_SOSYAL_BILIMLER/README.md) • [Zihinsel Modeller](FAK_SOSYAL_BILIMLER/README.md) • [Jeopolitik](FAK_SOSYAL_BILIMLER/README.md) |
+| 🦾 **Kişisel Ustalık** | [Deep Work](FAK_SOSYAL_BILIMLER/README.md) • [Bio-Hacking](FAK_SOSYAL_BILIMLER/README.md) • [Zihinsel Dayanıklılık](FAK_SOSYAL_BILIMLER/README.md) |
 
 </details>
 
 <details>
-<summary><b>🎨 ALAN_TASARIM_MIMARLIK (Mimarlık ve Şehir) - Tıklayın</b></summary>
+<summary><b>🎨 FAK_MIMARLIK_VE_TASARIM (Mimarlık ve Şehir) - Tıklayın</b></summary>
 <br>
 
 | Kategori | İçerik |
 | :--- | :--- |
-| 🏛️ **Tasarım** | [Tasarım Stüdyoları](ALAN_TASARIM_MIMARLIK/01_Tasarim_Studyolari) • [Görsel İletişim](ALAN_TASARIM_MIMARLIK/04_Gorsel_Iletisim_ve_Anlatim) |
-| 📚 **Teori** | [Mimarlık Tarihi ve Teorisi](ALAN_TASARIM_MIMARLIK/02_Mimarlik_Tarihi_ve_Teorisi) • [Restorasyon ve Koruma](ALAN_TASARIM_MIMARLIK/06_Restorasyon_ve_Koruma) |
-| 🛠️ **Teknoloji** | [Yapı Teknolojisi](ALAN_TASARIM_MIMARLIK/03_Yapi_Teknolojisi_ve_Malzeme) • [Yapı Fiziği](ALAN_TASARIM_MIMARLIK/07_Yapi_Fizigi_ve_Cevre) |
-| 🌐 **Kentsel** | [Şehircilik ve Peyzaj](ALAN_TASARIM_MIMARLIK/05_Sehircilik_ve_Peyzaj) |
-| 💻 **Dijital** | [CAD/BIM Sistemleri](ALAN_TASARIM_MIMARLIK/08_Bilgisayar_Destekli_Tasarim) |
+| 🏛️ **Tasarım** | [Tasarım Stüdyoları](FAK_MIMARLIK_VE_TASARIM/tasarim_studyolari) • [Görsel İletişim](FAK_MIMARLIK_VE_TASARIM/gorsel_iletisim_ve_anlatim) |
+| 📚 **Teori** | [Mimarlık Tarihi ve Teorisi](FAK_MIMARLIK_VE_TASARIM/mimarlik_tarihi_ve_teorisi) • [Restorasyon ve Koruma](FAK_MIMARLIK_VE_TASARIM/restorasyon_ve_koruma) |
+| 🛠️ **Teknoloji** | [Yapı Teknolojisi](FAK_MIMARLIK_VE_TASARIM/yapi_teknolojisi_ve_malzeme) • [Yapı Fiziği](FAK_MIMARLIK_VE_TASARIM/yapi_fizigi_ve_cevre) |
+| 🌐 **Kentsel** | [Şehircilik ve Peyzaj](FAK_MIMARLIK_VE_TASARIM/sehircilik_ve_peyzaj) |
+| 💻 **Dijital** | [CAD/BIM Sistemleri](FAK_MIMARLIK_VE_TASARIM/bilgisayar_destekli_tasarim) |
 
 </details>
 
 <details>
-<summary><b>🔬 ALAN_TEMEL_BILIMLER (Temel Bilimler) - Tıklayın</b></summary>
+<summary><b>🔬 FAK_DOGAN_VE_UYGULAMALI_BILIMLER (Temel Bilimler) - Tıklayın</b></summary>
 <br>
 
 | Bilim Dalı | Erişim |
 | :--- | :--- |
-| 🔢 **Matematik** | [Matematik Dünyası](ALAN_TEMEL_BILIMLER/matematik) |
-| ⚛️ **Fizik** | [Fizik Portalı](ALAN_TEMEL_BILIMLER/fizik) |
-| 🧪 **Kimya** | [Kimya Laboratuvarı](ALAN_TEMEL_BILIMLER/kimya) |
-| 🧬 **Biyoloji** | [Yaşam Bilimleri](ALAN_TEMEL_BILIMLER/biyoloji) |
+| 🔢 **Matematik** | [Matematik Dünyası](FAK_DOGAN_VE_UYGULAMALI_BILIMLER/matematik) |
+| ⚛️ **Fizik** | [Fizik Portalı](FAK_DOGAN_VE_UYGULAMALI_BILIMLER/fizik) |
+| 🧪 **Kimya** | [Kimya Laboratuvarı](FAK_DOGAN_VE_UYGULAMALI_BILIMLER/kimya) |
+| 🧬 **Biyoloji** | [Yaşam Bilimleri](FAK_DOGAN_VE_UYGULAMALI_BILIMLER/biyoloji) |
 
 </details>
 
 <details>
-<summary><b>🚀 ALAN_ONE_TEKNOLOJI (Gelecek Teknolojileri) - Tıklayın</b></summary>
+<summary><b>🚀 FAK_GELECEK_VE_ILERI_TEKNOLOJI (Gelecek Teknolojileri) - Tıklayın</b></summary>
 <br>
 
 | Alan | Modül |
 | :--- | :--- |
-| ⚛️ **Kuantum** | [Kuantum Mühendisliği](ALAN_ONE_TEKNOLOJI/kuantum_mühendisligi) |
-| 🧬 **Biyo-Nano** | [Biyoteknik ve Nanotıp](ALAN_ONE_TEKNOLOJI/biyoteknik_nanotıp) • [Nano Mühendislik](ALAN_ONE_TEKNOLOJI/nano_mühendislik) |
-| 🕶️ **Sanal Evren** | [Metaverse](ALAN_ONE_TEKNOLOJI/metaverse) • [AR Mühendisliği](ALAN_ONE_TEKNOLOJI/artırılmıs_gerceklik_mühendisligi) |
-| 🧠 **Zihin-Makine** | [BCI (Brain-Computer Interface)](ALAN_ONE_TEKNOLOJI/bci) • [Context Engineering](ALAN_ONE_TEKNOLOJI/contex_engineering) |
-| 🤖 **AI & Üretim** | [3D Print AI](ALAN_ONE_TEKNOLOJI/3d_print_ai) • [Fintek AI](ALAN_ONE_TEKNOLOJI/fintek_ai) • [Hukuk & AI Etiği](ALAN_ONE_TEKNOLOJI/hukuk_ve_ai_etigi) |
+| ⚛️ **Kuantum** | [Kuantum Mühendisliği](FAK_GELECEK_VE_ILERI_TEKNOLOJI/kuantum_mühendisligi) |
+| 🧬 **Biyo-Nano** | [Biyoteknik ve Nanotıp](FAK_GELECEK_VE_ILERI_TEKNOLOJI/biyoteknik_nanotıp) • [Nano Mühendislik](FAK_GELECEK_VE_ILERI_TEKNOLOJI/nano_mühendislik) |
+| 🕶️ **Sanal Evren** | [Metaverse](FAK_GELECEK_VE_ILERI_TEKNOLOJI/metaverse) • [AR Mühendisliği](FAK_GELECEK_VE_ILERI_TEKNOLOJI/artırılmıs_gerceklik_mühendisligi) |
+| 🧠 **Zihin-Makine** | [BCI (Brain-Computer Interface)](FAK_GELECEK_VE_ILERI_TEKNOLOJI/bci) • [Context Engineering](FAK_GELECEK_VE_ILERI_TEKNOLOJI/contex_engineering) |
+| 🤖 **AI & Üretim** | [3D Print AI](FAK_GELECEK_VE_ILERI_TEKNOLOJI/3d_print_ai) • [Fintek AI](FAK_GELECEK_VE_ILERI_TEKNOLOJI/fintek_ai) • [Hukuk & AI Etiği](FAK_GELECEK_VE_ILERI_TEKNOLOJI/hukuk_ve_ai_etigi) |
 
 </details>
 
 <details>
-<summary><b>⚖️ DOMINION_SOCIAL & 📉 ECONOMICS (Toplum ve Finans) - Tıklayın</b></summary>
+<summary><b>⚖️ FAK_SOSYAL_BILIMLER & 📉 FAK_IKTISAT_VE_ISLETME (Toplum ve Finans) - Tıklayın</b></summary>
 <br>
 
 | Disiplin | Erişim |
 | :--- | :--- |
-| 🏛️ **Hukuk** | [Medeni Hukuk](ALAN_SOSYAL_INSAN/medeni_hukuk) • [Hukuk Felsefesi](ALAN_SOSYAL_INSAN/felsefe) |
-| 👥 **Sosyal** | [Sosyoloji](ALAN_SOSYAL_INSAN/sosyoloji) • [Psikoloji](ALAN_SOSYAL_INSAN/piskoloji) • [Antropoloji](ALAN_SOSYAL_INSAN/antropoloji) |
-| 💰 **Ekonomi** | [İktisat](ALAN_EKONOMI_ISLETME/iktisat) • [Maliye](ALAN_EKONOMI_ISLETME/maliye) |
-| 🏢 **İşletme** | [İşletme Yönetimi](ALAN_EKONOMI_ISLETME/işletme) • [Finans Mühendisliği](ALAN_EKONOMI_ISLETME/finans_mühendisligi) |
+| 🏛️ **Hukuk** | [Medeni Hukuk](FAK_SOSYAL_BILIMLER/medeni_hukuk) • [Hukuk Felsefesi](FAK_SOSYAL_BILIMLER/felsefe) |
+| 👥 **Sosyal** | [Sosyoloji](FAK_SOSYAL_BILIMLER/sosyoloji) • [Psikoloji](FAK_SOSYAL_BILIMLER/piskoloji) • [Antropoloji](FAK_SOSYAL_BILIMLER/antropoloji) |
+| 💰 **Ekonomi** | [İktisat](FAK_IKTISAT_VE_ISLETME/iktisat) • [Maliye](FAK_IKTISAT_VE_ISLETME/maliye) |
+| 🏢 **İşletme** | [İşletme Yönetimi](FAK_IKTISAT_VE_ISLETME/işletme) • [Finans Mühendisliği](FAK_IKTISAT_VE_ISLETME/finans_mühendisligi) |
 
 </details>
 
@@ -288,7 +288,7 @@ Bu repo, yaşayan ve sürekli genişleyen bir **Akademik İşletim Sistemi**'dir
 *Repodaki en derinlemesine hazırlanmış içerikleri keşfedin.*
 
 > [!IMPORTANT]
-> **[🏛️ ALAN_TASARIM_MIMARLIK](ALAN_TASARIM_MIMARLIK/README.md)**  
+> **[🏛️ FAK_MIMARLIK_VE_TASARIM](FAK_MIMARLIK_VE_TASARIM/README.md)**  
 > Geleneksel mimarlıktan fütüristik üretken tasarıma kadar, 8 ana kategoride hazırlanmış devasa bir kütüphane.
 
 ---
@@ -301,30 +301,30 @@ Bu repo, yaşayan ve sürekli genişleyen bir **Akademik İşletim Sistemi**'dir
 ```text
 university-courses/
 │   ├── readme.md
-│   ├── ALAN_MUHENDISLIK/
+│   ├── FAK_MUHENDISLIK/
 │   │   ├── bilgisayar_mühendisligi/
 │   │   ├── elektrik_elektronik_mühendisligi/
 │   │   ├── makine_mühendisligi/
 │   │   └── ... (24+ Engineering Disciplines)
-│   ├── ALAN_SAGLIK_YASAM/
+│   ├── FAK_TIP_VE_SAGLIK/
 │   │   ├── tıp/
 │   │   ├── dis_hekimligi/
 │   │   └── molekuler_biyoloji_genetik/
-│   ├── ALAN_TEMEL_BILIMLER/
+│   ├── FAK_DOGAN_VE_UYGULAMALI_BILIMLER/
 │   │   ├── matematik/
 │   │   ├── fizik/
 │   │   └── kimya/
-│   ├── ALAN_SANAT_MEDYA/
+│   ├── FAK_GUZEL_SANATLAR_VE_TASARIM/
 │   │   ├── guzel_sanatlar/
 │   │   ├── radyo_tv_sinema/
 │   │   └── gorsel_iletisim_tasarimi/
-│   ├── ALAN_TASARIM_MIMARLIK/
+│   ├── FAK_MIMARLIK_VE_TASARIM/
 │   │   └── ... (Architecture & Urbanism)
-│   ├── ALAN_EKONOMI_ISLETME/
+│   ├── FAK_IKTISAT_VE_ISLETME/
 │   │   └── ... (Business & Finance)
-│   ├── ALAN_SOSYAL_INSAN/
+│   ├── FAK_SOSYAL_BILIMLER/
 │   │   └── ... (Law & Social Sciences)
-│   └── ALAN_ONE_TEKNOLOJI/
+│   └── FAK_GELECEK_VE_ILERI_TEKNOLOJI/
 │       └── ... (Visionary Tech)
 ```
 </details>
