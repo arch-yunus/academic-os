@@ -6,6 +6,7 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 
 | Bölüm | Yol |
 |-------|-----|
+| Acil Yardim Ve Afet Yonetimi | [acil_yardim_ve_afet_yonetimi](acil_yardim_ve_afet_yonetimi/) |
 | Adli Bilisim Muhendisligi | [adli_bilisim_muhendisligi](adli_bilisim_muhendisligi/) |
 | Antrenorluk Egitimi | [antrenorluk_egitimi](antrenorluk_egitimi/) |
 | Antropoloji | [antropoloji](antropoloji/) |
@@ -21,7 +22,10 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Biyosistem Muhendisligi | [biyosistem_muhendisligi](biyosistem_muhendisligi/) |
 | Calisma Ekonomisi Ve Endustri Iliskileri | [calisma_ekonomisi_ve_endustri_iliskileri](calisma_ekonomisi_ve_endustri_iliskileri/) |
 | Cevre Muhendisligi | [cevre_muhendisligi](cevre_muhendisligi/) |
+| Cizgi Film Ve Animasyon | [cizgi_film_ve_animasyon](cizgi_film_ve_animasyon/) |
 | Cografya | [cografya](cografya/) |
+| Deniz Ulastirma Isletme Muhendisligi | [deniz_ulastirma_isletme_muhendisligi](deniz_ulastirma_isletme_muhendisligi/) |
+| Dil Ve Konusma Terapisi | [dil_ve_konusma_terapisi](dil_ve_konusma_terapisi/) |
 | Dilbilim | [dilbilim](dilbilim/) |
 | Din Kulturu Ve Ahlak Bilgisi Ogretmenligi | [din_kulturu_ve_ahlak_bilgisi_ogretmenligi](din_kulturu_ve_ahlak_bilgisi_ogretmenligi/) |
 | Dis Hekimligi | [dis_hekimligi](dis_hekimligi/) |
@@ -34,6 +38,7 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Endustri Muhendisligi | [endustri_muhendisligi](endustri_muhendisligi/) |
 | Endustriyel Tasarim Muhendisligi | [endustriyel_tasarim_muhendisligi](endustriyel_tasarim_muhendisligi/) |
 | Enerji Sistemleri Muhendisligi | [enerji_sistemleri_muhendisligi](enerji_sistemleri_muhendisligi/) |
+| Ergoterapi | [ergoterapi](ergoterapi/) |
 | Felsefe | [felsefe](felsefe/) |
 | Fen Bilgisi Ogretmenligi | [fen_bilgisi_ogretmenligi](fen_bilgisi_ogretmenligi/) |
 | Fizik | [fizik](fizik/) |
@@ -42,11 +47,14 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Gastronomi Ve Mutfak Sanatlari | [gastronomi_ve_mutfak_sanatlari](gastronomi_ve_mutfak_sanatlari/) |
 | Gazetecilik | [gazetecilik](gazetecilik/) |
 | Gemi Insaati Ve Gemi Makineleri Muhendisligi | [gemi_insaati_ve_gemi_makineleri_muhendisligi](gemi_insaati_ve_gemi_makineleri_muhendisligi/) |
+| Gemi Makineleri Isletme Muhendisligi | [gemi_makineleri_isletme_muhendisligi](gemi_makineleri_isletme_muhendisligi/) |
+| Gerontoloji | [gerontoloji](gerontoloji/) |
 | Gida Muhendisligi | [gida_muhendisligi](gida_muhendisligi/) |
 | Gorsel Iletisim Tasarimi | [gorsel_iletisim_tasarimi](gorsel_iletisim_tasarimi/) |
 | Halkla Iliskiler Ve Reklamcilik | [halkla_iliskiler_ve_reklamcilik](halkla_iliskiler_ve_reklamcilik/) |
 | Harita Muhendisligi | [harita_muhendisligi](harita_muhendisligi/) |
 | Havacilik Ve Uzay Muhendisligi | [havacilik_ve_uzay_muhendisligi](havacilik_ve_uzay_muhendisligi/) |
+| Havacilik Yonetimi | [havacilik_yonetimi](havacilik_yonetimi/) |
 | Hemsirelik | [hemsirelik](hemsirelik/) |
 | Hukuk | [hukuk](hukuk/) |
 | Ic Mimarlik Ve Cevre Tasarimi | [ic_mimarlik_ve_cevre_tasarimi](ic_mimarlik_ve_cevre_tasarimi/) |
@@ -57,15 +65,18 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Ingiliz Dili Ve Edebiyati | [ingiliz_dili_ve_edebiyati](ingiliz_dili_ve_edebiyati/) |
 | Ingilizce Ogretmenligi | [ingilizce_ogretmenligi](ingilizce_ogretmenligi/) |
 | Insaat Muhendisligi | [insaat_muhendisligi](insaat_muhendisligi/) |
+| Insan Kaynaklari Yonetimi | [insan_kaynaklari_yonetimi](insan_kaynaklari_yonetimi/) |
 | Isletme | [isletme](isletme/) |
 | Isletme Muhendisligi | [isletme_muhendisligi](isletme_muhendisligi/) |
 | Istatistik | [istatistik](istatistik/) |
+| Jeofizik Muhendisligi | [jeofizik_muhendisligi](jeofizik_muhendisligi/) |
 | Jeoloji Muhendisligi | [jeoloji_muhendisligi](jeoloji_muhendisligi/) |
 | Kimya | [kimya](kimya/) |
 | Kimya Muhendisligi | [kimya_muhendisligi](kimya_muhendisligi/) |
 | Konaklama Isletmeciligi | [konaklama_isletmeciligi](konaklama_isletmeciligi/) |
 | Kontrol Ve Otomasyon Muhendisligi | [kontrol_ve_otomasyon_muhendisligi](kontrol_ve_otomasyon_muhendisligi/) |
 | Kultur Varliklarini Koruma Ve Onarim | [kultur_varliklarini_koruma_ve_onarim](kultur_varliklarini_koruma_ve_onarim/) |
+| Lojistik Yonetimi | [lojistik_yonetimi](lojistik_yonetimi/) |
 | Maden Muhendisligi | [maden_muhendisligi](maden_muhendisligi/) |
 | Makine Muhendisligi | [makine_muhendisligi](makine_muhendisligi/) |
 | Maliye | [maliye](maliye/) |
@@ -95,6 +106,8 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Sehir Ve Bolge Planlama | [sehir_ve_bolge_planlama](sehir_ve_bolge_planlama/) |
 | Sinif Ogretmenligi | [sinif_ogretmenligi](sinif_ogretmenligi/) |
 | Siyaset Bilimi Ve Kamu Yonetimi | [siyaset_bilimi_ve_kamu_yonetimi](siyaset_bilimi_ve_kamu_yonetimi/) |
+| Sosyal Bilgiler Ogretmenligi | [sosyal_bilgiler_ogretmenligi](sosyal_bilgiler_ogretmenligi/) |
+| Sosyal Hizmet | [sosyal_hizmet](sosyal_hizmet/) |
 | Sosyoloji | [sosyoloji](sosyoloji/) |
 | Spor Yoneticiligi | [spor_yoneticiligi](spor_yoneticiligi/) |
 | Su Urunleri Muhendisligi | [su_urunleri_muhendisligi](su_urunleri_muhendisligi/) |
@@ -103,8 +116,10 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Tip | [tip](tip/) |
 | Turizm Isletmeciligi | [turizm_isletmeciligi](turizm_isletmeciligi/) |
 | Turk Dili Ve Edebiyati | [turk_dili_ve_edebiyati](turk_dili_ve_edebiyati/) |
+| Turkce Ogretmenligi | [turkce_ogretmenligi](turkce_ogretmenligi/) |
 | Ucak Muhendisligi | [ucak_muhendisligi](ucak_muhendisligi/) |
 | Uluslararasi Iliskiler | [uluslararasi_iliskiler](uluslararasi_iliskiler/) |
+| Uluslararasi Ticaret Ve Lojistik | [uluslararasi_ticaret_ve_lojistik](uluslararasi_ticaret_ve_lojistik/) |
 | Veterinerlik | [veterinerlik](veterinerlik/) |
 | Yapay Zeka Ve Veri Muhendisligi | [yapay_zeka_ve_veri_muhendisligi](yapay_zeka_ve_veri_muhendisligi/) |
 | Yazilim Muhendisligi | [yazilim_muhendisligi](yazilim_muhendisligi/) |
