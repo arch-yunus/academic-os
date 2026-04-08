@@ -18,71 +18,9 @@
 
 </div>
 
-## 🏛️ MİMARİ ŞEMA
+## ⚙️ META MÜHENDİSLİK
 
-```mermaid
-graph TD
-    A["🏛️ AKADEMİK İŞLETİM SİSTEMİ"] --> B["⚙️ MÜHENDİSLİK"]
-    A --> C["🏛️ MİMARLIK & TASARIM"]
-    A --> D["🔬 DOĞA BİLİMLERİ"]
-    A --> E["🏥 TIP & SAĞLIK"]
-    A --> F["⚖️ SOSYAL BİLİMLER"]
-    A --> G["📉 İKTİSAT & İŞLETME"]
-    A --> H["🚀 GELECEK TEKNOLOJİ"]
-    A --> I["🎭 GÜZEL SANATLAR"]
-    A --> J["📡 İLETİŞİM"]
-    A --> K["⚖️ HUKUK"]
-    A --> L["🌾 ZİRAAT & ÇEVRE"]
-    A --> M["🎓 EĞİTİM"]
-    A --> N["🕌 İLAHİYAT"]
-    A --> O["🏃 SPOR"]
-    A --> P["🏨 TURİZM"]
-
-    subgraph "Temel Bilimler ve Mühendislik"
-        B
-        C
-        D
-    end
-
-    subgraph "Sağlık ve Yaşam"
-        E
-        L
-    end
-
-    subgraph "Toplum ve İnsan"
-        F
-        G
-        K
-        J
-    end
-
-    subgraph "Vizyon ve Gelecek"
-        H
-        I
-        M
-        N
-        O
-        P
-    end
-```
-
----
-
-> **"Kendi imparatorluğunu kurmak için gereken tüm akademik silahlar burada."** ⚔️🔥
-
----
-
-## 🌌 Yeni Dünya Manifestosu: Mültidisipliner Zeka
-
-Yapay zeka çağında, sadece bir "alan uzmanı" olmak yetersizdir. Gelecek, mühendislik kodunu hukuk etiğiyle, mimari estetiği ekonomik sürdürülebilirlikle birleştiren **"Mültidisipliner Solopreneur"**ların olacaktır.
-
-> **"Geleceği tahmin etmenin tek yolu, onu mültidisipliner bir zekayla bizzat tasarlamaktır."** 🚀
-
----
-
-## ⚙️ META MÜHENDİSLİK — Tüm Mühendislik Bölümleri
-
-[`meta_muhendislik/`](meta_muhendislik/) klasörü altında **46 mühendislik bölümü** bulunmaktadır:
+[`meta_muhendislik/`](meta_muhendislik/) altında **46 bölüm**:
 
 | Bölüm | Bölüm | Bölüm |
 |:---|:---|:---|
@@ -105,34 +43,57 @@ Yapay zeka çağında, sadece bir "alan uzmanı" olmak yetersizdir. Gelecek, mü
 
 ---
 
-## ⚙️ META MÜHENDİSLİK — Tüm Mühendislik Bölümleri
+## 🔬 TEMEL BİLİMLER
 
-[`meta_muhendislik/`](meta_muhendislik/) altında **46 mühendislik bölümü**:
+[`temel_bilimler/`](temel_bilimler/) altında **8 bölüm**:
 
 | Bölüm | Bölüm | Bölüm |
 |:---|:---|:---|
-| [Adli Bilisim Muhendisligi](meta_muhendislik/adli_bilisim_muhendisligi) | [Bilgisayar Muhendisligi](meta_muhendislik/bilgisayar_muhendisligi) | [Bilisim Sistemleri Muhendisligi](meta_muhendislik/bilisim_sistemleri_muhendisligi) |
-| [Biyokimya Muhendisligi](meta_muhendislik/biyokimya_muhendisligi) | [Biyomedikal Muhendisligi](meta_muhendislik/biyomedikal_muhendisligi) | [Biyosistem Muhendisligi](meta_muhendislik/biyosistem_muhendisligi) |
-| [Cevre Muhendisligi](meta_muhendislik/cevre_muhendisligi) | [Deniz Ulastirma Isletme Muhendisligi](meta_muhendislik/deniz_ulastirma_isletme_muhendisligi) | [Elektrik Elektronik Muhendisligi](meta_muhendislik/elektrik_elektronik_muhendisligi) |
-| [Elektronik Ve Haberlesme Muhendisligi](meta_muhendislik/elektronik_ve_haberlesme_muhendisligi) | [Endustri Muhendisligi](meta_muhendislik/endustri_muhendisligi) | [Endustriyel Tasarim Muhendisligi](meta_muhendislik/endustriyel_tasarim_muhendisligi) |
-| [Enerji Sistemleri Muhendisligi](meta_muhendislik/enerji_sistemleri_muhendisligi) | [Fizik Muhendisligi](meta_muhendislik/fizik_muhendisligi) | [Gemi Insaati Ve Gemi Makineleri Muhendisligi](meta_muhendislik/gemi_insaati_ve_gemi_makineleri_muhendisligi) |
-| [Gemi Makineleri Isletme Muhendisligi](meta_muhendislik/gemi_makineleri_isletme_muhendisligi) | [Geomatik Muhendisligi](meta_muhendislik/geomatik_muhendisligi) | [Gida Muhendisligi](meta_muhendislik/gida_muhendisligi) |
-| [Harita Muhendisligi](meta_muhendislik/harita_muhendisligi) | [Havacilik Ve Uzay Muhendisligi](meta_muhendislik/havacilik_ve_uzay_muhendisligi) | [Imalat Muhendisligi](meta_muhendislik/imalat_muhendisligi) |
-| [Insaat Muhendisligi](meta_muhendislik/insaat_muhendisligi) | [Insaat Teknolojisi Muhendisligi](meta_muhendislik/insaat_teknolojisi_muhendisligi) | [Isletme Muhendisligi](meta_muhendislik/isletme_muhendisligi) |
-| [Jeofizik Muhendisligi](meta_muhendislik/jeofizik_muhendisligi) | [Jeoloji Muhendisligi](meta_muhendislik/jeoloji_muhendisligi) | [Kimya Muhendisligi](meta_muhendislik/kimya_muhendisligi) |
-| [Kontrol Ve Otomasyon Muhendisligi](meta_muhendislik/kontrol_ve_otomasyon_muhendisligi) | [Maden Muhendisligi](meta_muhendislik/maden_muhendisligi) | [Makine Muhendisligi](meta_muhendislik/makine_muhendisligi) |
-| [Matematik Muhendisligi](meta_muhendislik/matematik_muhendisligi) | [Mekatronik Muhendisligi](meta_muhendislik/mekatronik_muhendisligi) | [Metalurji Ve Malzeme Muhendisligi](meta_muhendislik/metalurji_ve_malzeme_muhendisligi) |
-| [Nanoteknoloji Muhendisligi](meta_muhendislik/nanoteknoloji_muhendisligi) | [Nukleer Enerji Muhendisligi](meta_muhendislik/nukleer_enerji_muhendisligi) | [Orman Muhendisligi](meta_muhendislik/orman_muhendisligi) |
-| [Otomotiv Muhendisligi](meta_muhendislik/otomotiv_muhendisligi) | [Siber Guvenlik Muhendisligi](meta_muhendislik/siber_guvenlik_muhendisligi) | [Su Urunleri Muhendisligi](meta_muhendislik/su_urunleri_muhendisligi) |
-| [Tarim Makineleri Ve Teknolojileri Muhendisligi](meta_muhendislik/tarim_makineleri_ve_teknolojileri_muhendisligi) | [Tekstil Muhendisligi](meta_muhendislik/tekstil_muhendisligi) | [Tekstil Teknolojisi Muhendisligi](meta_muhendislik/tekstil_teknolojisi_muhendisligi) |
-| [Ucak Muhendisligi](meta_muhendislik/ucak_muhendisligi) | [Yapay Zeka Ve Veri Muhendisligi](meta_muhendislik/yapay_zeka_ve_veri_muhendisligi) | [Yazilim Muhendisligi](meta_muhendislik/yazilim_muhendisligi) |
-| [Ziraat Muhendisligi](meta_muhendislik/ziraat_muhendisligi) |  |  |
+| [Astronomi Ve Uzay Bilimleri](temel_bilimler/astronomi_ve_uzay_bilimleri) | [Biyoistatistik](temel_bilimler/biyoistatistik) | [Biyoloji](temel_bilimler/biyoloji) |
+| [Fizik](temel_bilimler/fizik) | [Istatistik](temel_bilimler/istatistik) | [Jeoloji](temel_bilimler/jeoloji) |
+| [Kimya](temel_bilimler/kimya) | [Matematik](temel_bilimler/matematik) |  |
 
 ---
 
-## 🎓 ÖĞRETMENLİK — Tüm Öğretmenlik Programları
+## 🏥 SAĞLIK BİLİMLERİ
 
-[`ogretmenlik/`](ogretmenlik/) altında **13 öğretmenlik programı**:
+[`saglik/`](saglik/) altında **21 bölüm**:
+
+| Bölüm | Bölüm | Bölüm |
+|:---|:---|:---|
+| [Acil Yardim Ve Afet Yonetimi](saglik/acil_yardim_ve_afet_yonetimi) | [Ameliyathane Hizmetleri](saglik/ameliyathane_hizmetleri) | [Anestezi Ve Reanimasyon](saglik/anestezi_ve_reanimasyon) |
+| [Beslenme Ve Diyetetik](saglik/beslenme_ve_diyetetik) | [Cocuk Gelisimi](saglik/cocuk_gelisimi) | [Dil Ve Konusma Terapisi](saglik/dil_ve_konusma_terapisi) |
+| [Dis Hekimligi](saglik/dis_hekimligi) | [Ebelik](saglik/ebelik) | [Eczacilik](saglik/eczacilik) |
+| [Ergoterapi](saglik/ergoterapi) | [Fizyoterapi Ve Rehabilitasyon](saglik/fizyoterapi_ve_rehabilitasyon) | [Gerontoloji](saglik/gerontoloji) |
+| [Hemsirelik](saglik/hemsirelik) | [Molekuler Biyoloji Ve Genetik](saglik/molekuler_biyoloji_ve_genetik) | [Odyoloji](saglik/odyoloji) |
+| [Ozurluluk Calismalari](saglik/ozurluluk_calismalari) | [Saglik Yonetimi](saglik/saglik_yonetimi) | [Tibbi Goruntuleme Teknikleri](saglik/tibbi_goruntuleme_teknikleri) |
+| [Tibbi Laboratuvar Teknikleri](saglik/tibbi_laboratuvar_teknikleri) | [Tip](saglik/tip) | [Veterinerlik](saglik/veterinerlik) |
+
+---
+
+## 👥 SOSYAL ve BEŞERİ BİLİMLER
+
+[`sosyal_ve_beseri_bilimler/`](sosyal_ve_beseri_bilimler/) altında **32 bölüm**:
+
+| Bölüm | Bölüm | Bölüm |
+|:---|:---|:---|
+| [Antrenorluk Egitimi](sosyal_ve_beseri_bilimler/antrenorluk_egitimi) | [Antropoloji](sosyal_ve_beseri_bilimler/antropoloji) | [Arkeoloji](sosyal_ve_beseri_bilimler/arkeoloji) |
+| [Beden Egitimi Ve Spor Bilimleri](sosyal_ve_beseri_bilimler/beden_egitimi_ve_spor_bilimleri) | [Calisma Ekonomisi Ve Endustri Iliskileri](sosyal_ve_beseri_bilimler/calisma_ekonomisi_ve_endustri_iliskileri) | [Cografya](sosyal_ve_beseri_bilimler/cografya) |
+| [Dilbilim](sosyal_ve_beseri_bilimler/dilbilim) | [Dis Ticaret](sosyal_ve_beseri_bilimler/dis_ticaret) | [Ekonometri](sosyal_ve_beseri_bilimler/ekonometri) |
+| [Ekonomi](sosyal_ve_beseri_bilimler/ekonomi) | [Enerji Yonetimi](sosyal_ve_beseri_bilimler/enerji_yonetimi) | [Felsefe](sosyal_ve_beseri_bilimler/felsefe) |
+| [Girisimcilik](sosyal_ve_beseri_bilimler/girisimcilik) | [Havacilik Yonetimi](sosyal_ve_beseri_bilimler/havacilik_yonetimi) | [Iktisat](sosyal_ve_beseri_bilimler/iktisat) |
+| [Insan Kaynaklari Yonetimi](sosyal_ve_beseri_bilimler/insan_kaynaklari_yonetimi) | [Isletme](sosyal_ve_beseri_bilimler/isletme) | [Lojistik Yonetimi](sosyal_ve_beseri_bilimler/lojistik_yonetimi) |
+| [Maliye](sosyal_ve_beseri_bilimler/maliye) | [Muhasebe Ve Finans Yonetimi](sosyal_ve_beseri_bilimler/muhasebe_ve_finans_yonetimi) | [Psikoloji](sosyal_ve_beseri_bilimler/psikoloji) |
+| [Rekreasyon](sosyal_ve_beseri_bilimler/rekreasyon) | [Sanat Tarihi](sosyal_ve_beseri_bilimler/sanat_tarihi) | [Sigortacilik Ve Risk Yonetimi](sosyal_ve_beseri_bilimler/sigortacilik_ve_risk_yonetimi) |
+| [Siyaset Bilimi Ve Kamu Yonetimi](sosyal_ve_beseri_bilimler/siyaset_bilimi_ve_kamu_yonetimi) | [Sosyal Hizmet](sosyal_ve_beseri_bilimler/sosyal_hizmet) | [Sosyoloji](sosyal_ve_beseri_bilimler/sosyoloji) |
+| [Spor Yoneticiligi](sosyal_ve_beseri_bilimler/spor_yoneticiligi) | [Tarih](sosyal_ve_beseri_bilimler/tarih) | [Uluslararasi Iliskiler](sosyal_ve_beseri_bilimler/uluslararasi_iliskiler) |
+| [Uluslararasi Ticaret Ve Lojistik](sosyal_ve_beseri_bilimler/uluslararasi_ticaret_ve_lojistik) | [Yonetim Bilisim Sistemleri](sosyal_ve_beseri_bilimler/yonetim_bilisim_sistemleri) |  |
+
+---
+
+## 🎓 ÖĞRETMENLİK
+
+[`ogretmenlik/`](ogretmenlik/) altında **13 bölüm**:
 
 | Bölüm | Bölüm | Bölüm |
 |:---|:---|:---|
@@ -146,48 +107,28 @@ Yapay zeka çağında, sadece bir "alan uzmanı" olmak yetersizdir. Gelecek, mü
 
 ## 🏛️ DİĞER BÖLÜMLER
 
-Mühendislik ve öğretmenlik dışındaki tüm bölümler (alfabetik):
+Yukarıdaki gruplara girmeyen bölümler:
 
 | Bölüm | Bölüm | Bölüm |
 |:---|:---|:---|
-| [Acil Yardim Ve Afet Yonetimi](acil_yardim_ve_afet_yonetimi) | [Alman Dili Ve Edebiyati](alman_dili_ve_edebiyati) | [Ameliyathane Hizmetleri](ameliyathane_hizmetleri) |
-| [Anestezi Ve Reanimasyon](anestezi_ve_reanimasyon) | [Antrenorluk Egitimi](antrenorluk_egitimi) | [Antropoloji](antropoloji) |
-| [Arap Dili Ve Edebiyati](arap_dili_ve_edebiyati) | [Arkeoloji](arkeoloji) | [Astronomi Ve Uzay Bilimleri](astronomi_ve_uzay_bilimleri) |
-| [Beden Egitimi Ve Spor Bilimleri](beden_egitimi_ve_spor_bilimleri) | [Beslenme Ve Diyetetik](beslenme_ve_diyetetik) | [Bilgisayar Ve Ogretim Teknolojileri Egitimi](bilgisayar_ve_ogretim_teknolojileri_egitimi) |
-| [Biyoistatistik](biyoistatistik) | [Biyoloji](biyoloji) | [Calisma Ekonomisi Ve Endustri Iliskileri](calisma_ekonomisi_ve_endustri_iliskileri) |
-| [Cizgi Film Ve Animasyon](cizgi_film_ve_animasyon) | [Cocuk Gelisimi](cocuk_gelisimi) | [Cografya](cografya) |
-| [Dil Ve Konusma Terapisi](dil_ve_konusma_terapisi) | [Dilbilim](dilbilim) | [Dis Hekimligi](dis_hekimligi) |
-| [Dis Ticaret](dis_ticaret) | [Ebelik](ebelik) | [Eczacilik](eczacilik) |
-| [Ekonometri](ekonometri) | [Ekonomi](ekonomi) | [Endustriyel Tasarim](endustriyel_tasarim) |
-| [Enerji Yonetimi](enerji_yonetimi) | [Ergoterapi](ergoterapi) | [Felsefe](felsefe) |
-| [Fizik](fizik) | [Fizyoterapi Ve Rehabilitasyon](fizyoterapi_ve_rehabilitasyon) | [Fransiz Dili Ve Edebiyati](fransiz_dili_ve_edebiyati) |
-| [Gastronomi Ve Mutfak Sanatlari](gastronomi_ve_mutfak_sanatlari) | [Gazetecilik](gazetecilik) | [Gerontoloji](gerontoloji) |
-| [Girisimcilik](girisimcilik) | [Gorsel Iletisim Tasarimi](gorsel_iletisim_tasarimi) | [Grafik Tasarimi](grafik_tasarimi) |
-| [Halkla Iliskiler Ve Reklamcilik](halkla_iliskiler_ve_reklamcilik) | [Havacilik Yonetimi](havacilik_yonetimi) | [Hemsirelik](hemsirelik) |
-| [Hukuk](hukuk) | [Ic Mimarlik Ve Cevre Tasarimi](ic_mimarlik_ve_cevre_tasarimi) | [Iktisat](iktisat) |
-| [Ilahiyat](ilahiyat) | [Ingiliz Dili Ve Edebiyati](ingiliz_dili_ve_edebiyati) | [Insan Kaynaklari Yonetimi](insan_kaynaklari_yonetimi) |
-| [Isletme](isletme) | [Istatistik](istatistik) | [Jeoloji](jeoloji) |
-| [Kimya](kimya) | [Konaklama Isletmeciligi](konaklama_isletmeciligi) | [Kultur Varliklarini Koruma Ve Onarim](kultur_varliklarini_koruma_ve_onarim) |
-| [Kuyumculuk Ve Mucevher Tasarimi](kuyumculuk_ve_mucevher_tasarimi) | [Lojistik Yonetimi](lojistik_yonetimi) | [Maliye](maliye) |
-| [Matematik](matematik) | [Mimarlik](mimarlik) | [Molekuler Biyoloji Ve Genetik](molekuler_biyoloji_ve_genetik) |
-| [Muhasebe Ve Finans Yonetimi](muhasebe_ve_finans_yonetimi) | [Mutercim Ve Tercumanlik](mutercim_ve_tercumanlik) | [Muzik](muzik) |
-| [Odyoloji](odyoloji) | [Ozurluluk Calismalari](ozurluluk_calismalari) | [Peyzaj Mimarligi](peyzaj_mimarligi) |
-| [Psikoloji](psikoloji) | [Radyo Televizyon Ve Sinema](radyo_televizyon_ve_sinema) | [Rehberlik Ve Psikolojik Danismanlik](rehberlik_ve_psikolojik_danismanlik) |
-| [Rekreasyon](rekreasyon) | [Rus Dili Ve Edebiyati](rus_dili_ve_edebiyati) | [Saglik Yonetimi](saglik_yonetimi) |
-| [Sanat Tarihi](sanat_tarihi) | [Sehir Ve Bolge Planlama](sehir_ve_bolge_planlama) | [Seramik Ve Cam Tasarimi](seramik_ve_cam_tasarimi) |
-| [Sigortacilik Ve Risk Yonetimi](sigortacilik_ve_risk_yonetimi) | [Siyaset Bilimi Ve Kamu Yonetimi](siyaset_bilimi_ve_kamu_yonetimi) | [Sosyal Hizmet](sosyal_hizmet) |
-| [Sosyoloji](sosyoloji) | [Spor Yoneticiligi](spor_yoneticiligi) | [Tarih](tarih) |
-| [Tekstil Ve Moda Tasarimi](tekstil_ve_moda_tasarimi) | [Tibbi Goruntuleme Teknikleri](tibbi_goruntuleme_teknikleri) | [Tibbi Laboratuvar Teknikleri](tibbi_laboratuvar_teknikleri) |
-| [Tip](tip) | [Tiyatro Oyunculuk](tiyatro_oyunculuk) | [Turizm Isletmeciligi](turizm_isletmeciligi) |
-| [Turizm Rehberligi](turizm_rehberligi) | [Turk Dili Ve Edebiyati](turk_dili_ve_edebiyati) | [Uluslararasi Iliskiler](uluslararasi_iliskiler) |
-| [Uluslararasi Ticaret Ve Lojistik](uluslararasi_ticaret_ve_lojistik) | [Veterinerlik](veterinerlik) | [Yeni Medya Ve Iletisim](yeni_medya_ve_iletisim) |
-| [Yiyecek Icecek Isletmeciligi](yiyecek_icecek_isletmeciligi) | [Yonetim Bilisim Sistemleri](yonetim_bilisim_sistemleri) |  |
+| [Alman Dili Ve Edebiyati](alman_dili_ve_edebiyati) | [Arap Dili Ve Edebiyati](arap_dili_ve_edebiyati) | [Bilgisayar Ve Ogretim Teknolojileri Egitimi](bilgisayar_ve_ogretim_teknolojileri_egitimi) |
+| [Cizgi Film Ve Animasyon](cizgi_film_ve_animasyon) | [Endustriyel Tasarim](endustriyel_tasarim) | [Fransiz Dili Ve Edebiyati](fransiz_dili_ve_edebiyati) |
+| [Gastronomi Ve Mutfak Sanatlari](gastronomi_ve_mutfak_sanatlari) | [Gazetecilik](gazetecilik) | [Gorsel Iletisim Tasarimi](gorsel_iletisim_tasarimi) |
+| [Grafik Tasarimi](grafik_tasarimi) | [Halkla Iliskiler Ve Reklamcilik](halkla_iliskiler_ve_reklamcilik) | [Hukuk](hukuk) |
+| [Ic Mimarlik Ve Cevre Tasarimi](ic_mimarlik_ve_cevre_tasarimi) | [Ilahiyat](ilahiyat) | [Ingiliz Dili Ve Edebiyati](ingiliz_dili_ve_edebiyati) |
+| [Konaklama Isletmeciligi](konaklama_isletmeciligi) | [Kultur Varliklarini Koruma Ve Onarim](kultur_varliklarini_koruma_ve_onarim) | [Kuyumculuk Ve Mucevher Tasarimi](kuyumculuk_ve_mucevher_tasarimi) |
+| [Mimarlik](mimarlik) | [Mutercim Ve Tercumanlik](mutercim_ve_tercumanlik) | [Muzik](muzik) |
+| [Peyzaj Mimarligi](peyzaj_mimarligi) | [Radyo Televizyon Ve Sinema](radyo_televizyon_ve_sinema) | [Rehberlik Ve Psikolojik Danismanlik](rehberlik_ve_psikolojik_danismanlik) |
+| [Rus Dili Ve Edebiyati](rus_dili_ve_edebiyati) | [Sehir Ve Bolge Planlama](sehir_ve_bolge_planlama) | [Seramik Ve Cam Tasarimi](seramik_ve_cam_tasarimi) |
+| [Tekstil Ve Moda Tasarimi](tekstil_ve_moda_tasarimi) | [Tiyatro Oyunculuk](tiyatro_oyunculuk) | [Turizm Isletmeciligi](turizm_isletmeciligi) |
+| [Turizm Rehberligi](turizm_rehberligi) | [Turk Dili Ve Edebiyati](turk_dili_ve_edebiyati) | [Yeni Medya Ve Iletisim](yeni_medya_ve_iletisim) |
+| [Yiyecek Icecek Isletmeciligi](yiyecek_icecek_isletmeciligi) |  |  |
 
 ---
 
-## 🔍 ÖZEL ARAŞTIRMA VE İLERİ UZMANLIK ALANLARI
+## 🔍 ÖZEL ARAŞTIRMA ve İLERİ UZMANLIK ALANLARI
 
-Lisans bölümü formatında olmayan; araştırma ve lisansüstü odak alanları:
+Lisans bölümü formatında olmayan araştırma ve lisansüstü odak alanları:
 
 | Bölüm | Bölüm | Bölüm |
 |:---|:---|:---|

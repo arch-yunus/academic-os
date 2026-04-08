@@ -2,41 +2,17 @@ import os
 
 root_dir = r"g:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\github repolarım\\engineering-courses"
 
-IGNORED = {'.git', '.github', '.vs', 'assets', 'genel', 'scripts', 'templates',
-           'ozel_arastirma_alanlari', 'meta_muhendislik', 'ogretmenlik'}
+SPECIAL_GROUPS = {
+    'meta_muhendislik', 'ogretmenlik', 'saglik',
+    'temel_bilimler', 'sosyal_ve_beseri_bilimler',
+    'ozel_arastirma_alanlari'
+}
+IGNORED = {'.git', '.github', '.vs', 'assets', 'genel', 'scripts', 'templates'} | SPECIAL_GROUPS
 
-# 1. Standard departments
-all_dirs = sorted([
-    d for d in os.listdir(root_dir)
-    if os.path.isdir(os.path.join(root_dir, d)) and d not in IGNORED
-])
-
-# 2. Engineering
-eng_path = os.path.join(root_dir, 'meta_muhendislik')
-eng_dirs = sorted([d for d in os.listdir(eng_path)
-    if os.path.isdir(os.path.join(eng_path, d))]) if os.path.exists(eng_path) else []
-
-# 3. Teaching
-teach_path = os.path.join(root_dir, 'ogretmenlik')
-teach_dirs = sorted([d for d in os.listdir(teach_path)
-    if os.path.isdir(os.path.join(teach_path, d))]) if os.path.exists(teach_path) else []
-
-# 4. Special research
-special_path = os.path.join(root_dir, 'ozel_arastirma_alanlari')
-special_dirs = sorted([d for d in os.listdir(special_path)
-    if os.path.isdir(os.path.join(special_path, d))]) if os.path.exists(special_path) else []
-
-# Read README
-readme_path = os.path.join(root_dir, 'readme.md')
-with open(readme_path, 'r', encoding='utf-8') as f:
-    readme_lines = f.readlines()
-
-start_idx = end_idx = -1
-for i, line in enumerate(readme_lines):
-    if line.startswith('## ⚙️ META MÜHENDİSLİK') or line.startswith('## 🎓 BÖLÜMLER') or line.startswith('## 🎓 DİĞER'):
-        start_idx = i
-    if line.startswith('## 🧬 Mültidisipliner Sinerji Matrisi'):
-        end_idx = i
+def get_subdirs(path):
+    if not os.path.exists(path):
+        return []
+    return sorted([d for d in os.listdir(path) if os.path.isdir(os.path.join(path, d))])
 
 def make_table(items, link_prefix=''):
     rows = []
@@ -57,34 +33,65 @@ def make_table(items, link_prefix=''):
         rows.append(f"| {row[0]} | {row[1]} | {row[2]} |\n")
     return rows
 
+# Collect dirs
+eng_dirs     = get_subdirs(os.path.join(root_dir, 'meta_muhendislik'))
+teach_dirs   = get_subdirs(os.path.join(root_dir, 'ogretmenlik'))
+saglik_dirs  = get_subdirs(os.path.join(root_dir, 'saglik'))
+temel_dirs   = get_subdirs(os.path.join(root_dir, 'temel_bilimler'))
+sosyal_dirs  = get_subdirs(os.path.join(root_dir, 'sosyal_ve_beseri_bilimler'))
+special_dirs = get_subdirs(os.path.join(root_dir, 'ozel_arastirma_alanlari'))
+other_dirs   = sorted([d for d in os.listdir(root_dir)
+                       if os.path.isdir(os.path.join(root_dir, d)) and d not in IGNORED])
+
+# Read README
+readme_path = os.path.join(root_dir, 'readme.md')
+with open(readme_path, 'r', encoding='utf-8') as f:
+    readme_lines = f.readlines()
+
+start_idx = end_idx = -1
+for i, line in enumerate(readme_lines):
+    s = line.strip()
+    if s.startswith('## ⚙️') or s.startswith('## 🎓') or s.startswith('## 🏛️') or s.startswith('## 🔬') or s.startswith('## 🏥') or s.startswith('## 👥'):
+        if start_idx == -1:
+            start_idx = i
+    if s.startswith('## 🧬 Mültidisipliner'):
+        end_idx = i
+
 if start_idx != -1 and end_idx != -1:
     header = readme_lines[:start_idx]
     footer = readme_lines[end_idx:]
-    middle = []
+    m = []
 
-    middle.append("## ⚙️ META MÜHENDİSLİK — Tüm Mühendislik Bölümleri\n\n")
-    middle.append(f"[`meta_muhendislik/`](meta_muhendislik/) altında **{len(eng_dirs)} mühendislik bölümü**:\n\n")
-    middle += make_table(eng_dirs, 'meta_muhendislik')
-    middle.append("\n---\n\n")
+    sections = [
+        ("⚙️", "META MÜHENDİSLİK", "meta_muhendislik", eng_dirs),
+        ("🔬", "TEMEL BİLİMLER", "temel_bilimler", temel_dirs),
+        ("🏥", "SAĞLIK BİLİMLERİ", "saglik", saglik_dirs),
+        ("👥", "SOSYAL ve BEŞERİ BİLİMLER", "sosyal_ve_beseri_bilimler", sosyal_dirs),
+        ("🎓", "ÖĞRETMENLİK", "ogretmenlik", teach_dirs),
+    ]
 
-    middle.append("## 🎓 ÖĞRETMENLİK — Tüm Öğretmenlik Programları\n\n")
-    middle.append(f"[`ogretmenlik/`](ogretmenlik/) altında **{len(teach_dirs)} öğretmenlik programı**:\n\n")
-    middle += make_table(teach_dirs, 'ogretmenlik')
-    middle.append("\n---\n\n")
+    for emoji, title, folder, dirs in sections:
+        m.append(f"## {emoji} {title}\n\n")
+        m.append(f"[`{folder}/`]({folder}/) altında **{len(dirs)} bölüm**:\n\n")
+        m += make_table(dirs, folder)
+        m.append("\n---\n\n")
 
-    middle.append("## 🏛️ DİĞER BÖLÜMLER\n\n")
-    middle.append("Mühendislik ve öğretmenlik dışındaki tüm bölümler (alfabetik):\n\n")
-    middle += make_table(all_dirs)
-    middle.append("\n---\n\n")
+    if other_dirs:
+        m.append("## 🏛️ DİĞER BÖLÜMLER\n\n")
+        m.append("Yukarıdaki gruplara girmeyen bölümler:\n\n")
+        m += make_table(other_dirs)
+        m.append("\n---\n\n")
 
-    middle.append("## 🔍 ÖZEL ARAŞTIRMA VE İLERİ UZMANLIK ALANLARI\n\n")
-    middle.append("Lisans bölümü formatında olmayan; araştırma ve lisansüstü odak alanları:\n\n")
-    middle += make_table(special_dirs, 'ozel_arastirma_alanlari')
-    middle.append("\n---\n\n")
+    m.append("## 🔍 ÖZEL ARAŞTIRMA ve İLERİ UZMANLIK ALANLARI\n\n")
+    m.append("Lisans bölümü formatında olmayan araştırma ve lisansüstü odak alanları:\n\n")
+    m += make_table(special_dirs, 'ozel_arastirma_alanlari')
+    m.append("\n---\n\n")
 
-    new_readme = header + middle + footer
     with open(readme_path, 'w', encoding='utf-8') as f:
-        f.writelines(new_readme)
-    print(f"README updated — Mühendislik: {len(eng_dirs)}, Öğretmenlik: {len(teach_dirs)}, Diğer: {len(all_dirs)}, Özel: {len(special_dirs)}")
+        f.writelines(header + m + footer)
+
+    print(f"README updated:")
+    print(f"  Mühendislik: {len(eng_dirs)}, Temel: {len(temel_dirs)}, Sağlık: {len(saglik_dirs)}")
+    print(f"  Sosyal: {len(sosyal_dirs)}, Öğretmenlik: {len(teach_dirs)}, Diğer: {len(other_dirs)}, Özel: {len(special_dirs)}")
 else:
     print("Section markers not found.")
