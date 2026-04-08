@@ -9,21 +9,25 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Adli Bilisim Muhendisligi | [adli_bilisim_muhendisligi](adli_bilisim_muhendisligi/) |
 | Antrenorluk Egitimi | [antrenorluk_egitimi](antrenorluk_egitimi/) |
 | Antropoloji | [antropoloji](antropoloji/) |
+| Arkeoloji | [arkeoloji](arkeoloji/) |
 | Astronomi Ve Uzay Bilimleri | [astronomi_ve_uzay_bilimleri](astronomi_ve_uzay_bilimleri/) |
 | Beden Egitimi Ve Spor Ogretmenligi | [beden_egitimi_ve_spor_ogretmenligi](beden_egitimi_ve_spor_ogretmenligi/) |
 | Beslenme Ve Diyetetik | [beslenme_ve_diyetetik](beslenme_ve_diyetetik/) |
-| Bilgisayar Mühendisligi | [bilgisayar_mühendisligi](bilgisayar_mühendisligi/) |
+| Bilgisayar Muhendisligi | [bilgisayar_muhendisligi](bilgisayar_muhendisligi/) |
 | Bilgisayar Ve Ogretim Teknolojileri Egitimi | [bilgisayar_ve_ogretim_teknolojileri_egitimi](bilgisayar_ve_ogretim_teknolojileri_egitimi/) |
 | Bilisim Sistemleri Muhendisligi | [bilisim_sistemleri_muhendisligi](bilisim_sistemleri_muhendisligi/) |
 | Biyoloji | [biyoloji](biyoloji/) |
-| Biyomedikal Mühendisligi | [biyomedikal_mühendisligi](biyomedikal_mühendisligi/) |
+| Biyomedikal Muhendisligi | [biyomedikal_muhendisligi](biyomedikal_muhendisligi/) |
 | Biyosistem Muhendisligi | [biyosistem_muhendisligi](biyosistem_muhendisligi/) |
+| Calisma Ekonomisi Ve Endustri Iliskileri | [calisma_ekonomisi_ve_endustri_iliskileri](calisma_ekonomisi_ve_endustri_iliskileri/) |
 | Cevre Muhendisligi | [cevre_muhendisligi](cevre_muhendisligi/) |
 | Cografya | [cografya](cografya/) |
 | Dilbilim | [dilbilim](dilbilim/) |
 | Din Kulturu Ve Ahlak Bilgisi Ogretmenligi | [din_kulturu_ve_ahlak_bilgisi_ogretmenligi](din_kulturu_ve_ahlak_bilgisi_ogretmenligi/) |
 | Dis Hekimligi | [dis_hekimligi](dis_hekimligi/) |
+| Ebelik | [ebelik](ebelik/) |
 | Eczacilik | [eczacilik](eczacilik/) |
+| Ekonometri | [ekonometri](ekonometri/) |
 | Ekonomi | [ekonomi](ekonomi/) |
 | Elektrik Elektronik Muhendisligi | [elektrik_elektronik_muhendisligi](elektrik_elektronik_muhendisligi/) |
 | Elektronik Ve Haberlesme Muhendisligi | [elektronik_ve_haberlesme_muhendisligi](elektronik_ve_haberlesme_muhendisligi/) |
@@ -33,9 +37,11 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Felsefe | [felsefe](felsefe/) |
 | Fen Bilgisi Ogretmenligi | [fen_bilgisi_ogretmenligi](fen_bilgisi_ogretmenligi/) |
 | Fizik | [fizik](fizik/) |
+| Fizik Muhendisligi | [fizik_muhendisligi](fizik_muhendisligi/) |
 | Fizyoterapi Ve Rehabilitasyon | [fizyoterapi_ve_rehabilitasyon](fizyoterapi_ve_rehabilitasyon/) |
 | Gastronomi Ve Mutfak Sanatlari | [gastronomi_ve_mutfak_sanatlari](gastronomi_ve_mutfak_sanatlari/) |
 | Gazetecilik | [gazetecilik](gazetecilik/) |
+| Gemi Insaati Ve Gemi Makineleri Muhendisligi | [gemi_insaati_ve_gemi_makineleri_muhendisligi](gemi_insaati_ve_gemi_makineleri_muhendisligi/) |
 | Gida Muhendisligi | [gida_muhendisligi](gida_muhendisligi/) |
 | Gorsel Iletisim Tasarimi | [gorsel_iletisim_tasarimi](gorsel_iletisim_tasarimi/) |
 | Halkla Iliskiler Ve Reklamcilik | [halkla_iliskiler_ve_reklamcilik](halkla_iliskiler_ve_reklamcilik/) |
@@ -48,9 +54,12 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Ilahiyat | [ilahiyat](ilahiyat/) |
 | Ilkogretim Matematik Ogretmenligi | [ilkogretim_matematik_ogretmenligi](ilkogretim_matematik_ogretmenligi/) |
 | Imalat Muhendisligi | [imalat_muhendisligi](imalat_muhendisligi/) |
+| Ingiliz Dili Ve Edebiyati | [ingiliz_dili_ve_edebiyati](ingiliz_dili_ve_edebiyati/) |
+| Ingilizce Ogretmenligi | [ingilizce_ogretmenligi](ingilizce_ogretmenligi/) |
 | Insaat Muhendisligi | [insaat_muhendisligi](insaat_muhendisligi/) |
+| Isletme | [isletme](isletme/) |
+| Isletme Muhendisligi | [isletme_muhendisligi](isletme_muhendisligi/) |
 | Istatistik | [istatistik](istatistik/) |
-| Işletme | [işletme](işletme/) |
 | Jeoloji Muhendisligi | [jeoloji_muhendisligi](jeoloji_muhendisligi/) |
 | Kimya | [kimya](kimya/) |
 | Kimya Muhendisligi | [kimya_muhendisligi](kimya_muhendisligi/) |
@@ -61,20 +70,28 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Makine Muhendisligi | [makine_muhendisligi](makine_muhendisligi/) |
 | Maliye | [maliye](maliye/) |
 | Matematik | [matematik](matematik/) |
+| Matematik Muhendisligi | [matematik_muhendisligi](matematik_muhendisligi/) |
 | Mekatronik Muhendisligi | [mekatronik_muhendisligi](mekatronik_muhendisligi/) |
 | Metalurji Ve Malzeme Muhendisligi | [metalurji_ve_malzeme_muhendisligi](metalurji_ve_malzeme_muhendisligi/) |
 | Mimarlik | [mimarlik](mimarlik/) |
 | Moda Ve Tekstil Tasarimi | [moda_ve_tekstil_tasarimi](moda_ve_tekstil_tasarimi/) |
 | Molekuler Biyoloji Ve Genetik | [molekuler_biyoloji_ve_genetik](molekuler_biyoloji_ve_genetik/) |
+| Mutercim Ve Tercumanlik | [mutercim_ve_tercumanlik](mutercim_ve_tercumanlik/) |
 | Muzik | [muzik](muzik/) |
 | Nanoteknoloji Muhendisligi | [nanoteknoloji_muhendisligi](nanoteknoloji_muhendisligi/) |
+| Nukleer Enerji Muhendisligi | [nukleer_enerji_muhendisligi](nukleer_enerji_muhendisligi/) |
+| Odyoloji | [odyoloji](odyoloji/) |
+| Okul Oncesi Ogretmenligi | [okul_oncesi_ogretmenligi](okul_oncesi_ogretmenligi/) |
 | Orman Muhendisligi | [orman_muhendisligi](orman_muhendisligi/) |
+| Otomotiv Muhendisligi | [otomotiv_muhendisligi](otomotiv_muhendisligi/) |
+| Ozel Egitim Ogretmenligi | [ozel_egitim_ogretmenligi](ozel_egitim_ogretmenligi/) |
 | Peyzaj Mimarligi | [peyzaj_mimarligi](peyzaj_mimarligi/) |
 | Psikoloji | [psikoloji](psikoloji/) |
 | Radyo Televizyon Ve Sinema | [radyo_televizyon_ve_sinema](radyo_televizyon_ve_sinema/) |
 | Rehberlik Ve Psikolojik Danismanlik | [rehberlik_ve_psikolojik_danismanlik](rehberlik_ve_psikolojik_danismanlik/) |
 | Rekreasyon | [rekreasyon](rekreasyon/) |
 | Saglik Yonetimi | [saglik_yonetimi](saglik_yonetimi/) |
+| Sanat Tarihi | [sanat_tarihi](sanat_tarihi/) |
 | Sehir Ve Bolge Planlama | [sehir_ve_bolge_planlama](sehir_ve_bolge_planlama/) |
 | Sinif Ogretmenligi | [sinif_ogretmenligi](sinif_ogretmenligi/) |
 | Siyaset Bilimi Ve Kamu Yonetimi | [siyaset_bilimi_ve_kamu_yonetimi](siyaset_bilimi_ve_kamu_yonetimi/) |
@@ -85,10 +102,14 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Tekstil Muhendisligi | [tekstil_muhendisligi](tekstil_muhendisligi/) |
 | Tip | [tip](tip/) |
 | Turizm Isletmeciligi | [turizm_isletmeciligi](turizm_isletmeciligi/) |
+| Turk Dili Ve Edebiyati | [turk_dili_ve_edebiyati](turk_dili_ve_edebiyati/) |
+| Ucak Muhendisligi | [ucak_muhendisligi](ucak_muhendisligi/) |
 | Uluslararasi Iliskiler | [uluslararasi_iliskiler](uluslararasi_iliskiler/) |
+| Veterinerlik | [veterinerlik](veterinerlik/) |
 | Yapay Zeka Ve Veri Muhendisligi | [yapay_zeka_ve_veri_muhendisligi](yapay_zeka_ve_veri_muhendisligi/) |
 | Yazilim Muhendisligi | [yazilim_muhendisligi](yazilim_muhendisligi/) |
 | Yeni Medya Ve Iletisim | [yeni_medya_ve_iletisim](yeni_medya_ve_iletisim/) |
+| Yonetim Bilisim Sistemleri | [yonetim_bilisim_sistemleri](yonetim_bilisim_sistemleri/) |
 | Ziraat Muhendisligi | [ziraat_muhendisligi](ziraat_muhendisligi/) |
 
 ## Özel Araştırma Alanları
@@ -97,9 +118,9 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 |-----------|-----|
 | 3D Print Ai | [3d_print_ai](ozel_arastirma_alanlari/3d_print_ai/) |
 | Akustik Muhendisligi | [akustik_muhendisligi](ozel_arastirma_alanlari/akustik_muhendisligi/) |
-| Artırılmıs Gerceklik Muhendisligi | [artırılmıs_gerceklik_muhendisligi](ozel_arastirma_alanlari/artırılmıs_gerceklik_muhendisligi/) |
+| Artirilmis Gerceklik Muhendisligi | [artirilmis_gerceklik_muhendisligi](ozel_arastirma_alanlari/artirilmis_gerceklik_muhendisligi/) |
 | Bci | [bci](ozel_arastirma_alanlari/bci/) |
-| Biyoteknik Nanotıp | [biyoteknik_nanotıp](ozel_arastirma_alanlari/biyoteknik_nanotıp/) |
+| Biyoteknik Nanotip | [biyoteknik_nanotip](ozel_arastirma_alanlari/biyoteknik_nanotip/) |
 | Contex Engineering | [contex_engineering](ozel_arastirma_alanlari/contex_engineering/) |
 | Egitim Yonetimi | [egitim_yonetimi](ozel_arastirma_alanlari/egitim_yonetimi/) |
 | Finans Muhendisligi | [finans_muhendisligi](ozel_arastirma_alanlari/finans_muhendisligi/) |
@@ -108,8 +129,8 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur.
 | Hukuk Ve Ai Etigi | [hukuk_ve_ai_etigi](ozel_arastirma_alanlari/hukuk_ve_ai_etigi/) |
 | Kuantum Muhendisligi | [kuantum_muhendisligi](ozel_arastirma_alanlari/kuantum_muhendisligi/) |
 | Metaverse | [metaverse](ozel_arastirma_alanlari/metaverse/) |
-| Mühendislik Ortak | [mühendislik_ortak](ozel_arastirma_alanlari/mühendislik_ortak/) |
+| Muhendislik Ortak | [muhendislik_ortak](ozel_arastirma_alanlari/muhendislik_ortak/) |
 | Nanoteknoloji Ai | [nanoteknoloji_ai](ozel_arastirma_alanlari/nanoteknoloji_ai/) |
-| Nöro Muhendisligi | [nöro_muhendisligi](ozel_arastirma_alanlari/nöro_muhendisligi/) |
+| Noro Muhendisligi | [noro_muhendisligi](ozel_arastirma_alanlari/noro_muhendisligi/) |
 | Optik Muhendisligi | [optik_muhendisligi](ozel_arastirma_alanlari/optik_muhendisligi/) |
-| Patlayıcı Muhendisligi | [patlayıcı_muhendisligi](ozel_arastirma_alanlari/patlayıcı_muhendisligi/) |
+| Patlayici Muhendisligi | [patlayici_muhendisligi](ozel_arastirma_alanlari/patlayici_muhendisligi/) |
