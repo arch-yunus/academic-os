@@ -1,27 +1,17 @@
-# Metalurji ve Malzeme Mühendisliği ve Yapay Zeka Devrimi: Süper Malzemeler
+# Metalurji Ve Malzeme Muhendisligi
 
-## Giriş
-Medeniyetlerin adını (Taş Devri, Demir Çağı) veren disiplin olan Malzeme Mühendisliği, AI ile "Bilişim Çağı"nın fiziksel temelini inşa ediyor. Yeni malzemelerin keşfi artık yüzyıllar değil, aylar sürüyor.
-
-## 5 Yıllık Projeksiyon: "Malzeme Genomu ve Dijital Alaşımlar"
-
-1.  **AI Destekli Malzeme Keşfi (Material Informatics):** Deneme-yanılma yöntemleri yerine, veritabanlarındaki milyonlarca kristal yapıyı tarayan AI, süper iletkenler veya ultra hafif alaşımlar için en iyi adayları önerecek.
-2.  **Üretim Kusurlarının Tespiti:** Döküm veya kaynak sırasındaki mikroskobik çatlaklar, termal kameralar ve AI görüntü işleme ile üretim hattında anında yakalanacak.
-3.  **Kendi Kendini Onaran Malzemeler:** Malzeme içindeki mikro kapsüllerin hasar anında nasıl davranacağı, moleküler simülasyonlarla optimize edilecek.
-
-## Sonuç
-Malzeme mühendisi, atomu dizayn eden mimardır. Yapay zeka ise bu mimarın en güçlü hesap makinesidir.
-
+Bu klasör **Metalurji Ve Malzeme Muhendisligi** bölümüne ait akademik notlar, araştırmalar ve dökümanlar içindir.
 
 ---
 
 ## 📂 Çekirdek Ders Ağacı
 Akademik sistem entegrasyonu kapsamında bu bölüm için önerilen ve standartlaştırılmış ders/çalışma klasörleri:
 
-- [01 Temel Bilimler ve Seminerler](01_Temel_Bilimler_ve_Giris/)
-- [02 Alan Dersleri ve Pratik](02_Alan_Dersleri/)
-- [03 Seçmeli, İleri ve Uzmanlık Dersleri](03_Secmeli_ve_Ileri_Uygulama/)
-- [04 Bitirme, Araştırma ve Çapraz Projeler](04_Arastirma_ve_Bitirme/)
+- [00 — Akademik Hazırlık ve Dil](00_Akademik_Hazirlik_ve_Dil/)
+- [01 — Temel Bilimler ve Seminerler](01_Temel_Bilimler_ve_Giris/)
+- [02 — Alan Dersleri ve Pratik](02_Alan_Dersleri/)
+- [03 — Seçmeli, İleri ve Uzmanlık Dersleri](03_Secmeli_ve_Ileri_Uygulama/)
+- [04 — Bitirme, Araştırma ve Çapraz Projeler](04_Arastirma_ve_Bitirme/)
 
 > [!TIP]
 > Yeni bir ders eklerken ana dizindeki `DERS_SABLONU.md` dosyasını kopyalayarak ilgili alt klasörün içine koyabilir ve kolayca kendi not şablonunuzu oluşturabilirsiniz!

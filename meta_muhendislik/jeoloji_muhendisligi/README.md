@@ -1,32 +1,17 @@
-# Jeoloji Mühendisliği ve Yapay Zeka Devrimi: Yerin Altını Görmek
+# Jeoloji Muhendisligi
 
-## Giriş
-Yerkabuğunun gizemlerini çözmek, her zaman zorlu ve pahalı olmuştur. Jeoloji Mühendisliği, AI ile birlikte "tahmin" gücünü artırıyor. Yerin kilometrelerce altını, sondaj yapmadan önce algoritmalarla "görebiliyoruz".
-
-## 5 Yıllık Projeksiyon: "Dijital Jeoloji ve Madencilik"
-
-1.  **Maden Keşfi:** Uydu görüntüleri, jeokimyasal veriler ve jeofizik haritalar, AI tarafından analiz edilerek, insan gözünden kaçan maden yatakları yüksek olasılıkla tespit edilecek.
-2.  **Deprem Tahmini ve Risk Analizi:** Deprem tahmini hala "Kutsal Kase" olsa da, AI, sismik verilerdeki (gürültü içindeki) öncü şokları çok daha iyi algılayarak erken uyarı sistemlerini saniyeler mertebesinde hızlandıracak.
-3.  **Sondaj Optimizasyonu:** Sondaj sırasında karşılaşılan formasyonlar, makine öğrenmesi ile anlık sınıflandırılarak, sondaj parametreleri otomatik ayarlanacak ve maliyetli kazalar önlenecek.
-
-## Teknik Derinlik: Sismik Yorumlama ve İstatistik
-
-*   **Sismik Yorumlama:** Petrolle ilgili sismik kesitlerdeki fay hatları ve rezervuar yapılarının tespiti, aylar süren manuel yorumlama yerine, bilgisayarlı görü (computer vision) ile günlere inecek.
-*   **Heyelan Riski:** Topoğrafya, yağış ve toprak yapısı verileri birleştirilerek, heyelan riski taşıyan yamaçlar AI tarafından sürekli izlenecek.
-
-## Sonuç
-Jeoloji mühendisi, çekicini bırakmıyor ama yanına güçlü bir tablet ve bir veri sunucusu ekliyor. Doğa ile konuşmanın dili artık sadece taşlar değil, aynı zamanda verilerdir.
-
+Bu klasör **Jeoloji Muhendisligi** bölümüne ait akademik notlar, araştırmalar ve dökümanlar içindir.
 
 ---
 
 ## 📂 Çekirdek Ders Ağacı
 Akademik sistem entegrasyonu kapsamında bu bölüm için önerilen ve standartlaştırılmış ders/çalışma klasörleri:
 
-- [01 Temel Bilimler ve Seminerler](01_Temel_Bilimler_ve_Giris/)
-- [02 Alan Dersleri ve Pratik](02_Alan_Dersleri/)
-- [03 Seçmeli, İleri ve Uzmanlık Dersleri](03_Secmeli_ve_Ileri_Uygulama/)
-- [04 Bitirme, Araştırma ve Çapraz Projeler](04_Arastirma_ve_Bitirme/)
+- [00 — Akademik Hazırlık ve Dil](00_Akademik_Hazirlik_ve_Dil/)
+- [01 — Temel Bilimler ve Seminerler](01_Temel_Bilimler_ve_Giris/)
+- [02 — Alan Dersleri ve Pratik](02_Alan_Dersleri/)
+- [03 — Seçmeli, İleri ve Uzmanlık Dersleri](03_Secmeli_ve_Ileri_Uygulama/)
+- [04 — Bitirme, Araştırma ve Çapraz Projeler](04_Arastirma_ve_Bitirme/)
 
 > [!TIP]
 > Yeni bir ders eklerken ana dizindeki `DERS_SABLONU.md` dosyasını kopyalayarak ilgili alt klasörün içine koyabilir ve kolayca kendi not şablonunuzu oluşturabilirsiniz!

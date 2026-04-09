@@ -1,32 +1,17 @@
-# İktisat ve Yapay Zeka Devrimi: Algoritmik Ekonomi
+# Iktisat
 
-## Giriş
-Kıt kaynakların sınırsız ihtiyaçlara dağıtılmasını inceleyen İktisat bilimi, yapay zeka ile "tahmin edilemez" denilen insan davranışlarını ve piyasa hareketlerini modellemede devrimci bir araç kazanmıştır. *Homo Economicus* yerini, veriye dayalı rasyonel kararlar alan *AI-Augmented Economist*'e bırakmaktadır.
-
-## 5 Yıllık Projeksiyon: "Mikro Davranıştan Makro Tahminlere"
-
-1.  **Hiper-kişiselleştirilmiş Fiyatlandırma:** Firmalar, her tüketicinin ödeme istekliliğini (Willingness to Pay) anlık olarak hesaplayan algoritmalarla, herkese farklı fiyat sunabilecek (Bu durum etik tartışmaları da beraberinde getirecektir).
-2.  **Otomatik Piyasa Yapıcılar:** Finansal piyasalarda likidite sağlama ve fiyat belirleme işi, tamamen otonom algoritmalar tarafından yapılacak. Yüksek frekanslı işlemler (HFT), piyasanın standardı haline gelecek.
-3.  **Gerçek Zamanlı Enflasyon Takibi:** Merkez bankaları, anketlerle aylık veri toplamak yerine, kredi kartı harcamaları ve e-ticaret sitelerinden anlık veri çekerek enflasyonu saniyelik takip edecek ve para politikalarına anında müdahale edebilecek.
-
-## Teknik Derinlik: Ekonometri ve Oyun Teorisi
-
-*   **Nedensellik Analizi (Causal Inference):** AI, sadece korelasyonu değil, karmaşık ekonomik olaylar arasındaki nedenselliği (causality) çözmek için kullanılacak. "Faiz neden, enflasyon sonuç mu?" gibi soruları veriye dayalı modellerle daha net yanıtlayabileceğiz.
-*   **Ajan Tabanlı Modelleme (Agent-Based Modeling):** Milyonlarca sanal tüketicinin ve firmanın etkileşimini simüle ederek, vergi politikalarının veya krizlerin piyasaya etkileri, gerçek hayatta denenmeden sanal ortamda test edilecek.
-
-## Sonuç
-İktisatçıların rolü, geçmiş veriyi açıklamaktan, geleceği simüle etmeye evriliyor. Teori kitaplarındaki grafikler, yerini dinamik ve kendini eğiten algoritmalara bırakıyor.
-
+Bu klasör **Iktisat** bölümüne ait akademik notlar, araştırmalar ve dökümanlar içindir.
 
 ---
 
 ## 📂 Çekirdek Ders Ağacı
 Akademik sistem entegrasyonu kapsamında bu bölüm için önerilen ve standartlaştırılmış ders/çalışma klasörleri:
 
-- [01 Temel Bilimler ve Seminerler](01_Temel_Bilimler_ve_Giris/)
-- [02 Alan Dersleri ve Pratik](02_Alan_Dersleri/)
-- [03 Seçmeli, İleri ve Uzmanlık Dersleri](03_Secmeli_ve_Ileri_Uygulama/)
-- [04 Bitirme, Araştırma ve Çapraz Projeler](04_Arastirma_ve_Bitirme/)
+- [00 — Akademik Hazırlık ve Dil](00_Akademik_Hazirlik_ve_Dil/)
+- [01 — Temel Bilimler ve Seminerler](01_Temel_Bilimler_ve_Giris/)
+- [02 — Alan Dersleri ve Pratik](02_Alan_Dersleri/)
+- [03 — Seçmeli, İleri ve Uzmanlık Dersleri](03_Secmeli_ve_Ileri_Uygulama/)
+- [04 — Bitirme, Araştırma ve Çapraz Projeler](04_Arastirma_ve_Bitirme/)
 
 > [!TIP]
 > Yeni bir ders eklerken ana dizindeki `DERS_SABLONU.md` dosyasını kopyalayarak ilgili alt klasörün içine koyabilir ve kolayca kendi not şablonunuzu oluşturabilirsiniz!

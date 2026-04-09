@@ -1,32 +1,17 @@
-# Mekatronik Mühendisliği ve Yapay Zeka Devrimi: Robotların Yükselişi
+# Mekatronik Muhendisligi
 
-## Giriş
-Mekatronik; makine, elektronik ve yazılımın kesişim kümesidir. Yapay zeka ise bu karışıma "zeka"yı ekleyerek sistemi tamamlayan son yapboz parçasıdır. Artık sadece "hareket eden" değil, "düşünen ve öğrenen" makineler tasarlıyoruz.
-
-## 5 Yıllık Projeksiyon: "Bilişsel Robotik ve Otonom Sistemler"
-
-1.  **Öğrenen Robotlar:** Boston Dynamics robotları gibi sistemler, her hareket için programlanmak yerine, sanal ortamlarda milyonlarca kez simülasyon yaparak yürümeyi, koşmayı ve engelleri aşmayı kendi kendine öğrenecek (Reinforcement Learning).
-2.  **Karanlık Fabrikalar:** İnsan elinin değmediği, kendi kendine karar veren, tamir eden ve optimize eden tam otonom üretim hatları standart hale gelecek.
-3.  **Otonom Araçlar:** Seviye 5 otonom sürüş, sadece yolları değil, tarımdan madenciliğe kadar her türlü aracı dönüştürecek.
-
-## Teknik Derinlik: Kontrol Teorisi ve Görüntü İşleme
-
-*   **Pekiştirmeli Öğrenme (Reinforcement Learning):** Karmaşık kontrol algoritmaları (PID gibi), yerini değişen çevre koşullarına (kaygan zemin, rüzgar vb.) anlık adapte olabilen sinir ağlarına bırakacak.
-*   **SLAM (Simultaneous Localization and Mapping):** Robotlar, bilinmeyen ortamlarda kameralar ve lidar sensörleri ile kendi haritalarını çıkarıp, bu harita içinde milimetrik hassasiyetle yollarını bulacak.
-
-## Sonuç
-Mekatronik mühendisliği, "Donanım için AI" (AI for Hardware) mühendisliğine evriliyor. Geleceğin mühendisi, lehim makinesi kullandığı kadar PyTorch kütüphanesini de ustalıkla kullanacak.
-
+Bu klasör **Mekatronik Muhendisligi** bölümüne ait akademik notlar, araştırmalar ve dökümanlar içindir.
 
 ---
 
 ## 📂 Çekirdek Ders Ağacı
 Akademik sistem entegrasyonu kapsamında bu bölüm için önerilen ve standartlaştırılmış ders/çalışma klasörleri:
 
-- [01 Temel Bilimler ve Seminerler](01_Temel_Bilimler_ve_Giris/)
-- [02 Alan Dersleri ve Pratik](02_Alan_Dersleri/)
-- [03 Seçmeli, İleri ve Uzmanlık Dersleri](03_Secmeli_ve_Ileri_Uygulama/)
-- [04 Bitirme, Araştırma ve Çapraz Projeler](04_Arastirma_ve_Bitirme/)
+- [00 — Akademik Hazırlık ve Dil](00_Akademik_Hazirlik_ve_Dil/)
+- [01 — Temel Bilimler ve Seminerler](01_Temel_Bilimler_ve_Giris/)
+- [02 — Alan Dersleri ve Pratik](02_Alan_Dersleri/)
+- [03 — Seçmeli, İleri ve Uzmanlık Dersleri](03_Secmeli_ve_Ileri_Uygulama/)
+- [04 — Bitirme, Araştırma ve Çapraz Projeler](04_Arastirma_ve_Bitirme/)
 
 > [!TIP]
 > Yeni bir ders eklerken ana dizindeki `DERS_SABLONU.md` dosyasını kopyalayarak ilgili alt klasörün içine koyabilir ve kolayca kendi not şablonunuzu oluşturabilirsiniz!

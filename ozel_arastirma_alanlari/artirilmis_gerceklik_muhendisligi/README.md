@@ -1,27 +1,17 @@
-# Artırılmış Gerçeklik Mühendisliği ve Yapay Zeka Devrimi: Yeni Bir Gerçeklik
+# Artirilmis Gerceklik Muhendisligi
 
-## Giriş
-Fiziksel dünya ile dijital dünyayı birleştiren AR Mühendisliği, AI sayesinde "görebilen" ve "anlayan" sistemler kuruyor. Kamera sadece kayıt yapmıyor, dünyayı tanıyor.
-
-## 5 Yıllık Projeksiyon: "Mekansal Bilişim (Spatial Computing)"
-
-1.  **Nesne ve Sahne Tanıma:** AR gözlükler, baktığınız her nesneyi (bir çiçek, bir motor parçası veya bir tarihi eser) AI sayesinde tanıyıp üzerine bilgi etiketleri yapıştıracak.
-2.  **Gerçek Zamanlı Çeviri ve Alt Yazı:** Karşınızdaki kişi konuşurken, AR gözlüğünüz konuşmaları anlık olarak çevirip alt yazı olarak retina ekranınıza yansıtacak.
-3.  **Fotogerçekçi Render:** Sanal nesnelerin gerçek dünyadaki ışık ve gölge ile uyumu, AI tabanlı ışın izleme (ray tracing) teknikleriyle ayırt edilemez hale gelecek.
-
-## Sonuç
-AR mühendisi, gerçekliği yeniden programlayan büyücüdür. Yapay zeka ise bu büyünün enerji kaynağıdır.
-
+Bu klasör **Artirilmis Gerceklik Muhendisligi** bölümüne ait akademik notlar, araştırmalar ve dökümanlar içindir.
 
 ---
 
 ## 📂 Çekirdek Ders Ağacı
 Akademik sistem entegrasyonu kapsamında bu bölüm için önerilen ve standartlaştırılmış ders/çalışma klasörleri:
 
-- [01 Temel Bilimler ve Seminerler](01_Temel_Bilimler_ve_Giris/)
-- [02 Alan Dersleri ve Pratik](02_Alan_Dersleri/)
-- [03 Seçmeli, İleri ve Uzmanlık Dersleri](03_Secmeli_ve_Ileri_Uygulama/)
-- [04 Bitirme, Araştırma ve Çapraz Projeler](04_Arastirma_ve_Bitirme/)
+- [00 — Akademik Hazırlık ve Dil](00_Akademik_Hazirlik_ve_Dil/)
+- [01 — Temel Bilimler ve Seminerler](01_Temel_Bilimler_ve_Giris/)
+- [02 — Alan Dersleri ve Pratik](02_Alan_Dersleri/)
+- [03 — Seçmeli, İleri ve Uzmanlık Dersleri](03_Secmeli_ve_Ileri_Uygulama/)
+- [04 — Bitirme, Araştırma ve Çapraz Projeler](04_Arastirma_ve_Bitirme/)
 
 > [!TIP]
 > Yeni bir ders eklerken ana dizindeki `DERS_SABLONU.md` dosyasını kopyalayarak ilgili alt klasörün içine koyabilir ve kolayca kendi not şablonunuzu oluşturabilirsiniz!
