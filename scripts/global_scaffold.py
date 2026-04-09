@@ -4,7 +4,7 @@ import shutil
 ROOT_DIR = r"g:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\github repolarım\engineering-courses"
 TEMPLATE_FILE = os.path.join(ROOT_DIR, 'templates', 'COURSE_TEMPLATE.md')
 
-# These are the standard subdirectories (Expanded to 00-04)
+# These are the standard subdirectories (Expanded to 00-06)
 SUBDIR_DEFS = {
     "00_Akademik_Hazirlik_ve_Dil": {
         "label": "00 — Akademik Hazırlık ve Dil",
@@ -26,6 +26,14 @@ SUBDIR_DEFS = {
         "label": "04 — Araştırma ve Bitirme",
         "desc": "Bitirme projeleri, staj raporları, seminer çalışmaları ve akademik araştırma notları.",
     },
+    "05_Lisansustu_ve_Akademik_Kariyer": {
+        "label": "05 — Lisansüstü ve Akademik Kariyer",
+        "desc": "Yüksek lisans ve doktora çalışmaları, akademik yayın notları ve tez hazırlık dökümanları.",
+    },
+    "06_Sertifikasyon_ve_Endustriyel_Standartlar": {
+        "label": "06 — Sertifikasyon ve Endüstriyel Standartlar",
+        "desc": "Mesleki yeterlilik sınavları, uluslararası sertifikalar ve endüstri standartları dökümantasyonu.",
+    },
 }
 
 # All current container folders
@@ -43,28 +51,36 @@ CONTAINERS = [
     'turizm_ve_gastronomi',
     'ozel_arastirma_alanlari',
     'guzel_sanatlar',
-    'spor_bilimleri'
+    'spor_bilimleri',
+    'on_lisans_programlari',
+    'kariyer_ve_sertifikasyonlar',
+    'meta_yetkinlikler_ve_gelisim',
+    'tarim_ve_ziraat_bilimleri',
+    'askeri_bilimler_ve_savunma_teknolojileri',
+    'genel'
 ]
 
 def get_dept_readme_content(dept_name):
     title = dept_name.replace('_', ' ').title()
     return f"""# {title}
 
-Bu klasör **{title}** bölümüne ait akademik notlar, araştırmalar ve dökümanlar içindir.
+Bu klasör **{title}** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 
 ---
 
 ## 📂 Çekirdek Ders Ağacı
-Akademik sistem entegrasyonu kapsamında bu bölüm için önerilen ve standartlaştırılmış ders/çalışma klasörleri:
+Akademik ve profesyonel sistem entegrasyonu kapsamında bu bölüm için önerilen ve standartlaştırılmış klasör yapısı:
 
 - [00 — Akademik Hazırlık ve Dil](00_Akademik_Hazirlik_ve_Dil/)
 - [01 — Temel Bilimler ve Seminerler](01_Temel_Bilimler_ve_Giris/)
 - [02 — Alan Dersleri ve Pratik](02_Alan_Dersleri/)
 - [03 — Seçmeli, İleri ve Uzmanlık Dersleri](03_Secmeli_ve_Ileri_Uygulama/)
 - [04 — Bitirme, Araştırma ve Çapraz Projeler](04_Arastirma_ve_Bitirme/)
+- [05 — Lisansüstü ve Akademik Kariyer](05_Lisansustu_ve_Akademik_Kariyer/)
+- [06 — Sertifikasyon ve Endüstriyel Standartlar](06_Sertifikasyon_ve_Endustriyel_Standartlar/)
 
 > [!TIP]
-> Yeni bir ders eklerken ana dizindeki `DERS_SABLONU.md` dosyasını kopyalayarak ilgili alt klasörün içine koyabilir ve kolayca kendi not şablonunuzu oluşturabilirsiniz!
+> Yeni bir ders veya çalışma eklerken ana dizindeki `DERS_SABLONU.md` dosyasını kopyalayarak ilgili alt klasörün içine koyabilir ve kolayca kendi dökümantasyonunuzu oluşturabilirsiniz!
 """
 
 def get_subdir_readme_content(dept_name, sub_key):
@@ -79,22 +95,22 @@ def get_subdir_readme_content(dept_name, sub_key):
 
 ## 📝 Bu Klasöre Nasıl Katkı Yapılır?
 1. `DERS_SABLONU.md` (üst dizindeki) dosyasını bu klasöre kopyala
-2. Dosyayı `DERS_ADI.md` olarak yeniden adlandır
-3. İçini ders notları, ödevler ve kaynaklarla doldur
+2. Dosyayı `DERS_ADI.md` (veya ilgili sertifika/tez adı) olarak yeniden adlandır
+3. İçini içeriklerle doldur
 4. Pull Request aç veya doğrudan push et
 
 > [!NOTE]
-> Bu klasör **{dept_title}** bölümünün **{sub['label']}** dönemine aittir.
+> Bu klasör **{dept_title}** alanının **{sub['label']}** katmanına aittir.
 """
 
 def scaffold_department(dept_path, dept_name):
-    # 1. Ensure Department README (Overwrite if missing tree)
+    # 1. Ensure Department README (Overwrite if missing new tiers)
     readme_path = os.path.join(dept_path, 'README.md')
     needs_rewrite = False
     if os.path.exists(readme_path):
         with open(readme_path, 'r', encoding='utf-8') as f:
             content = f.read()
-            if "00 — Akademik Hazırlık" not in content:
+            if "05 — Lisansüstü" not in content:
                 needs_rewrite = True
     else:
         needs_rewrite = True
@@ -132,9 +148,9 @@ def main():
                 scaffold_department(item_path, item)
                 count += 1
                 if count % 10 == 0:
-                    print(f"  Processed {count} departments...")
+                    print(f"  Processed {count} departments/areas...")
     
-    print(f"\nDone! Scaffolded/Upgraded {count} departments in total with 00-04 structure.")
+    print(f"\nDone! Scaffolded/Upgraded {count} departments in total with the Elite 7-tier (00-06) structure.")
 
 if __name__ == "__main__":
     main()

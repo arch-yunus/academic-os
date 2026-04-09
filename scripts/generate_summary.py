@@ -14,25 +14,31 @@ CONTAINERS = {
     'edebiyat_ve_diller': '📚 Edebiyat ve Diller',
     'iletisim': '📡 İletişim Bilimleri',
     'turizm_ve_gastronomi': '🏨 Turizm ve Gastronomi',
+    'tarim_ve_ziraat_bilimleri': '🌱 Tarım ve Ziraat Bilimleri',
     'hukuk_bilimi': '⚖️ Hukuk',
     'ilahiyat_ve_din': '🕌 İlahiyat ve Din',
+    'on_lisans_programlari': '📋 Ön Lisans Programları',
     'ozel_arastirma_alanlari': '🔬 Özel Araştırma Alanları',
+    'kariyer_ve_sertifikasyonlar': '🚀 Kariyer ve Sertifikasyonlar',
+    'meta_yetkinlikler_ve_gelisim': '🧠 Meta-Yetkinlikler ve Gelişim',
+    'askeri_bilimler_ve_savunma_teknolojileri': '⚔️ Askeri Bilimler ve Savunma',
     'genel': '📂 Genel ve Ortak Alanlar'
 }
 
 def generate_summary():
+    total_count = 0
     summary_md = "# 🗂️ Akademik Müfredat ve Ders Notları İndeksi\n\n"
-    summary_md += "Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. Tüm bölümler YÖK standartlarına göre gruplandırılmıştır. (00-04 Tam Yapı)\n\n"
+    summary_md += "Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. Tüm bölümler YÖK standartlarına ve küresel (Örn: Çin MoE) profesyonel gerekliliklere göre gruplandırılmıştır.\n\n"
     
-    # Sort containers by name or predefined order
+    body_content = ""
     for folder, title in CONTAINERS.items():
         container_path = os.path.join(ROOT_DIR, folder)
         if not os.path.exists(container_path):
             continue
             
-        summary_md += f"## {title}\n\n"
-        summary_md += "| Bölüm | Yol |\n"
-        summary_md += "|-------|-----|\n"
+        container_section = f"## {title}\n\n"
+        container_section += "| Bölüm / Alan | Yol |\n"
+        container_section += "|--------------|-----|\n"
         
         items = os.listdir(container_path)
         depts = [d for d in items if os.path.isdir(os.path.join(container_path, d)) and not d.startswith('.')]
@@ -41,13 +47,18 @@ def generate_summary():
         for d in depts:
             dept_name = d.replace('_', ' ').title()
             link = f"[{d}]({folder}/{d}/)"
-            summary_md += f"| {dept_name} | {link} |\n"
+            container_section += f"| {dept_name} | {link} |\n"
+            total_count += 1
         
-        summary_md += "\n"
+        container_section += "\n"
+        body_content += container_section
+
+    summary_md += f"**Toplam Kapsam:** {total_count} Akademik ve Profesyonel Alan (Global 7-Tier Elite Structure)\n\n"
+    summary_md += body_content
 
     with open(os.path.join(ROOT_DIR, 'SUMMARY.md'), 'w', encoding='utf-8') as f:
         f.write(summary_md)
-    print("SUMMARY.md updated successfully with full 184 departments.")
+    print(f"SUMMARY.md updated successfully with {total_count} areas.")
 
 if __name__ == "__main__":
     generate_summary()
