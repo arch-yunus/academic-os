@@ -76,37 +76,48 @@ def generate_encyclopedic_readme():
 ![AOS Hero Banner](assets/aos_hero_banner.png)
 
 # 🏛️ AKADEMİK İŞLETİM SİSTEMİ (AOS)
-### *Dünyanın En Kapsamlı Bilgi Ontolojisi — 385+ Uzmanlık Alanı* 🌐💎🚀
+### *Global Bilgi Ontolojisi ve Entelektüel Sermaye Altyapısı* 🌐💎🚀
 
 [![Kurucu](https://img.shields.io/badge/KURUCU-Bahattin%20Yunus-black?style=for-the-badge&logo=github&logoColor=gold)](https://github.com/bahattinyunus)
 [![Versiyon](https://img.shields.io/badge/VERSİYON-v2025.Ultimate-B81D24?style=for-the-badge&logo=target)](./)
 [![Kapsam](https://img.shields.io/badge/KAPSAM-385_Bölüm-0078D4?style=for-the-badge&logo=rocket)](./SUMMARY.md)
-[![Mimari](https://img.shields.io/badge/MİMARİ-7--Tier_Elite-FFD700?style=for-the-badge&logo=openai&logoColor=black)](./)
+[![Ecosystem](https://img.shields.io/badge/ECOSYSTEM-Hybrid_YÖK_MoE-FFD700?style=for-the-badge&logo=openai&logoColor=black)](./)
 
 ---
 
-> **"Bilgi, ancak bir sistem içinde sınıflandırıldığında bir silaha dönüşür. AOS; YÖK ve global stratejik müfredatları (China MoE) birleştiren, 385+ akademik branşı 7 katmanlı profesyonel hiyerarşide sunan bir 'Entelektüel İşletim Sistemi'dir."** 🚀🦾
+## 🏛️ Vizyon ve Metodoloji
+**Academic Operating System (AOS)**, modern dünyanın parçalı bilgi yapısına karşı geliştirilmiş, mültidisipliner ustalığı hedefleyen bir "Entelektüel İşletim Sistemi"dir. Klasik akademik dökümantasyonun ötesine geçerek, bireyin yüksek kaldıraçlı bir uzman haline gelmesi için gereken tüm bilgi katmanlarını tek bir yapıda birleştirir.
+
+> [!IMPORTANT]
+> **AOS bir arşiv değil, yaşayan bir ontolojidir.** 385+ alan üzerinde kurulan bu yapı; Türkiye'nin akademik derinliğiyle Çin'in (MoE) stratejik teknoloji vizyonunu (İHA, Yarıliletken, BCI) tek bir potada eritir.
 
 ---
 
 </div>
 
-## 🌌 Mimari: Ultimate 7-Tier (00-06) Scaffolding
-Sistemdeki her bir bölüm, hazırlık eğitiminden profesyonel sertifikasyona kadar 7 temel katmanda standardize edilmiştir:
+## ⚙️ Çelik Çerçeve: Ultimate 7-Tier Mimari
+Sistemdeki her bir branş, rastgele notlar yerine **7 katmanlı elit bir hiyerarşi** üzerine inşa edilmiştir. Bu yapı, bir konuyu "sıfırdan" ele alıp "endüstriyel uzmanlığa" taşıyan tek standarttır:
 
-1.  **`00 — Akademik Hazırlık ve Dil`**: Dil yeterliliği ve oryantasyon.
-2.  **`01 — Temel Bilimler ve Giriş`**: Bölümün teorik temelleri.
-3.  **`02 — Alan Dersleri`**: Zorunlu ana branş dersleri.
-4.  **`03 — Seçmeli & İleri Uygulama`**: Uzmanlaşma ve derinleşme.
-5.  **`04 — Araştırma ve Bitirme`**: Tez, bitirme projeleri ve akademik çıktılar.
-6.  **`05 — Lisansüstü ve Akademik Kariyer`**: Yüksek Lisans ve Doktora seviyesi.
-7.  **`06 — Sertifikasyon ve Endüstriyel Standartlar`**: Küresel mesleki yeterlilikler.
+-   📂 **`00 — Hazırlık & Dil`**: Akademik oryantasyon ve küresel dil yeterliliği.
+-   📂 **`01 — Temel Bilimler`**: Alanın üzerine inşa edildiği teorik ve sayısal temel.
+-   📂 **`02 — Alan Dersleri`**: Bölümün çekirdeğini oluşturan zorunlu teknik birikim.
+-   📂 **`03 — İleri Uygulama`**: Seçmeli uzmanlıklar ve derinlemesine pratik çalışmalar.
+-   📂 **`04 — Araştırma & Proje`**: Bitirme projeleri, tezler ve orijinal akademik çıktılar.
+-   📂 **`05 — Lisansüstü Akış`**: Yüksek lisans ve doktora seviyesinde akademik kariyer yolu.
+-   📂 **`06 — Endüstriyel Standartlar`**: Küresel sertifikalar ve mesleki yeterlilik zirvesi.
+
+---
+
+## 💎 Neden Bu Sistem?
+1.  **Mültidisipliner Bağlantılar:** 3D Print AI'dan Stoacılığa, Kuantum Mühendisliğinden Çay Bilimine kadar birbirine bağlı 385 alan.
+2.  **Stratejik Odak (Silk Road Edition):** Çin'in küresel liderliğini hedeflediği çipler, düşük irtifa teknolojileri ve geleneksel tıp branşlarının tam entegrasyonu.
+3.  **Meta-Yetkinlikler:** Sadece teknik bilgi değil; "Monk Mode", "Zaman Yönetimi" ve "Hızlı Öğrenme" gibi bireyi sistemin üzerinde tutan meta-beceriler.
 
 ---
 
 ## 📚 Ansiklopedik Bölüm Dizini (385 Alan)
 
-Kategorilere tıklayarak içindeki bölümleri ve kısa açıklamalarını görebilirsiniz.
+Aşağıdaki kategoriler, AOS ekosisteminin 385 benzersiz hücresini temsil eder.
 
 """
 
@@ -140,24 +151,25 @@ Kategorilere tıklayarak içindeki bölümleri ve kısa açıklamalarını göre
     footer = f"""
 ---
 
-## 🧬 Küresel Stratejik Entegrasyon
-Bu sistem sadece klasik bölümleri değil, dünyanın yükselen güçlerinin en stratejik branşlarını da içerir. Tüm detaylı yol haritaları ve dökümanlar ilgili klasörlerin altındadır.
-
-## 🛠️ Solopreneur AI Araç Seti (V.2025)
-- **Yazılım:** Cursor / Windsurf
-- **Analiz:** Claude 3.5 Sonnet / Gemini 2.0
-- **Araştırma:** Perplexity AI
-- **Otomasyon:** n8n / Make.com
+## 🛠️ Profesyonel Enstrümantasyon (V.2025)
+Sistemin verimliliğini maksimize etmek için kullanılan "Elite" araç seti:
+- **Core Intelligence:** Gemini 2.0 / Claude 3.5 Sonnet / GPT-o1
+- **Development & IDE:** Cursor / Windsurf
+- **Research Engine:** Perplexity Pro
+- **Architecture:** 7-Tier Standardized Scaffolding
 
 ---
 
+## 🤝 Katkıda Bulunma ve Gelişim
+Bu sistem, bilginin demokratikleşmesi değil, **bilginin sistematikleşmesi** için kurulmuştur. Pull Request'ler sadece sistemin 7-tier yapısına uygun olduğunda kabul edilir.
+
 ## ⚖️ Lisans
-Bu proje **MIT Lisansı** ile korunmaktadır.
+Bu proje **MIT Lisansı** ile korunmaktadır. Tüm hakları ve vizyonu kurucusuna aittir.
 
 <div align="center">
 
-**Hazırlayan:** Bahattin Yunus Çetin  
-*Mühendis & Araştırmacı*
+**Prepared By:** Bahattin Yunus Çetin  
+*Engineer & Academic System Architect*
 
 [Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)
 
@@ -169,7 +181,7 @@ Bu proje **MIT Lisansı** ile korunmaktadır.
     with open(os.path.join(ROOT_DIR, 'README.md'), 'w', encoding='utf-8') as f:
         f.write(full_content)
         
-    print(f"README.md updated with {total_count} areas and descriptions.")
+    print(f"README.md updated with 385 areas and extended professional context. Total: {total_count}")
 
 if __name__ == "__main__":
     generate_encyclopedic_readme()
