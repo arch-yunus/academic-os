@@ -17,3 +17,9 @@ Akademik ve profesyonel sistem entegrasyonu kapsamında bu bölüm için öneril
 
 > [!TIP]
 > Yeni bir ders veya çalışma eklerken ana dizindeki `DERS_SABLONU.md` dosyasını kopyalayarak ilgili alt klasörün içine koyabilir ve kolayca kendi dökümantasyonunuzu oluşturabilirsiniz!
+
+
+--- 
+
+## 📚 Kaynakça & Başvuru
+Önerilen Bibliyografya: Kemal Gözler, Türk Medeni Kanunu Şerhleri, Roma Hukuku Temelleri.
