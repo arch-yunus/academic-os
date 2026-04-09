@@ -3,617 +3,620 @@
 ![AOS Hero Banner](assets/aos_hero_banner.png)
 
 # 🏛️ AKADEMİK İŞLETİM SİSTEMİ (AOS)
-### *Yapay Zeka Çağı İçin Küresel ve Mültidisipliner Bir Bilgi Ontolojisi* 🌐💎🚀
+### *Yapay Zeka Çağı İçin Küresel Bilgi Nizamı ve Mültidisipliner Ontoloji* 🌐💎🚀
 
-[![Versiyon](https://img.shields.io/badge/VERSİYON-v2025.Elite-00A9E0?style=for-the-badge&logo=target)](./)
-[![Kapsam](https://img.shields.io/badge/KAPSAM-372_Branş-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
-[![Düşünce](https://img.shields.io/badge/VİZYON-Gelecek_İçin_Bilim-black?style=for-the-badge&logo=openai&logoColor=white)](./)
+[![Versiyon](https://img.shields.io/badge/VERSION-2025.Elite-00A9E0?style=for-the-badge&logo=target)](./)
+[![Kapsam](https://img.shields.io/badge/SCOPE-372_Disciplines-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
+[![Standard](https://img.shields.io/badge/STANDARD-7--Tier_Elite-black?style=for-the-badge&logo=gitbook)](./)
+[![Philosophy](https://img.shields.io/badge/VISION-Double_Wing-18453B?style=for-the-badge&logo=openai&logoColor=white)](./)
 
 ---
 
-## 📜 AOS Manifestosu: Bilgi ve Metodoloji
-**Akademik İşletim Sistemi (AOS)**, modern dünyanın parçalı bilgi yapısına karşı geliştirilmiş, mültidisipliner ustalığı hedefleyen evrensel bir bilgi çerçevesidir. **Bilimsel Metodoloji** ve **Akademik Tarafsızlık** üzerine kurulu olan AOS, 372+ branşı tek bir nizam (Systemum) altında birleştirir.
+## 📜 AOS ANA DÜSTURU VE MANİFESTO
+**Akademik İşletim Sistemi (AOS)**, bilginin parçalandığı bu çağda, her disiplini tek bir rasyonel ve metodolojik çatı altında birleştiren "Zülcenahayn" (Çift Kanatlı) bir dökümantasyon ekosistemidir.
 
-> [!TIP]
-> **Bilim bir yöntem, merak ise motorumuzdur.** AOS; aklı fenle, zihni nizamla donatan profesyonel bir akademik iskelettir.
+> [!IMPORTANT]
+> **Bilim bir yöntem, merak ise motorumuzdur.** AOS; aklı fenle (bilimle), ruhu yüksek bir vizyonla donatan profesyonel bir akademik iskelettir. Burada bilim metodolojidir, hakikat ise nihai gayedir.
 
 ---
 
 </div>
 
-## ⚙️ Elit 7-Kademeli Mimari (00-06)
-Sistemdeki her bir branş, rastgele notlar yerine **7 katmanlı elit bir niyaraşi** üzerine inşa edilmiştir. Bu yapı, bir konuyu "sıfırdan" ele alıp "endüstriyel uzmanlığa" taşıyan tek standarttır:
+## ⚙️ ELİT 7-KADEMELİ HİYERARŞİ (Systemum 0-6)
+AOS içindeki her branş, rastgele notlar yerine **7 katmanlı elit bir nizam** üzerine inşa edilmiştir:
 
-**`00`** Hazırlık **`01`** Teori **`02`** Çekirdek **`03`** Uzmanlık **`04`** Üretim **`05`** Akademi **`06`** Standart
-
----
-
-## 🕌 Vizyoner Miras ve Ruh
-AOS, modern bilimsel metodolojiyi temel **Yöntem** olarak kullanırken; ilhamını ve derinliğini, kalbi ve aklı birleştiren "Medresetü’z-Zehra" gibi kadim vizyonlardan alır.
-
-| ✍️ Düstur | 🏛️ AOS Prensibi |
-| :--- | :--- |
-| **"Din ilimleriyle fen ilimlerinin imtizacı elzemdir."** | **Mültidisipliner Bütünlük** |
-| **"Eyleme dökülmeyen ilim, yerinde sayan bir gölge gibidir."** | **Aktif Üretim & Mühendislik** |
-| **"Hiç bilenlerle bilmeyenler bir olur mu?"** | **Entelektüel Üstünlük** |
+| Kademe | Tanım | Akademik Hedef |
+| :--- | :--- | :--- |
+| **`00`** | **Hazırlık** | Dil yeterliliği ve temel metodolojik oryantasyon. |
+| **`01`** | **Teori** | Alanın üzerine inşa edildiği sayısal ve kuramsal temel. |
+| **`02`** | **Çekirdek** | En zorunlu ve temel branş yetkinliklerinin inşası. |
+| **`03`** | **Uzmanlık** | Seçmeli ve ileri seviye branş derinleşmesi. |
+| **`04`** | **Üretim** | Orijinal bitirme projeleri ve AR-GE çıktıları. |
+| **`05`** | **Akademi** | Lisansüstü ve bilimsel araştırma metodolojileri. |
+| **`06`** | **Dünya** | Sektörel sertifikasyonlar ve küresel standartlar. |
 
 ---
 
-## 📚 Ansiklopedik Bölüm Dizini (372 Alan)
+## 🏛️ VİZYONER MİRAS: "RUHUMUZUN DERİNLİĞİ"
+AOS, modern bilimsel metodolojiyi rasyonel bir **Yöntem** olarak kullanır. Ancak bu devasa iskelete can veren ruh; kalbi ve aklı, fenle dinin imtizacını hedefleyen **Medresetü’z-Zehra** gibi kadim ve vizyoner miraslardan beslenir.
+
+> [!TIP]
+> **"Aklın nuru fünun-u medeniyedir, vicdanın ziyası ulûm-u diniyedir."**
+> Bizim için bilim, "Varlığın Büyük Nizamı"nı anlama çabasıdır.
+
+---
+
+## 📚 ANSİKLOPEDİK BÖLÜM DİZİNİ (372 BRANŞ)
 
 Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder.
 
 <details>
-<summary><b>🛠️ Mühendislik Bilimleri (64 Alan)</b></summary>
+<summary><b>🛠️ Mühendislik & İleri Teknoloji (64 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Adli Bilisim Muhendisligi](meta_muhendislik/adli_bilisim_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Akilli Gorsel Isitsel Muhendislik](meta_muhendislik/akilli_gorsel_isitsel_muhendislik/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Akilli Molekuler Muhendislik](meta_muhendislik/akilli_molekuler_muhendislik/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Akilli Sebeke Bilgi Ve Muhendisligi](meta_muhendislik/akilli_sebeke_bilgi_ve_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Ambalaj Muhendisligi](meta_muhendislik/ambalaj_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Basim Teknolojileri](meta_muhendislik/basim_teknolojileri/) | Basim teknolojileri alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Beyin Bilgisayar Arayuzu Bci Muhendisligi](meta_muhendislik/beyin_bilgisayar_arayuzu_bci_muhendisligi/) | Nöral sinyallerin dijital sistemlere aktarımı ve insan-makine etkileşimi üzerine ileri araştırma. |
-| [Bilgisayar Muhendisligi](meta_muhendislik/bilgisayar_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Bilisim Sistemleri Muhendisligi](meta_muhendislik/bilisim_sistemleri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Biyokimya Muhendisligi](meta_muhendislik/biyokimya_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Biyomedikal Muhendisligi](meta_muhendislik/biyomedikal_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Biyosistem Muhendisligi](meta_muhendislik/biyosistem_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Cevher Hazirlama Muhendisligi](meta_muhendislik/cevher_hazirlama_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Cevre Muhendisligi](meta_muhendislik/cevre_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Deniz Ulastirma Isletme Muhendisligi](meta_muhendislik/deniz_ulastirma_isletme_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Deri Muhendisligi](meta_muhendislik/deri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Dusuk Irtifa Teknolojisi Ve Iha](meta_muhendislik/dusuk_irtifa_teknolojisi_ve_iha/) | Dronelar ve alçak irtifa hava araçlarının aerodinamik ve sistem tasarımı. |
-| [Elektrik Elektronik Muhendisligi](meta_muhendislik/elektrik_elektronik_muhendisligi/) | Enerji üretimi, iletimi ve elektronik devre tasarımı üzerine odaklanan temel mühendislik branşı. |
-| [Elektronik Ve Haberlesme Muhendisligi](meta_muhendislik/elektronik_ve_haberlesme_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Endustri Muhendisligi](meta_muhendislik/endustri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Endustriyel Tasarim Muhendisligi](meta_muhendislik/endustriyel_tasarim_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Enerji Sistemleri Muhendisligi](meta_muhendislik/enerji_sistemleri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Finans Muhendisligi](meta_muhendislik/finans_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Fizik Muhendisligi](meta_muhendislik/fizik_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Gemi Insaati Ve Gemi Makineleri Muhendisligi](meta_muhendislik/gemi_insaati_ve_gemi_makineleri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Gemi Makineleri Isletme Muhendisligi](meta_muhendislik/gemi_makineleri_isletme_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Geomatik Muhendisligi](meta_muhendislik/geomatik_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Gida Muhendisligi](meta_muhendislik/gida_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Harita Muhendisligi](meta_muhendislik/harita_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Havacilik Ve Uzay Muhendisligi](meta_muhendislik/havacilik_ve_uzay_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Imalat Muhendisligi](meta_muhendislik/imalat_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Insaat Muhendisligi](meta_muhendislik/insaat_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Ipek Muhendisligi Ve Serikultur](meta_muhendislik/ipek_muhendisligi_ve_serikultur/) | İpek böcekçiliği ve tekstil mühendisliğinin ipek üretimi özelindeki kesişimi. |
-| [Isletme Muhendisligi](meta_muhendislik/isletme_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Jeofizik Muhendisligi](meta_muhendislik/jeofizik_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Jeoloji Muhendisligi](meta_muhendislik/jeoloji_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Kagit Bilimi Ve Muhendisligi](meta_muhendislik/kagit_bilimi_ve_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Karbon Notr Bilimi Ve Teknolojisi](meta_muhendislik/karbon_notr_bilimi_ve_teknolojisi/) | Modern teknolojik araçların ve süreçlerin ilgili alan özelinde uygulanması ve yönetimi. |
-| [Kimya Muhendisligi](meta_muhendislik/kimya_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Kontrol Ve Otomasyon Muhendisligi](meta_muhendislik/kontrol_ve_otomasyon_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Maden Muhendisligi](meta_muhendislik/maden_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Makine Muhendisligi](meta_muhendislik/makine_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Matematik Muhendisligi](meta_muhendislik/matematik_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Mekatronik Muhendisligi](meta_muhendislik/mekatronik_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Metalurji Ve Malzeme Muhendisligi](meta_muhendislik/metalurji_ve_malzeme_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Mikro Nano Sistemler Ve Mems](meta_muhendislik/mikro_nano_sistemler_ve_mems/) | Mikro nano sistemler ve mems alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Modelleme Ve Simulasyon](meta_muhendislik/modelleme_ve_simulasyon/) | Modelleme ve simulasyon alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Nanoteknoloji Muhendisligi](meta_muhendislik/nanoteknoloji_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Nukleer Enerji Muhendisligi](meta_muhendislik/nukleer_enerji_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Orman Muhendisligi](meta_muhendislik/orman_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Otomotiv Muhendisligi](meta_muhendislik/otomotiv_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Rayli Sistemler Muhendisligi](meta_muhendislik/rayli_sistemler_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Seramik Tasarimi Ve Muhendisligi](meta_muhendislik/seramik_tasarimi_ve_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Siber Guvenlik Muhendisligi](meta_muhendislik/siber_guvenlik_muhendisligi/) | Dijital varlıkların korunması, sızma testleri ve güvenli sistem mimarileri geliştirme. |
-| [Su Urunleri Muhendisligi](meta_muhendislik/su_urunleri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Tarim Makineleri Ve Teknolojileri Muhendisligi](meta_muhendislik/tarim_makineleri_ve_teknolojileri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Tekstil Muhendisligi](meta_muhendislik/tekstil_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Ucak Muhendisligi](meta_muhendislik/ucak_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Ulasim Muhendisligi](meta_muhendislik/ulasim_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Uzay Zaman Bilgi Muhendisligi](meta_muhendislik/uzay_zaman_bilgi_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Yapay Zeka Ve Veri Muhendisligi](meta_muhendislik/yapay_zeka_ve_veri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Yazilim Muhendisligi](meta_muhendislik/yazilim_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Yuksek Guclu Yariiletken Bilimi Ve Muhendisligi](meta_muhendislik/yuksek_guclu_yariiletken_bilimi_ve_muhendisligi/) | Yeni nesil enerji elektroniği ve yarı iletken komponent teknolojileri üretimi. |
-| [Ziraat Muhendisligi](meta_muhendislik/ziraat_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
+| [Adli Bilişim Mühendisliği](meta_muhendislik/adli_bilisim_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Akilli Gorsel Isitsel Muhendislik](meta_muhendislik/akilli_gorsel_isitsel_muhendislik/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Akilli Molekuler Muhendislik](meta_muhendislik/akilli_molekuler_muhendislik/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Akilli Sebeke Bilgi Ve Mühendisliği](meta_muhendislik/akilli_sebeke_bilgi_ve_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Ambalaj Mühendisliği](meta_muhendislik/ambalaj_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Basim Teknolojileri](meta_muhendislik/basim_teknolojileri/) | Basim Teknolojileri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Beyin Bilgisayar Arayuzu Bci Mühendisliği](meta_muhendislik/beyin_bilgisayar_arayuzu_bci_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Bilgisayar Mühendisliği](meta_muhendislik/bilgisayar_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Bilişim Sistemleri Mühendisliği](meta_muhendislik/bilisim_sistemleri_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Biyokimya Mühendisliği](meta_muhendislik/biyokimya_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Biyomedikal Mühendisliği](meta_muhendislik/biyomedikal_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Biyosistem Mühendisliği](meta_muhendislik/biyosistem_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Cevher Hazirlama Mühendisliği](meta_muhendislik/cevher_hazirlama_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Cevre Mühendisliği](meta_muhendislik/cevre_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Deniz Ulastirma İşletme Mühendisliği](meta_muhendislik/deniz_ulastirma_isletme_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Deri Mühendisliği](meta_muhendislik/deri_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Dusuk Irtifa Teknolojisi Ve Iha](meta_muhendislik/dusuk_irtifa_teknolojisi_ve_iha/) | Dusuk Irtifa Teknolojisi Ve Iha disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Elektrik Elektronik Mühendisliği](meta_muhendislik/elektrik_elektronik_muhendisligi/) | Enerji, sinyal ve sistem teorisinin modern mühendislik zirvesi. |
+| [Elektronik Ve Haberlesme Mühendisliği](meta_muhendislik/elektronik_ve_haberlesme_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Endustri Mühendisliği](meta_muhendislik/endustri_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Endustriyel Tasarim Mühendisliği](meta_muhendislik/endustriyel_tasarim_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Enerji Sistemleri Mühendisliği](meta_muhendislik/enerji_sistemleri_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Finans Mühendisliği](meta_muhendislik/finans_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Fizik Mühendisliği](meta_muhendislik/fizik_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Gemi İnşaati Ve Gemi Makineleri Mühendisliği](meta_muhendislik/gemi_insaati_ve_gemi_makineleri_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Gemi Makineleri İşletme Mühendisliği](meta_muhendislik/gemi_makineleri_isletme_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Geomatik Mühendisliği](meta_muhendislik/geomatik_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Gida Mühendisliği](meta_muhendislik/gida_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Harita Mühendisliği](meta_muhendislik/harita_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Havacilik Ve Uzay Mühendisliği](meta_muhendislik/havacilik_ve_uzay_muhendisligi/) | Yeryüzü sınırlarını aşan yüksek fizik ve itki mühendisliği. |
+| [Imalat Mühendisliği](meta_muhendislik/imalat_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [İnşaat Mühendisliği](meta_muhendislik/insaat_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Ipek Mühendisliği Ve Serikultur](meta_muhendislik/ipek_muhendisligi_ve_serikultur/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [İşletme Mühendisliği](meta_muhendislik/isletme_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Jeofizik Mühendisliği](meta_muhendislik/jeofizik_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Jeoloji Mühendisliği](meta_muhendislik/jeoloji_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Kagit Bilimi Ve Mühendisliği](meta_muhendislik/kagit_bilimi_ve_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Karbon Notr Bilimi Ve Teknolojisi](meta_muhendislik/karbon_notr_bilimi_ve_teknolojisi/) | Karbon Notr Bilimi Ve Teknolojisi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Kimya Mühendisliği](meta_muhendislik/kimya_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Kontrol Ve Otomasyon Mühendisliği](meta_muhendislik/kontrol_ve_otomasyon_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Maden Mühendisliği](meta_muhendislik/maden_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Makine Mühendisliği](meta_muhendislik/makine_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Matematik Mühendisliği](meta_muhendislik/matematik_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Mekatronik Mühendisliği](meta_muhendislik/mekatronik_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Metalurji Ve Malzeme Mühendisliği](meta_muhendislik/metalurji_ve_malzeme_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Mikro Nano Sistemler Ve Mems](meta_muhendislik/mikro_nano_sistemler_ve_mems/) | Mikro Nano Sistemler Ve Mems disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Modelleme Ve Simulasyon](meta_muhendislik/modelleme_ve_simulasyon/) | Modelleme Ve Simulasyon disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Nanoteknoloji Mühendisliği](meta_muhendislik/nanoteknoloji_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Nukleer Enerji Mühendisliği](meta_muhendislik/nukleer_enerji_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Orman Mühendisliği](meta_muhendislik/orman_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Otomotiv Mühendisliği](meta_muhendislik/otomotiv_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Rayli Sistemler Mühendisliği](meta_muhendislik/rayli_sistemler_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Seramik Tasarimi Ve Mühendisliği](meta_muhendislik/seramik_tasarimi_ve_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Siber Guvenlik Mühendisliği](meta_muhendislik/siber_guvenlik_muhendisligi/) | Dijital kalelerin savunma ve strateji merkezi. |
+| [Su Urunleri Mühendisliği](meta_muhendislik/su_urunleri_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Tarim Makineleri Ve Teknolojileri Mühendisliği](meta_muhendislik/tarim_makineleri_ve_teknolojileri_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Tekstil Mühendisliği](meta_muhendislik/tekstil_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Ucak Mühendisliği](meta_muhendislik/ucak_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Ulaşım Mühendisliği](meta_muhendislik/ulasim_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Uzay Zaman Bilgi Mühendisliği](meta_muhendislik/uzay_zaman_bilgi_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Yapay Zeka Ve Veri Mühendisliği](meta_muhendislik/yapay_zeka_ve_veri_muhendisligi/) | Veriden anlam çıkaran otonom sistemlerin mimarisi. |
+| [Yazilim Mühendisliği](meta_muhendislik/yazilim_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Yuksek Guclu Yariiletken Bilimi Ve Mühendisliği](meta_muhendislik/yuksek_guclu_yariiletken_bilimi_ve_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Ziraat Mühendisliği](meta_muhendislik/ziraat_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
 
 </details>
 
 <details>
-<summary><b>🏛️ Mimarlık ve Tasarım (15 Alan)</b></summary>
+<summary><b>🏛️ Mimarlık, Tasarım & Şehircilik (15 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Cizgi Film Ve Animasyon](mimarlik_ve_tasarim/cizgi_film_ve_animasyon/) | Cizgi film ve animasyon alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Endustriyel Tasarim](mimarlik_ve_tasarim/endustriyel_tasarim/) | Endustriyel tasarim alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Gorsel Iletisim Tasarimi](mimarlik_ve_tasarim/gorsel_iletisim_tasarimi/) | Gorsel iletisim tasarimi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Grafik Tasarimi](mimarlik_ve_tasarim/grafik_tasarimi/) | Grafik tasarimi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Ic Mimarlik Ve Cevre Tasarimi](mimarlik_ve_tasarim/ic_mimarlik_ve_cevre_tasarimi/) | Ic mimarlik ve cevre tasarimi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Kultur Varliklarini Koruma Ve Onarim](mimarlik_ve_tasarim/kultur_varliklarini_koruma_ve_onarim/) | Kultur varliklarini koruma ve onarim alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Kuyumculuk Ve Mucevher Tasarimi](mimarlik_ve_tasarim/kuyumculuk_ve_mucevher_tasarimi/) | Kuyumculuk ve mucevher tasarimi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Mimarlik](mimarlik_ve_tasarim/mimarlik/) | Mimarlik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Mucevherat Ve Degerli Tas Bilimi](mimarlik_ve_tasarim/mucevherat_ve_degerli_tas_bilimi/) | Mucevherat ve degerli tas bilimi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Muzik](mimarlik_ve_tasarim/muzik/) | Muzik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Peyzaj Mimarligi](mimarlik_ve_tasarim/peyzaj_mimarligi/) | Peyzaj mimarligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Sehir Ve Bolge Planlama](mimarlik_ve_tasarim/sehir_ve_bolge_planlama/) | Sehir ve bolge planlama alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Seramik Ve Cam Tasarimi](mimarlik_ve_tasarim/seramik_ve_cam_tasarimi/) | Seramik ve cam tasarimi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Tekstil Ve Moda Tasarimi](mimarlik_ve_tasarim/tekstil_ve_moda_tasarimi/) | Tekstil ve moda tasarimi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Tiyatro Oyunculuk](mimarlik_ve_tasarim/tiyatro_oyunculuk/) | Tiyatro oyunculuk alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Cizgi Film Ve Animasyon](mimarlik_ve_tasarim/cizgi_film_ve_animasyon/) | Cizgi Film Ve Animasyon disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Endustriyel Tasarim](mimarlik_ve_tasarim/endustriyel_tasarim/) | Endustriyel Tasarim disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Gorsel Iletisim Tasarimi](mimarlik_ve_tasarim/gorsel_iletisim_tasarimi/) | Gorsel Iletisim Tasarimi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Grafik Tasarimi](mimarlik_ve_tasarim/grafik_tasarimi/) | Grafik Tasarimi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ic Mimarlik Ve Cevre Tasarimi](mimarlik_ve_tasarim/ic_mimarlik_ve_cevre_tasarimi/) | Ic Mimarlik Ve Cevre Tasarimi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Kultur Varliklarini Koruma Ve Onarim](mimarlik_ve_tasarim/kultur_varliklarini_koruma_ve_onarim/) | Kultur Varliklarini Koruma Ve Onarim disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Kuyumculuk Ve Mucevher Tasarimi](mimarlik_ve_tasarim/kuyumculuk_ve_mucevher_tasarimi/) | Kuyumculuk Ve Mucevher Tasarimi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Mimarlik](mimarlik_ve_tasarim/mimarlik/) | Mimarlik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Mucevherat Ve Degerli Tas Bilimi](mimarlik_ve_tasarim/mucevherat_ve_degerli_tas_bilimi/) | Mucevherat Ve Degerli Tas Bilimi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Muzik](mimarlik_ve_tasarim/muzik/) | Muzik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Peyzaj Mimarligi](mimarlik_ve_tasarim/peyzaj_mimarligi/) | Peyzaj Mimarligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Sehir Ve Bolge Planlama](mimarlik_ve_tasarim/sehir_ve_bolge_planlama/) | Sehir Ve Bolge Planlama disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Seramik Ve Cam Tasarimi](mimarlik_ve_tasarim/seramik_ve_cam_tasarimi/) | Seramik Ve Cam Tasarimi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Tekstil Ve Moda Tasarimi](mimarlik_ve_tasarim/tekstil_ve_moda_tasarimi/) | Tekstil Ve Moda Tasarimi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Tiyatro Oyunculuk](mimarlik_ve_tasarim/tiyatro_oyunculuk/) | Tiyatro Oyunculuk disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
 
 <details>
-<summary><b>🖼️ Güzel Sanatlar (8 Alan)</b></summary>
+<summary><b>🖼️ Güzel Sanatlar & Estetik (8 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Dijital Tiyatro](guzel_sanatlar/dijital_tiyatro/) | Dijital tiyatro alanında teorik ve pratik uzmanlık çalışmaları. |
-| [El Sanatlari](guzel_sanatlar/el_sanatlari/) | El sanatlari alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Fotograf](guzel_sanatlar/fotograf/) | Fotograf alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Geleneksel Cin Operasi Ve Muzigi](guzel_sanatlar/geleneksel_cin_operasi_ve_muzigi/) | Geleneksel cin operasi ve muzigi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Geleneksel Turk Sanatlari](guzel_sanatlar/geleneksel_turk_sanatlari/) | Geleneksel turk sanatlari alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Guzel Sanatlar Arastirma](guzel_sanatlar/guzel_sanatlar_arastirma/) | Guzel sanatlar arastirma alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Heykel](guzel_sanatlar/heykel/) | Heykel alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Resim](guzel_sanatlar/resim/) | Resim alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Dijital Tiyatro](guzel_sanatlar/dijital_tiyatro/) | Dijital Tiyatro disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [El Sanatlari](guzel_sanatlar/el_sanatlari/) | El Sanatlari disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Fotograf](guzel_sanatlar/fotograf/) | Fotograf disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Geleneksel Cin Operasi Ve Muzigi](guzel_sanatlar/geleneksel_cin_operasi_ve_muzigi/) | Geleneksel Cin Operasi Ve Muzigi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Geleneksel Turk Sanatlari](guzel_sanatlar/geleneksel_turk_sanatlari/) | Geleneksel Turk Sanatlari disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Guzel Sanatlar Arastirma](guzel_sanatlar/guzel_sanatlar_arastirma/) | Guzel Sanatlar Arastirma disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Heykel](guzel_sanatlar/heykel/) | Heykel disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Resim](guzel_sanatlar/resim/) | Resim disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
 
 <details>
-<summary><b>🩺 Sağlık Bilimleri (30 Alan)</b></summary>
+<summary><b>🩺 Sağlık Bilimleri & Tıp (30 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Acil Yardim Ve Afet Yonetimi](saglik/acil_yardim_ve_afet_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Akupunktur Ve Moxibustion](saglik/akupunktur_ve_moxibustion/) | Akupunktur ve moxibustion alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Ameliyathane Hizmetleri](saglik/ameliyathane_hizmetleri/) | Ameliyathane hizmetleri alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Anestezi Ve Reanimasyon](saglik/anestezi_ve_reanimasyon/) | Anestezi ve reanimasyon alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Beslenme Ve Diyetetik](saglik/beslenme_ve_diyetetik/) | Beslenme ve diyetetik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Cocuk Gelisimi](saglik/cocuk_gelisimi/) | Cocuk gelisimi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Dil Ve Konusma Terapisi](saglik/dil_ve_konusma_terapisi/) | Dil ve konusma terapisi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Dis Hekimligi](saglik/dis_hekimligi/) | Dis hekimligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Ebelik](saglik/ebelik/) | Ebelik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Eczacilik](saglik/eczacilik/) | Eczacilik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Ergoterapi](saglik/ergoterapi/) | Ergoterapi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Fizyoterapi Ve Rehabilitasyon](saglik/fizyoterapi_ve_rehabilitasyon/) | Fizyoterapi ve rehabilitasyon alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Geleneksel Cin Tibbi](saglik/geleneksel_cin_tibbi/) | Binlerce yıllık kadim Çin tıp öğretileri ve bitkisel tedavi metodolojileri. |
-| [Geleneksel Cin Veteriner Hekimligi](saglik/geleneksel_cin_veteriner_hekimligi/) | Geleneksel cin veteriner hekimligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Gerontoloji](saglik/gerontoloji/) | Gerontoloji alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Hemsirelik](saglik/hemsirelik/) | Hemsirelik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Is Ve Ugrasi Terapisi](saglik/is_ve_ugrasi_terapisi/) | Is ve ugrasi terapisi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Medikal Cihaz Ve Ekipman Muhendisligi](saglik/medikal_cihaz_ve_ekipman_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Molekuler Biyoloji Ve Genetik](saglik/molekuler_biyoloji_ve_genetik/) | Molekuler biyoloji ve genetik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Nukleer Eczacilik](saglik/nukleer_eczacilik/) | Nukleer eczacilik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Odyoloji](saglik/odyoloji/) | Odyoloji alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Ozurluluk Calismalari](saglik/ozurluluk_calismalari/) | Ozurluluk calismalari alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Perfuzyon](saglik/perfuzyon/) | Perfuzyon alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Saglik Bilimi Ve Teknolojisi](saglik/saglik_bilimi_ve_teknolojisi/) | Modern teknolojik araçların ve süreçlerin ilgili alan özelinde uygulanması ve yönetimi. |
-| [Saglik Ve Tibbi Guvenlik](saglik/saglik_ve_tibbi_guvenlik/) | Saglik ve tibbi guvenlik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Saglik Yonetimi](saglik/saglik_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Tibbi Goruntuleme Teknikleri](saglik/tibbi_goruntuleme_teknikleri/) | Tibbi goruntuleme teknikleri alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Tibbi Laboratuvar Teknikleri](saglik/tibbi_laboratuvar_teknikleri/) | Tibbi laboratuvar teknikleri alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Tip](saglik/tip/) | Tip alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Veterinerlik](saglik/veterinerlik/) | Veterinerlik alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Acil Yardim Ve Afet Yonetimi](saglik/acil_yardim_ve_afet_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Akupunktur Ve Moxibustion](saglik/akupunktur_ve_moxibustion/) | Akupunktur Ve Moxibustion disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ameliyathane Hizmetleri](saglik/ameliyathane_hizmetleri/) | Ameliyathane Hizmetleri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Anestezi Ve Reanimasyon](saglik/anestezi_ve_reanimasyon/) | Anestezi Ve Reanimasyon disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Beslenme Ve Diyetetik](saglik/beslenme_ve_diyetetik/) | Beslenme Ve Diyetetik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Cocuk Gelisimi](saglik/cocuk_gelisimi/) | Cocuk Gelisimi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Dil Ve Konusma Terapisi](saglik/dil_ve_konusma_terapisi/) | Dil Ve Konusma Terapisi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Dis Hekimligi](saglik/dis_hekimligi/) | Dis Hekimligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ebelik](saglik/ebelik/) | Ebelik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Eczacilik](saglik/eczacilik/) | Eczacilik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ergoterapi](saglik/ergoterapi/) | Ergoterapi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Fizyoterapi Ve Rehabilitasyon](saglik/fizyoterapi_ve_rehabilitasyon/) | Fizyoterapi Ve Rehabilitasyon disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Geleneksel Cin Tibbi](saglik/geleneksel_cin_tibbi/) | Geleneksel Cin Tibbi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Geleneksel Cin Veteriner Hekimligi](saglik/geleneksel_cin_veteriner_hekimligi/) | Geleneksel Cin Veteriner Hekimligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Gerontoloji](saglik/gerontoloji/) | Gerontoloji disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Hemsirelik](saglik/hemsirelik/) | Hemsirelik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Is Ve Ugrasi Terapisi](saglik/is_ve_ugrasi_terapisi/) | Is Ve Ugrasi Terapisi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Medikal Cihaz Ve Ekipman Mühendisliği](saglik/medikal_cihaz_ve_ekipman_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Molekuler Biyoloji Ve Genetik](saglik/molekuler_biyoloji_ve_genetik/) | Molekuler Biyoloji Ve Genetik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Nukleer Eczacilik](saglik/nukleer_eczacilik/) | Nukleer Eczacilik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Odyoloji](saglik/odyoloji/) | Odyoloji disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ozurluluk Calismalari](saglik/ozurluluk_calismalari/) | Ozurluluk Calismalari disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Perfuzyon](saglik/perfuzyon/) | Perfuzyon disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Saglik Bilimi Ve Teknolojisi](saglik/saglik_bilimi_ve_teknolojisi/) | Saglik Bilimi Ve Teknolojisi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Saglik Ve Tibbi Guvenlik](saglik/saglik_ve_tibbi_guvenlik/) | Saglik Ve Tibbi Guvenlik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Saglik Yonetimi](saglik/saglik_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Tibbi Goruntuleme Teknikleri](saglik/tibbi_goruntuleme_teknikleri/) | Tibbi Goruntuleme Teknikleri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Tibbi Laboratuvar Teknikleri](saglik/tibbi_laboratuvar_teknikleri/) | Tibbi Laboratuvar Teknikleri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Tip](saglik/tip/) | Tip disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Veterinerlik](saglik/veterinerlik/) | Veterinerlik disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
 
 <details>
-<summary><b>🎓 Eğitim ve Öğretmenlik (16 Alan)</b></summary>
+<summary><b>🎓 Eğitim Fakültesi & Pedagoji (16 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Beden Egitimi Ve Spor Ogretmenligi](ogretmenlik/beden_egitimi_ve_spor_ogretmenligi/) | Beden egitimi ve spor ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Bilgisayar Ve Ogretim Teknolojileri Egitimi](ogretmenlik/bilgisayar_ve_ogretim_teknolojileri_egitimi/) | Bilgisayar ve ogretim teknolojileri egitimi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Din Kulturu Ve Ahlak Bilgisi Ogretmenligi](ogretmenlik/din_kulturu_ve_ahlak_bilgisi_ogretmenligi/) | Din kulturu ve ahlak bilgisi ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Egitim Yonetimi](ogretmenlik/egitim_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Fen Bilgisi Ogretmenligi](ogretmenlik/fen_bilgisi_ogretmenligi/) | Fen bilgisi ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Ilkogretim Matematik Ogretmenligi](ogretmenlik/ilkogretim_matematik_ogretmenligi/) | Ilkogretim matematik ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Ingilizce Ogretmenligi](ogretmenlik/ingilizce_ogretmenligi/) | Ingilizce ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Muzik Ogretmenligi](ogretmenlik/muzik_ogretmenligi/) | Muzik ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Okul Oncesi Ogretmenligi](ogretmenlik/okul_oncesi_ogretmenligi/) | Okul oncesi ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Ozel Egitim Ogretmenligi](ogretmenlik/ozel_egitim_ogretmenligi/) | Ozel egitim ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Rehberlik Ve Psikolojik Danismanlik](ogretmenlik/rehberlik_ve_psikolojik_danismanlik/) | Rehberlik ve psikolojik danismanlik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Resim Is Ogretmenligi](ogretmenlik/resim_is_ogretmenligi/) | Resim is ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Saglik Bilgisi Ogretmenligi](ogretmenlik/saglik_bilgisi_ogretmenligi/) | Saglik bilgisi ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Sinif Ogretmenligi](ogretmenlik/sinif_ogretmenligi/) | Sinif ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Sosyal Bilgiler Ogretmenligi](ogretmenlik/sosyal_bilgiler_ogretmenligi/) | Sosyal bilgiler ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Turkce Ogretmenligi](ogretmenlik/turkce_ogretmenligi/) | Turkce ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Beden Egitimi Ve Spor Ogretmenligi](ogretmenlik/beden_egitimi_ve_spor_ogretmenligi/) | Beden Egitimi Ve Spor Ogretmenligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Bilgisayar Ve Ogretim Teknolojileri Egitimi](ogretmenlik/bilgisayar_ve_ogretim_teknolojileri_egitimi/) | Bilgisayar Ve Ogretim Teknolojileri Egitimi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Din Kulturu Ve Ahlak Bilgisi Ogretmenligi](ogretmenlik/din_kulturu_ve_ahlak_bilgisi_ogretmenligi/) | Din Kulturu Ve Ahlak Bilgisi Ogretmenligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Egitim Yonetimi](ogretmenlik/egitim_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Fen Bilgisi Ogretmenligi](ogretmenlik/fen_bilgisi_ogretmenligi/) | Fen Bilgisi Ogretmenligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ilkogretim Matematik Ogretmenligi](ogretmenlik/ilkogretim_matematik_ogretmenligi/) | Ilkogretim Matematik Ogretmenligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ingilizce Ogretmenligi](ogretmenlik/ingilizce_ogretmenligi/) | Ingilizce Ogretmenligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Muzik Ogretmenligi](ogretmenlik/muzik_ogretmenligi/) | Muzik Ogretmenligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Okul Oncesi Ogretmenligi](ogretmenlik/okul_oncesi_ogretmenligi/) | Okul Oncesi Ogretmenligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ozel Egitim Ogretmenligi](ogretmenlik/ozel_egitim_ogretmenligi/) | Ozel Egitim Ogretmenligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Rehberlik Ve Psikolojik Danismanlik](ogretmenlik/rehberlik_ve_psikolojik_danismanlik/) | Rehberlik Ve Psikolojik Danismanlik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Resim Is Ogretmenligi](ogretmenlik/resim_is_ogretmenligi/) | Resim Is Ogretmenligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Saglik Bilgisi Ogretmenligi](ogretmenlik/saglik_bilgisi_ogretmenligi/) | Saglik Bilgisi Ogretmenligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Sinif Ogretmenligi](ogretmenlik/sinif_ogretmenligi/) | Sinif Ogretmenligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Sosyal Bilgiler Ogretmenligi](ogretmenlik/sosyal_bilgiler_ogretmenligi/) | Sosyal Bilgiler Ogretmenligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Turkce Ogretmenligi](ogretmenlik/turkce_ogretmenligi/) | Turkce Ogretmenligi disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
 
 <details>
-<summary><b>🏅 Spor Bilimleri (8 Alan)</b></summary>
+<summary><b>🏅 Spor Bilimleri & Performans (8 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Antrenorluk Egitimi](spor_bilimleri/antrenorluk_egitimi/) | Antrenorluk egitimi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Beden Egitimi Ve Spor Bilimleri](spor_bilimleri/beden_egitimi_ve_spor_bilimleri/) | Beden egitimi ve spor bilimleri alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Buz Ve Kar Dansi Performansi](spor_bilimleri/buz_ve_kar_dansi_performansi/) | Buz ve kar dansi performansi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Futbol Bilimi](spor_bilimleri/futbol_bilimi/) | Futbolun teknik, taktik, biyomekanik ve yönetimsel boyutlarının akademik analizi. |
-| [Geleneksel Cin Savas Sanatlari Wushu](spor_bilimleri/geleneksel_cin_savas_sanatlari_wushu/) | Geleneksel cin savas sanatlari wushu alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Havacilik Sporlari](spor_bilimleri/havacilik_sporlari/) | Havacilik sporlari alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Rekreasyon](spor_bilimleri/rekreasyon/) | Rekreasyon alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Spor Yoneticiligi](spor_bilimleri/spor_yoneticiligi/) | Spor yoneticiligi alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Antrenorluk Egitimi](spor_bilimleri/antrenorluk_egitimi/) | Antrenorluk Egitimi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Beden Egitimi Ve Spor Bilimleri](spor_bilimleri/beden_egitimi_ve_spor_bilimleri/) | Beden Egitimi Ve Spor Bilimleri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Buz Ve Kar Dansi Performansi](spor_bilimleri/buz_ve_kar_dansi_performansi/) | Buz Ve Kar Dansi Performansi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Futbol Bilimi](spor_bilimleri/futbol_bilimi/) | Futbol Bilimi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Geleneksel Cin Savas Sanatlari Wushu](spor_bilimleri/geleneksel_cin_savas_sanatlari_wushu/) | Geleneksel Cin Savas Sanatlari Wushu disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Havacilik Sporlari](spor_bilimleri/havacilik_sporlari/) | Havacilik Sporlari disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Rekreasyon](spor_bilimleri/rekreasyon/) | Rekreasyon disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Spor Yoneticiligi](spor_bilimleri/spor_yoneticiligi/) | Spor Yoneticiligi disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
 
 <details>
-<summary><b>⚖️ Sosyal ve Beşeri Bilimler (39 Alan)</b></summary>
+<summary><b>⚖️ Sosyal, Beşeri & İdari Bilimler (39 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Aktüerya Bilimleri](sosyal_ve_beseri_bilimler/aktüerya_bilimleri/) | Aktüerya bilimleri alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Antropoloji](sosyal_ve_beseri_bilimler/antropoloji/) | Antropoloji alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Arkeoloji](sosyal_ve_beseri_bilimler/arkeoloji/) | Arkeoloji alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Bolgesel Ve Ulke Arastirmalari](sosyal_ve_beseri_bilimler/bolgesel_ve_ulke_arastirmalari/) | Bolgesel ve ulke arastirmalari alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Calisma Ekonomisi Ve Endustri Iliskileri](sosyal_ve_beseri_bilimler/calisma_ekonomisi_ve_endustri_iliskileri/) | Calisma ekonomisi ve endustri iliskileri alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Cografya](sosyal_ve_beseri_bilimler/cografya/) | Cografya alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Dilbilim](sosyal_ve_beseri_bilimler/dilbilim/) | Dilbilim alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Dis Ticaret](sosyal_ve_beseri_bilimler/dis_ticaret/) | Dis ticaret alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Ekonometri](sosyal_ve_beseri_bilimler/ekonometri/) | Ekonometri alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Ekonomi](sosyal_ve_beseri_bilimler/ekonomi/) | Ekonomi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Enerji Yonetimi](sosyal_ve_beseri_bilimler/enerji_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Felsefe](sosyal_ve_beseri_bilimler/felsefe/) | Felsefe alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Girisimcilik](sosyal_ve_beseri_bilimler/girisimcilik/) | Girisimcilik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Halk Bilimi](sosyal_ve_beseri_bilimler/halk_bilimi/) | Halk bilimi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Halkbilimi](sosyal_ve_beseri_bilimler/halkbilimi/) | Halkbilimi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Havacilik Yonetimi](sosyal_ve_beseri_bilimler/havacilik_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Iktisat](sosyal_ve_beseri_bilimler/iktisat/) | Iktisat alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Insan Kaynaklari Yonetimi](sosyal_ve_beseri_bilimler/insan_kaynaklari_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Isletme](sosyal_ve_beseri_bilimler/isletme/) | Isletme alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Kutuphanecilik Ve Bilgi Yonetimi](sosyal_ve_beseri_bilimler/kutuphanecilik_ve_bilgi_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Lojistik Yonetimi](sosyal_ve_beseri_bilimler/lojistik_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Maliye](sosyal_ve_beseri_bilimler/maliye/) | Maliye alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Muhasebe Ve Finans Yonetimi](sosyal_ve_beseri_bilimler/muhasebe_ve_finans_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Muze Yonetimi](sosyal_ve_beseri_bilimler/muze_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Muzeoloji Ve Arsivcilik](sosyal_ve_beseri_bilimler/muzeoloji_ve_arsivcilik/) | Muzeoloji ve arsivcilik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Psikoloji](sosyal_ve_beseri_bilimler/psikoloji/) | Psikoloji alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Sanat Tarihi](sosyal_ve_beseri_bilimler/sanat_tarihi/) | Sanat tarihi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Sanat Yonetimi](sosyal_ve_beseri_bilimler/sanat_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Sigortacilik Ve Risk Yonetimi](sosyal_ve_beseri_bilimler/sigortacilik_ve_risk_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Siyaset Bilimi Ve Kamu Yonetimi](sosyal_ve_beseri_bilimler/siyaset_bilimi_ve_kamu_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Sosyal Hizmet](sosyal_ve_beseri_bilimler/sosyal_hizmet/) | Sosyal hizmet alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Sosyoloji](sosyal_ve_beseri_bilimler/sosyoloji/) | Sosyoloji alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Stratejik Hammadde Ekonomisi](sosyal_ve_beseri_bilimler/stratejik_hammadde_ekonomisi/) | Stratejik hammadde ekonomisi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Su Sektoru Ekonomisi Ve Yonetimi](sosyal_ve_beseri_bilimler/su_sektoru_ekonomisi_ve_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Tarih](sosyal_ve_beseri_bilimler/tarih/) | Tarih alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Uluslararasi Iliskiler](sosyal_ve_beseri_bilimler/uluslararasi_iliskiler/) | Uluslararasi iliskiler alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Uluslararasi Ticaret Ve Lojistik](sosyal_ve_beseri_bilimler/uluslararasi_ticaret_ve_lojistik/) | Uluslararasi ticaret ve lojistik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Yenilik Yonetimi](sosyal_ve_beseri_bilimler/yenilik_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Yonetim Bilisim Sistemleri](sosyal_ve_beseri_bilimler/yonetim_bilisim_sistemleri/) | Yonetim bilisim sistemleri alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Aktüerya Bilimleri](sosyal_ve_beseri_bilimler/aktüerya_bilimleri/) | Aktüerya Bilimleri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Antropoloji](sosyal_ve_beseri_bilimler/antropoloji/) | Antropoloji disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Arkeoloji](sosyal_ve_beseri_bilimler/arkeoloji/) | Arkeoloji disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Bolgesel Ve Ulke Arastirmalari](sosyal_ve_beseri_bilimler/bolgesel_ve_ulke_arastirmalari/) | Bolgesel Ve Ulke Arastirmalari disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Calisma Ekonomisi Ve Endustri Iliskileri](sosyal_ve_beseri_bilimler/calisma_ekonomisi_ve_endustri_iliskileri/) | Calisma Ekonomisi Ve Endustri Iliskileri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Cografya](sosyal_ve_beseri_bilimler/cografya/) | Cografya disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Dilbilim](sosyal_ve_beseri_bilimler/dilbilim/) | Dilbilim disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Dis Ticaret](sosyal_ve_beseri_bilimler/dis_ticaret/) | Dis Ticaret disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ekonometri](sosyal_ve_beseri_bilimler/ekonometri/) | Ekonometri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ekonomi](sosyal_ve_beseri_bilimler/ekonomi/) | Ekonomi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Enerji Yonetimi](sosyal_ve_beseri_bilimler/enerji_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Felsefe](sosyal_ve_beseri_bilimler/felsefe/) | Felsefe disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Girisimcilik](sosyal_ve_beseri_bilimler/girisimcilik/) | Girisimcilik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Halk Bilimi](sosyal_ve_beseri_bilimler/halk_bilimi/) | Halk Bilimi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Halkbilimi](sosyal_ve_beseri_bilimler/halkbilimi/) | Halkbilimi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Havacilik Yonetimi](sosyal_ve_beseri_bilimler/havacilik_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Iktisat](sosyal_ve_beseri_bilimler/iktisat/) | Iktisat disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Insan Kaynaklari Yonetimi](sosyal_ve_beseri_bilimler/insan_kaynaklari_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [İşletme](sosyal_ve_beseri_bilimler/isletme/) | Isletme disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Kutuphanecilik Ve Bilgi Yonetimi](sosyal_ve_beseri_bilimler/kutuphanecilik_ve_bilgi_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Lojistik Yonetimi](sosyal_ve_beseri_bilimler/lojistik_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Maliye](sosyal_ve_beseri_bilimler/maliye/) | Maliye disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Muhasebe Ve Finans Yonetimi](sosyal_ve_beseri_bilimler/muhasebe_ve_finans_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Muze Yonetimi](sosyal_ve_beseri_bilimler/muze_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Muzeoloji Ve Arsivcilik](sosyal_ve_beseri_bilimler/muzeoloji_ve_arsivcilik/) | Muzeoloji Ve Arsivcilik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Psikoloji](sosyal_ve_beseri_bilimler/psikoloji/) | Psikoloji disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Sanat Tarihi](sosyal_ve_beseri_bilimler/sanat_tarihi/) | Sanat Tarihi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Sanat Yonetimi](sosyal_ve_beseri_bilimler/sanat_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Sigortacilik Ve Risk Yonetimi](sosyal_ve_beseri_bilimler/sigortacilik_ve_risk_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Siyaset Bilimi Ve Kamu Yonetimi](sosyal_ve_beseri_bilimler/siyaset_bilimi_ve_kamu_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Sosyal Hizmet](sosyal_ve_beseri_bilimler/sosyal_hizmet/) | Sosyal Hizmet disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Sosyoloji](sosyal_ve_beseri_bilimler/sosyoloji/) | Sosyoloji disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Stratejik Hammadde Ekonomisi](sosyal_ve_beseri_bilimler/stratejik_hammadde_ekonomisi/) | Stratejik Hammadde Ekonomisi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Su Sektoru Ekonomisi Ve Yonetimi](sosyal_ve_beseri_bilimler/su_sektoru_ekonomisi_ve_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Tarih](sosyal_ve_beseri_bilimler/tarih/) | Tarih disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Uluslararasi Iliskiler](sosyal_ve_beseri_bilimler/uluslararasi_iliskiler/) | Uluslararasi Iliskiler disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Uluslararasi Ticaret Ve Lojistik](sosyal_ve_beseri_bilimler/uluslararasi_ticaret_ve_lojistik/) | Uluslararasi Ticaret Ve Lojistik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Yenilik Yonetimi](sosyal_ve_beseri_bilimler/yenilik_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Yonetim Bilişim Sistemleri](sosyal_ve_beseri_bilimler/yonetim_bilisim_sistemleri/) | Yonetim Bilisim Sistemleri disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
 
 <details>
-<summary><b>🧪 Temel Bilimler (12 Alan)</b></summary>
+<summary><b>🧪 Temel Fen Bilimleri (12 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Astronomi Ve Uzay Bilimleri](temel_bilimler/astronomi_ve_uzay_bilimleri/) | Astronomi ve uzay bilimleri alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Biyoistatistik](temel_bilimler/biyoistatistik/) | Biyoistatistik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Biyoloji](temel_bilimler/biyoloji/) | Biyoloji alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Deniz Bilimleri Ve Teknolojisi](temel_bilimler/deniz_bilimleri_ve_teknolojisi/) | Modern teknolojik araçların ve süreçlerin ilgili alan özelinde uygulanması ve yönetimi. |
-| [Ekolojik Restorasyon](temel_bilimler/ekolojik_restorasyon/) | Ekolojik restorasyon alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Fizik](temel_bilimler/fizik/) | Fizik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Istatistik](temel_bilimler/istatistik/) | Istatistik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Jeoloji](temel_bilimler/jeoloji/) | Jeoloji alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Kimya](temel_bilimler/kimya/) | Kimya alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Matematik](temel_bilimler/matematik/) | Matematik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Sulak Alan Bilimi Ve Yonetimi](temel_bilimler/sulak_alan_bilimi_ve_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Yer Bilimleri](temel_bilimler/yer_bilimleri/) | Yer bilimleri alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Astronomi Ve Uzay Bilimleri](temel_bilimler/astronomi_ve_uzay_bilimleri/) | Astronomi Ve Uzay Bilimleri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Biyoistatistik](temel_bilimler/biyoistatistik/) | Biyoistatistik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Biyoloji](temel_bilimler/biyoloji/) | Biyoloji disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Deniz Bilimleri Ve Teknolojisi](temel_bilimler/deniz_bilimleri_ve_teknolojisi/) | Deniz Bilimleri Ve Teknolojisi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ekolojik Restorasyon](temel_bilimler/ekolojik_restorasyon/) | Ekolojik Restorasyon disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Fizik](temel_bilimler/fizik/) | Fizik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Istatistik](temel_bilimler/istatistik/) | Istatistik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Jeoloji](temel_bilimler/jeoloji/) | Jeoloji disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Kimya](temel_bilimler/kimya/) | Kimya disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Matematik](temel_bilimler/matematik/) | Matematik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Sulak Alan Bilimi Ve Yonetimi](temel_bilimler/sulak_alan_bilimi_ve_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Yer Bilimleri](temel_bilimler/yer_bilimleri/) | Yer Bilimleri disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
 
 <details>
-<summary><b>📚 Edebiyat ve Diller (17 Alan)</b></summary>
+<summary><b>📚 Filoloji, Dil & Edebiyat (17 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Alman Dili Ve Edebiyati](edebiyat_ve_diller/alman_dili_ve_edebiyati/) | İlgili dilin dilbilgisi yapısı, edebiyat tarihi ve kültürel bağlamının akademik incelenmesi. |
-| [Arap Dili Ve Edebiyati](edebiyat_ve_diller/arap_dili_ve_edebiyati/) | İlgili dilin dilbilgisi yapısı, edebiyat tarihi ve kültürel bağlamının akademik incelenmesi. |
-| [Cin Dili Ve Edebiyati](edebiyat_ve_diller/cin_dili_ve_edebiyati/) | İlgili dilin dilbilgisi yapısı, edebiyat tarihi ve kültürel bağlamının akademik incelenmesi. |
-| [Cin Klasik Calismalari](edebiyat_ve_diller/cin_klasik_calismalari/) | Cin klasik calismalari alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Dogu Kulturleri Ve Bolge Arastirmalari](edebiyat_ve_diller/dogu_kulturleri_ve_bolge_arastirmalari/) | Dogu kulturleri ve bolge arastirmalari alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Fars Dili Ve Edebiyati](edebiyat_ve_diller/fars_dili_ve_edebiyati/) | İlgili dilin dilbilgisi yapısı, edebiyat tarihi ve kültürel bağlamının akademik incelenmesi. |
-| [Fransiz Dili Ve Edebiyati](edebiyat_ve_diller/fransiz_dili_ve_edebiyati/) | İlgili dilin dilbilgisi yapısı, edebiyat tarihi ve kültürel bağlamının akademik incelenmesi. |
-| [Hititoloji](edebiyat_ve_diller/hititoloji/) | Hititoloji alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Ingiliz Dili Ve Edebiyati](edebiyat_ve_diller/ingiliz_dili_ve_edebiyati/) | İlgili dilin dilbilgisi yapısı, edebiyat tarihi ve kültürel bağlamının akademik incelenmesi. |
-| [Ispanyol Dili Ve Edebiyati](edebiyat_ve_diller/ispanyol_dili_ve_edebiyati/) | İlgili dilin dilbilgisi yapısı, edebiyat tarihi ve kültürel bağlamının akademik incelenmesi. |
-| [Italyan Dili Ve Edebiyati](edebiyat_ve_diller/italyan_dili_ve_edebiyati/) | İlgili dilin dilbilgisi yapısı, edebiyat tarihi ve kültürel bağlamının akademik incelenmesi. |
-| [Japon Dili Ve Edebiyati](edebiyat_ve_diller/japon_dili_ve_edebiyati/) | İlgili dilin dilbilgisi yapısı, edebiyat tarihi ve kültürel bağlamının akademik incelenmesi. |
-| [Kore Dili Ve Edebiyati](edebiyat_ve_diller/kore_dili_ve_edebiyati/) | İlgili dilin dilbilgisi yapısı, edebiyat tarihi ve kültürel bağlamının akademik incelenmesi. |
-| [Mutercim Ve Tercumanlik](edebiyat_ve_diller/mutercim_ve_tercumanlik/) | Mutercim ve tercumanlik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Rus Dili Ve Edebiyati](edebiyat_ve_diller/rus_dili_ve_edebiyati/) | İlgili dilin dilbilgisi yapısı, edebiyat tarihi ve kültürel bağlamının akademik incelenmesi. |
-| [Sumeroloji](edebiyat_ve_diller/sumeroloji/) | Sumeroloji alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Turk Dili Ve Edebiyati](edebiyat_ve_diller/turk_dili_ve_edebiyati/) | İlgili dilin dilbilgisi yapısı, edebiyat tarihi ve kültürel bağlamının akademik incelenmesi. |
+| [Alman Dili Ve Edebiyati](edebiyat_ve_diller/alman_dili_ve_edebiyati/) | Filolojik yapı ve kültürel mirasın derinlemesine incelenmesi. |
+| [Arap Dili Ve Edebiyati](edebiyat_ve_diller/arap_dili_ve_edebiyati/) | Filolojik yapı ve kültürel mirasın derinlemesine incelenmesi. |
+| [Cin Dili Ve Edebiyati](edebiyat_ve_diller/cin_dili_ve_edebiyati/) | Filolojik yapı ve kültürel mirasın derinlemesine incelenmesi. |
+| [Cin Klasik Calismalari](edebiyat_ve_diller/cin_klasik_calismalari/) | Cin Klasik Calismalari disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Dogu Kulturleri Ve Bolge Arastirmalari](edebiyat_ve_diller/dogu_kulturleri_ve_bolge_arastirmalari/) | Dogu Kulturleri Ve Bolge Arastirmalari disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Fars Dili Ve Edebiyati](edebiyat_ve_diller/fars_dili_ve_edebiyati/) | Filolojik yapı ve kültürel mirasın derinlemesine incelenmesi. |
+| [Fransiz Dili Ve Edebiyati](edebiyat_ve_diller/fransiz_dili_ve_edebiyati/) | Filolojik yapı ve kültürel mirasın derinlemesine incelenmesi. |
+| [Hititoloji](edebiyat_ve_diller/hititoloji/) | Hititoloji disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ingiliz Dili Ve Edebiyati](edebiyat_ve_diller/ingiliz_dili_ve_edebiyati/) | Filolojik yapı ve kültürel mirasın derinlemesine incelenmesi. |
+| [Ispanyol Dili Ve Edebiyati](edebiyat_ve_diller/ispanyol_dili_ve_edebiyati/) | Filolojik yapı ve kültürel mirasın derinlemesine incelenmesi. |
+| [Italyan Dili Ve Edebiyati](edebiyat_ve_diller/italyan_dili_ve_edebiyati/) | Filolojik yapı ve kültürel mirasın derinlemesine incelenmesi. |
+| [Japon Dili Ve Edebiyati](edebiyat_ve_diller/japon_dili_ve_edebiyati/) | Filolojik yapı ve kültürel mirasın derinlemesine incelenmesi. |
+| [Kore Dili Ve Edebiyati](edebiyat_ve_diller/kore_dili_ve_edebiyati/) | Filolojik yapı ve kültürel mirasın derinlemesine incelenmesi. |
+| [Mutercim Ve Tercumanlik](edebiyat_ve_diller/mutercim_ve_tercumanlik/) | Mutercim Ve Tercumanlik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Rus Dili Ve Edebiyati](edebiyat_ve_diller/rus_dili_ve_edebiyati/) | Filolojik yapı ve kültürel mirasın derinlemesine incelenmesi. |
+| [Sumeroloji](edebiyat_ve_diller/sumeroloji/) | Sumeroloji disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Turk Dili Ve Edebiyati](edebiyat_ve_diller/turk_dili_ve_edebiyati/) | Filolojik yapı ve kültürel mirasın derinlemesine incelenmesi. |
 
 </details>
 
 <details>
-<summary><b>📡 İletişim Bilimleri (4 Alan)</b></summary>
+<summary><b>📡 İletişim & Medya Bilimleri (4 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Gazetecilik](iletisim/gazetecilik/) | Gazetecilik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Halkla Iliskiler Ve Reklamcilik](iletisim/halkla_iliskiler_ve_reklamcilik/) | Halkla iliskiler ve reklamcilik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Radyo Televizyon Ve Sinema](iletisim/radyo_televizyon_ve_sinema/) | Radyo televizyon ve sinema alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Yeni Medya Ve Iletisim](iletisim/yeni_medya_ve_iletisim/) | Yeni medya ve iletisim alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Gazetecilik](iletisim/gazetecilik/) | Gazetecilik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Halkla Iliskiler Ve Reklamcilik](iletisim/halkla_iliskiler_ve_reklamcilik/) | Halkla Iliskiler Ve Reklamcilik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Radyo Televizyon Ve Sinema](iletisim/radyo_televizyon_ve_sinema/) | Radyo Televizyon Ve Sinema disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Yeni Medya Ve Iletisim](iletisim/yeni_medya_ve_iletisim/) | Yeni Medya Ve Iletisim disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
 
 <details>
-<summary><b>🏨 Turizm ve Gastronomi (7 Alan)</b></summary>
+<summary><b>🏨 Turizm, Otelcilik & Gastronomi (7 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Gastronomi Ve Mutfak Sanatlari](turizm_ve_gastronomi/gastronomi_ve_mutfak_sanatlari/) | Gastronomi ve mutfak sanatlari alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Kahve Bilimi Ve Muhendisligi](turizm_ve_gastronomi/kahve_bilimi_ve_muhendisligi/) | Kahve bitkisinin üretiminden işleme teknolojilerine ve kimyasal analizine kadar tüm süreçler. |
-| [Konaklama Isletmeciligi](turizm_ve_gastronomi/konaklama_isletmeciligi/) | Konaklama isletmeciligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Turizm Isletmeciligi](turizm_ve_gastronomi/turizm_isletmeciligi/) | Turizm isletmeciligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Turizm Rehberligi](turizm_ve_gastronomi/turizm_rehberligi/) | Turizm rehberligi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Uluslararasi Kruvaziyer Yonetimi](turizm_ve_gastronomi/uluslararasi_kruvaziyer_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Yiyecek Icecek Isletmeciligi](turizm_ve_gastronomi/yiyecek_icecek_isletmeciligi/) | Yiyecek icecek isletmeciligi alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Gastronomi Ve Mutfak Sanatlari](turizm_ve_gastronomi/gastronomi_ve_mutfak_sanatlari/) | Gastronomi Ve Mutfak Sanatlari disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Kahve Bilimi Ve Mühendisliği](turizm_ve_gastronomi/kahve_bilimi_ve_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Konaklama İşletmeciligi](turizm_ve_gastronomi/konaklama_isletmeciligi/) | Konaklama Isletmeciligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Turizm İşletmeciligi](turizm_ve_gastronomi/turizm_isletmeciligi/) | Turizm Isletmeciligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Turizm Rehberligi](turizm_ve_gastronomi/turizm_rehberligi/) | Turizm Rehberligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Uluslararasi Kruvaziyer Yonetimi](turizm_ve_gastronomi/uluslararasi_kruvaziyer_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Yiyecek Icecek İşletmeciligi](turizm_ve_gastronomi/yiyecek_icecek_isletmeciligi/) | Yiyecek Icecek Isletmeciligi disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
 
 <details>
-<summary><b>🌱 Tarım ve Ziraat Bilimleri (8 Alan)</b></summary>
+<summary><b>🌱 Tarım, Ziraat & Doğa Bilimleri (8 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Bahce Bitkileri](tarim_ve_ziraat_bilimleri/bahce_bitkileri/) | Bahce bitkileri alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Bitki Koruma](tarim_ve_ziraat_bilimleri/bitki_koruma/) | Bitki koruma alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Biyolojik Islah Teknolojisi](tarim_ve_ziraat_bilimleri/biyolojik_islah_teknolojisi/) | Modern teknolojik araçların ve süreçlerin ilgili alan özelinde uygulanması ve yönetimi. |
-| [Cay Bilimi Ve Teknolojisi](tarim_ve_ziraat_bilimleri/cay_bilimi_ve_teknolojisi/) | Modern teknolojik araçların ve süreçlerin ilgili alan özelinde uygulanması ve yönetimi. |
-| [Tarla Bitkileri](tarim_ve_ziraat_bilimleri/tarla_bitkileri/) | Tarla bitkileri alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Toprak Bilimi Ve Bitki Besleme](tarim_ve_ziraat_bilimleri/toprak_bilimi_ve_bitki_besleme/) | Toprak bilimi ve bitki besleme alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Tutun Bilimi](tarim_ve_ziraat_bilimleri/tutun_bilimi/) | Tütün bitkisinin yetiştirilmesi, endüstriyel işlenmesi ve kalite kontrol süreçleri. |
-| [Zootekni](tarim_ve_ziraat_bilimleri/zootekni/) | Zootekni alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Bahce Bitkileri](tarim_ve_ziraat_bilimleri/bahce_bitkileri/) | Bahce Bitkileri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Bitki Koruma](tarim_ve_ziraat_bilimleri/bitki_koruma/) | Bitki Koruma disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Biyolojik Islah Teknolojisi](tarim_ve_ziraat_bilimleri/biyolojik_islah_teknolojisi/) | Biyolojik Islah Teknolojisi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Cay Bilimi Ve Teknolojisi](tarim_ve_ziraat_bilimleri/cay_bilimi_ve_teknolojisi/) | Cay Bilimi Ve Teknolojisi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Tarla Bitkileri](tarim_ve_ziraat_bilimleri/tarla_bitkileri/) | Tarla Bitkileri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Toprak Bilimi Ve Bitki Besleme](tarim_ve_ziraat_bilimleri/toprak_bilimi_ve_bitki_besleme/) | Toprak Bilimi Ve Bitki Besleme disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Tutun Bilimi](tarim_ve_ziraat_bilimleri/tutun_bilimi/) | Tütün bitkisinin agronomik, endüstriyel ve kimyasal süreçlerinin akademik analizi. |
+| [Zootekni](tarim_ve_ziraat_bilimleri/zootekni/) | Zootekni disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
 
 <details>
-<summary><b>⚔️ Askeri Bilimler ve Savunma (6 Alan)</b></summary>
+<summary><b>⚔️ Savunma Sanayii & Güvenlik Stratejileri (6 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Askeri Havacilik Ve Uzay](askeri_bilimler_ve_savunma_teknolojileri/askeri_havacilik_ve_uzay/) | Askeri havacilik ve uzay alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Askeri Istihbarat Analizi](askeri_bilimler_ve_savunma_teknolojileri/askeri_istihbarat_analizi/) | Askeri istihbarat analizi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Deniz Harp Ve Su Alti Stratejileri](askeri_bilimler_ve_savunma_teknolojileri/deniz_harp_ve_su_alti_stratejileri/) | Deniz harp ve su alti stratejileri alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Komuta Kontrol Ve Strateji](askeri_bilimler_ve_savunma_teknolojileri/komuta_kontrol_ve_strateji/) | Askeri operasyonların yönetimi, karar destek sistemleri ve stratejik planlama. |
-| [Savunma Yonetimi Ve Lojistik](askeri_bilimler_ve_savunma_teknolojileri/savunma_yonetimi_ve_lojistik/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Siber Savunma Ve Elektronik Harp](askeri_bilimler_ve_savunma_teknolojileri/siber_savunma_ve_elektronik_harp/) | Dijital cephede savunma ve radar/sinyal sistemlerinde üstünlük sağlama yöntemleri. |
+| [Askeri Havacilik Ve Uzay](askeri_bilimler_ve_savunma_teknolojileri/askeri_havacilik_ve_uzay/) | Askeri Havacilik Ve Uzay disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Askeri Istihbarat Analizi](askeri_bilimler_ve_savunma_teknolojileri/askeri_istihbarat_analizi/) | Askeri Istihbarat Analizi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Deniz Harp Ve Su Alti Stratejileri](askeri_bilimler_ve_savunma_teknolojileri/deniz_harp_ve_su_alti_stratejileri/) | Deniz Harp Ve Su Alti Stratejileri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Komuta Kontrol Ve Strateji](askeri_bilimler_ve_savunma_teknolojileri/komuta_kontrol_ve_strateji/) | Komuta Kontrol Ve Strateji disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Savunma Yonetimi Ve Lojistik](askeri_bilimler_ve_savunma_teknolojileri/savunma_yonetimi_ve_lojistik/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Siber Savunma Ve Elektronik Harp](askeri_bilimler_ve_savunma_teknolojileri/siber_savunma_ve_elektronik_harp/) | Siber Savunma Ve Elektronik Harp disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
 
 <details>
-<summary><b>⚖️ Hukuk (2 Alan)</b></summary>
+<summary><b>⚖️ Adalet & Hukuk Bilimleri (2 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Deniz Hukuku Ve Stratejisi](hukuk_bilimi/deniz_hukuku_ve_stratejisi/) | Deniz hukuku ve stratejisi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Hukuk](hukuk_bilimi/hukuk/) | Hukuk alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Deniz Hukuku Ve Stratejisi](hukuk_bilimi/deniz_hukuku_ve_stratejisi/) | Mavi Vatan ve uluslararası sularda egemenlik haklarının hukuki temelleri. |
+| [Hukuk](hukuk_bilimi/hukuk/) | Hukuk disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
 
 <details>
-<summary><b>🕌 İlahiyat ve Din (1 Alan)</b></summary>
+<summary><b>🕌 İlahiyat, Din & Felsefe (1 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Ilahiyat](ilahiyat_ve_din/ilahiyat/) | Ilahiyat alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Ilahiyat](ilahiyat_ve_din/ilahiyat/) | Ilahiyat disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
 
 <details>
-<summary><b>📋 Ön Lisans Programları (72 Alan)</b></summary>
+<summary><b>📋 Mesleki Yüksekokul (Ön Lisans) (72 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Adalet](on_lisans_programlari/adalet/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Agiz Ve Dis Sagligi](on_lisans_programlari/agiz_ve_dis_sagligi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Aricilik](on_lisans_programlari/aricilik/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Asansor Teknolojisi](on_lisans_programlari/asansor_teknolojisi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Ascilik](on_lisans_programlari/ascilik/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Atik Yonetimi](on_lisans_programlari/atik_yonetimi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Avcilik Ve Yaban Hayati](on_lisans_programlari/avcilik_ve_yaban_hayati/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Bagcilik](on_lisans_programlari/bagcilik/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Bankacilik Ve Sigortacilik](on_lisans_programlari/bankacilik_ve_sigortacilik/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Bankacilik Ve Sigortacilik Onlisans](on_lisans_programlari/bankacilik_ve_sigortacilik_onlisans/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Bilgisayar Destekli Tasarim Ve Animasyon](on_lisans_programlari/bilgisayar_destekli_tasarim_ve_animasyon/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Bilgisayar Programciligi](on_lisans_programlari/bilgisayar_programciligi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Buro Yonetimi Ve Yonetici Asistanligi](on_lisans_programlari/buro_yonetimi_ve_yonetici_asistanligi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Buyukbas Hayvan Yetistiriciligi](on_lisans_programlari/buyukbas_hayvan_yetistiriciligi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Cay Tarimi Ve Isleme](on_lisans_programlari/cay_tarimi_ve_isleme/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Deniz Ulastirma Ve Isletme Onlisans](on_lisans_programlari/deniz_ulastirma_ve_isletme_onlisans/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Dis Ticaret Onlisans](on_lisans_programlari/dis_ticaret_onlisans/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Diyaliz](on_lisans_programlari/diyaliz/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Eczane Hizmetleri](on_lisans_programlari/eczane_hizmetleri/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Elektronik Teknolojisi](on_lisans_programlari/elektronik_teknolojisi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Elektronorofizyoloji](on_lisans_programlari/elektronorofizyoloji/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Evde Hasta Bakimi](on_lisans_programlari/evde_hasta_bakimi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Fidan Yetistiriciligi](on_lisans_programlari/fidan_yetistiriciligi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Gemi Insaati Onlisans](on_lisans_programlari/gemi_insaati_onlisans/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Gemi Makineleri Isletme Onlisans](on_lisans_programlari/gemi_makineleri_isletme_onlisans/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Grafik Tasarimi Onlisans](on_lisans_programlari/grafik_tasarimi_onlisans/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Halkla Iliskiler Ve Tanitim Onlisans](on_lisans_programlari/halkla_iliskiler_ve_tanitim_onlisans/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Harita Ve Kadastro](on_lisans_programlari/harita_ve_kadastro/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Ilk Ve Acil Yardim](on_lisans_programlari/ilk_ve_acil_yardim/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Insaat Teknolojisi Onlisans](on_lisans_programlari/insaat_teknolojisi_onlisans/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Is Sagligi Ve Guvenligi](on_lisans_programlari/is_sagligi_ve_guvenligi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Is Sagligi Ve Guvenligi Onlisans](on_lisans_programlari/is_sagligi_ve_guvenligi_onlisans/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Is Ve Ugrasi Terapisi Onlisans](on_lisans_programlari/is_ve_ugrasi_terapisi_onlisans/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Itfaiyecilik Ve Sivil Savunma](on_lisans_programlari/itfaiyecilik_ve_sivil_savunma/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Kabin Hizmetleri](on_lisans_programlari/kabin_hizmetleri/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Laboratuvar Teknolojisi](on_lisans_programlari/laboratuvar_teknolojisi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Lojistik Onlisans](on_lisans_programlari/lojistik_onlisans/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Makine Resim Ve Konstruksiyon](on_lisans_programlari/makine_resim_ve_konstruksiyon/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Mekatronik Onlisans](on_lisans_programlari/mekatronik_onlisans/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Muhasebe Ve Vergi Uygulamalari](on_lisans_programlari/muhasebe_ve_vergi_uygulamalari/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Nukleer Tip Teknikleri](on_lisans_programlari/nukleer_tip_teknikleri/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Optisyenlik](on_lisans_programlari/optisyenlik/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Organik Tarim](on_lisans_programlari/organik_tarim/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Ortopedik Protez Ve Ortez](on_lisans_programlari/ortopedik_protez_ve_ortez/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Ozel Guvenlik Ve Koruma](on_lisans_programlari/ozel_guvenlik_ve_koruma/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Patoloji Laboratuvar Teknikleri](on_lisans_programlari/patoloji_laboratuvar_teknikleri/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Perfuzyon Teknikleri](on_lisans_programlari/perfuzyon_teknikleri/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Podoloji](on_lisans_programlari/podoloji/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Polis Meslek Yuksekokulu Dersleri](on_lisans_programlari/polis_meslek_yuksekokulu_dersleri/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Radyoterapi](on_lisans_programlari/radyoterapi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Rayli Sistemler Elektrik Elektronik Teknolojisi](on_lisans_programlari/rayli_sistemler_elektrik_elektronik_teknolojisi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Rayli Sistemler Isletmeciligi](on_lisans_programlari/rayli_sistemler_isletmeciligi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Rayli Sistemler Makine Teknolojisi](on_lisans_programlari/rayli_sistemler_makine_teknolojisi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Saglik Kurumlari Isletmeciligi](on_lisans_programlari/saglik_kurumlari_isletmeciligi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Seracilik](on_lisans_programlari/seracilik/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Sivil Hava Ulastirma Isletmeciligi Onlisans](on_lisans_programlari/sivil_hava_ulastirma_isletmeciligi_onlisans/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Sivil Havacilik Kabin Hizmetleri](on_lisans_programlari/sivil_havacilik_kabin_hizmetleri/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Sivil Savunma Ve Itfaiyecilik](on_lisans_programlari/sivil_savunma_ve_itfaiyecilik/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Sosyal Hizmetler Onlisans](on_lisans_programlari/sosyal_hizmetler_onlisans/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Su Urunleri Isletme Teknolojisi](on_lisans_programlari/su_urunleri_isletme_teknolojisi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Sualti Teknolojisi](on_lisans_programlari/sualti_teknolojisi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Sut Ve Besi Hayvanciligi](on_lisans_programlari/sut_ve_besi_hayvanciligi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Tibbi Dokumantasyon Ve Sekreterlik](on_lisans_programlari/tibbi_dokumantasyon_ve_sekreterlik/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Tibbi Tanitim Ve Pazarlama](on_lisans_programlari/tibbi_tanitim_ve_pazarlama/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Turizm Ve Otel Isletmeciligi Onlisans](on_lisans_programlari/turizm_ve_otel_isletmeciligi_onlisans/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Turizm Ve Seyahat Hizmetleri](on_lisans_programlari/turizm_ve_seyahat_hizmetleri/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Tıbbi Ve Aromatik Bitkiler](on_lisans_programlari/tıbbi_ve_aromatik_bitkiler/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Ucak Teknolojisi](on_lisans_programlari/ucak_teknolojisi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Un Ve Unlu Mamuller Teknolojisi](on_lisans_programlari/un_ve_unlu_mamuller_teknolojisi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Yasli Bakimi](on_lisans_programlari/yasli_bakimi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Yat Isletme Ve Yonetimi](on_lisans_programlari/yat_isletme_ve_yonetimi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
-| [Yerel Yonetimler](on_lisans_programlari/yerel_yonetimler/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
+| [Adalet](on_lisans_programlari/adalet/) | Adalet disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Agiz Ve Dis Sagligi](on_lisans_programlari/agiz_ve_dis_sagligi/) | Agiz Ve Dis Sagligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Aricilik](on_lisans_programlari/aricilik/) | Aricilik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Asansor Teknolojisi](on_lisans_programlari/asansor_teknolojisi/) | Asansor Teknolojisi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ascilik](on_lisans_programlari/ascilik/) | Ascilik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Atik Yonetimi](on_lisans_programlari/atik_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Avcilik Ve Yaban Hayati](on_lisans_programlari/avcilik_ve_yaban_hayati/) | Avcilik Ve Yaban Hayati disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Bagcilik](on_lisans_programlari/bagcilik/) | Bagcilik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Bankacilik Ve Sigortacilik](on_lisans_programlari/bankacilik_ve_sigortacilik/) | Bankacilik Ve Sigortacilik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Bankacilik Ve Sigortacilik Onlisans](on_lisans_programlari/bankacilik_ve_sigortacilik_onlisans/) | Bankacilik Ve Sigortacilik Onlisans disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Bilgisayar Destekli Tasarim Ve Animasyon](on_lisans_programlari/bilgisayar_destekli_tasarim_ve_animasyon/) | Bilgisayar Destekli Tasarim Ve Animasyon disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Bilgisayar Programciligi](on_lisans_programlari/bilgisayar_programciligi/) | Bilgisayar Programciligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Buro Yonetimi Ve Yonetici Asistanligi](on_lisans_programlari/buro_yonetimi_ve_yonetici_asistanligi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Buyukbas Hayvan Yetistiriciligi](on_lisans_programlari/buyukbas_hayvan_yetistiriciligi/) | Buyukbas Hayvan Yetistiriciligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Cay Tarimi Ve Isleme](on_lisans_programlari/cay_tarimi_ve_isleme/) | Cay Tarimi Ve Isleme disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Deniz Ulastirma Ve İşletme Onlisans](on_lisans_programlari/deniz_ulastirma_ve_isletme_onlisans/) | Deniz Ulastirma Ve Isletme Onlisans disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Dis Ticaret Onlisans](on_lisans_programlari/dis_ticaret_onlisans/) | Dis Ticaret Onlisans disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Diyaliz](on_lisans_programlari/diyaliz/) | Diyaliz disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Eczane Hizmetleri](on_lisans_programlari/eczane_hizmetleri/) | Eczane Hizmetleri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Elektronik Teknolojisi](on_lisans_programlari/elektronik_teknolojisi/) | Elektronik Teknolojisi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Elektronorofizyoloji](on_lisans_programlari/elektronorofizyoloji/) | Elektronorofizyoloji disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Evde Hasta Bakimi](on_lisans_programlari/evde_hasta_bakimi/) | Evde Hasta Bakimi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Fidan Yetistiriciligi](on_lisans_programlari/fidan_yetistiriciligi/) | Fidan Yetistiriciligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Gemi İnşaati Onlisans](on_lisans_programlari/gemi_insaati_onlisans/) | Gemi Insaati Onlisans disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Gemi Makineleri İşletme Onlisans](on_lisans_programlari/gemi_makineleri_isletme_onlisans/) | Gemi Makineleri Isletme Onlisans disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Grafik Tasarimi Onlisans](on_lisans_programlari/grafik_tasarimi_onlisans/) | Grafik Tasarimi Onlisans disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Halkla Iliskiler Ve Tanitim Onlisans](on_lisans_programlari/halkla_iliskiler_ve_tanitim_onlisans/) | Halkla Iliskiler Ve Tanitim Onlisans disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Harita Ve Kadastro](on_lisans_programlari/harita_ve_kadastro/) | Harita Ve Kadastro disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ilk Ve Acil Yardim](on_lisans_programlari/ilk_ve_acil_yardim/) | Ilk Ve Acil Yardim disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [İnşaat Teknolojisi Onlisans](on_lisans_programlari/insaat_teknolojisi_onlisans/) | Insaat Teknolojisi Onlisans disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Is Sagligi Ve Guvenligi](on_lisans_programlari/is_sagligi_ve_guvenligi/) | Is Sagligi Ve Guvenligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Is Sagligi Ve Guvenligi Onlisans](on_lisans_programlari/is_sagligi_ve_guvenligi_onlisans/) | Is Sagligi Ve Guvenligi Onlisans disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Is Ve Ugrasi Terapisi Onlisans](on_lisans_programlari/is_ve_ugrasi_terapisi_onlisans/) | Is Ve Ugrasi Terapisi Onlisans disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Itfaiyecilik Ve Sivil Savunma](on_lisans_programlari/itfaiyecilik_ve_sivil_savunma/) | Itfaiyecilik Ve Sivil Savunma disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Kabin Hizmetleri](on_lisans_programlari/kabin_hizmetleri/) | Kabin Hizmetleri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Laboratuvar Teknolojisi](on_lisans_programlari/laboratuvar_teknolojisi/) | Laboratuvar Teknolojisi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Lojistik Onlisans](on_lisans_programlari/lojistik_onlisans/) | Lojistik Onlisans disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Makine Resim Ve Konstruksiyon](on_lisans_programlari/makine_resim_ve_konstruksiyon/) | Makine Resim Ve Konstruksiyon disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Mekatronik Onlisans](on_lisans_programlari/mekatronik_onlisans/) | Mekatronik Onlisans disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Muhasebe Ve Vergi Uygulamalari](on_lisans_programlari/muhasebe_ve_vergi_uygulamalari/) | Muhasebe Ve Vergi Uygulamalari disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Nukleer Tip Teknikleri](on_lisans_programlari/nukleer_tip_teknikleri/) | Nukleer Tip Teknikleri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Optisyenlik](on_lisans_programlari/optisyenlik/) | Optisyenlik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Organik Tarim](on_lisans_programlari/organik_tarim/) | Organik Tarim disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ortopedik Protez Ve Ortez](on_lisans_programlari/ortopedik_protez_ve_ortez/) | Ortopedik Protez Ve Ortez disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ozel Guvenlik Ve Koruma](on_lisans_programlari/ozel_guvenlik_ve_koruma/) | Ozel Guvenlik Ve Koruma disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Patoloji Laboratuvar Teknikleri](on_lisans_programlari/patoloji_laboratuvar_teknikleri/) | Patoloji Laboratuvar Teknikleri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Perfuzyon Teknikleri](on_lisans_programlari/perfuzyon_teknikleri/) | Perfuzyon Teknikleri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Podoloji](on_lisans_programlari/podoloji/) | Podoloji disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Polis Meslek Yuksekokulu Dersleri](on_lisans_programlari/polis_meslek_yuksekokulu_dersleri/) | Polis Meslek Yuksekokulu Dersleri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Radyoterapi](on_lisans_programlari/radyoterapi/) | Radyoterapi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Rayli Sistemler Elektrik Elektronik Teknolojisi](on_lisans_programlari/rayli_sistemler_elektrik_elektronik_teknolojisi/) | Rayli Sistemler Elektrik Elektronik Teknolojisi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Rayli Sistemler İşletmeciligi](on_lisans_programlari/rayli_sistemler_isletmeciligi/) | Rayli Sistemler Isletmeciligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Rayli Sistemler Makine Teknolojisi](on_lisans_programlari/rayli_sistemler_makine_teknolojisi/) | Rayli Sistemler Makine Teknolojisi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Saglik Kurumlari İşletmeciligi](on_lisans_programlari/saglik_kurumlari_isletmeciligi/) | Saglik Kurumlari Isletmeciligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Seracilik](on_lisans_programlari/seracilik/) | Seracilik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Sivil Hava Ulastirma İşletmeciligi Onlisans](on_lisans_programlari/sivil_hava_ulastirma_isletmeciligi_onlisans/) | Sivil Hava Ulastirma Isletmeciligi Onlisans disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Sivil Havacilik Kabin Hizmetleri](on_lisans_programlari/sivil_havacilik_kabin_hizmetleri/) | Sivil Havacilik Kabin Hizmetleri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Sivil Savunma Ve Itfaiyecilik](on_lisans_programlari/sivil_savunma_ve_itfaiyecilik/) | Sivil Savunma Ve Itfaiyecilik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Sosyal Hizmetler Onlisans](on_lisans_programlari/sosyal_hizmetler_onlisans/) | Sosyal Hizmetler Onlisans disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Su Urunleri İşletme Teknolojisi](on_lisans_programlari/su_urunleri_isletme_teknolojisi/) | Su Urunleri Isletme Teknolojisi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Sualti Teknolojisi](on_lisans_programlari/sualti_teknolojisi/) | Sualti Teknolojisi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Sut Ve Besi Hayvanciligi](on_lisans_programlari/sut_ve_besi_hayvanciligi/) | Sut Ve Besi Hayvanciligi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Tibbi Dokumantasyon Ve Sekreterlik](on_lisans_programlari/tibbi_dokumantasyon_ve_sekreterlik/) | Tibbi Dokumantasyon Ve Sekreterlik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Tibbi Tanitim Ve Pazarlama](on_lisans_programlari/tibbi_tanitim_ve_pazarlama/) | Tibbi Tanitim Ve Pazarlama disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Turizm Ve Otel İşletmeciligi Onlisans](on_lisans_programlari/turizm_ve_otel_isletmeciligi_onlisans/) | Turizm Ve Otel Isletmeciligi Onlisans disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Turizm Ve Seyahat Hizmetleri](on_lisans_programlari/turizm_ve_seyahat_hizmetleri/) | Turizm Ve Seyahat Hizmetleri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Tıbbi Ve Aromatik Bitkiler](on_lisans_programlari/tıbbi_ve_aromatik_bitkiler/) | Tıbbi Ve Aromatik Bitkiler disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ucak Teknolojisi](on_lisans_programlari/ucak_teknolojisi/) | Ucak Teknolojisi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Un Ve Unlu Mamuller Teknolojisi](on_lisans_programlari/un_ve_unlu_mamuller_teknolojisi/) | Un Ve Unlu Mamuller Teknolojisi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Yasli Bakimi](on_lisans_programlari/yasli_bakimi/) | Yasli Bakimi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Yat İşletme Ve Yonetimi](on_lisans_programlari/yat_isletme_ve_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Yerel Yonetimler](on_lisans_programlari/yerel_yonetimler/) | Yerel Yonetimler disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
 
 <details>
-<summary><b>🔬 Özel Araştırma Alanları (39 Alan)</b></summary>
+<summary><b>🔬 Disiplinlerarası & Özel Araştırma (39 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [3D Print Ai](ozel_arastirma_alanlari/3d_print_ai/) | 3d print ai alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Agro Tek Ve Topraksiz Tarim](ozel_arastirma_alanlari/agro_tek_ve_topraksiz_tarim/) | Agro tek ve topraksiz tarim alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Akustik Muhendisligi](ozel_arastirma_alanlari/akustik_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Algorithmic Governance](ozel_arastirma_alanlari/algorithmic_governance/) | Algorithmic governance alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Artirilmis Gerceklik Muhendisligi](ozel_arastirma_alanlari/artirilmis_gerceklik_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Bci](ozel_arastirma_alanlari/bci/) | Bci alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Bio Hacking Ve Longevity](ozel_arastirma_alanlari/bio_hacking_ve_longevity/) | Bio hacking ve longevity alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Biyoinformatik](ozel_arastirma_alanlari/biyoinformatik/) | Biyoinformatik alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Biyoteknik Nanotip](ozel_arastirma_alanlari/biyoteknik_nanotip/) | Biyoteknik nanotip alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Blokzincir Ve Web3](ozel_arastirma_alanlari/blokzincir_ve_web3/) | Blokzincir ve web3 alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Climate Tech Ve Karbon Yakalama](ozel_arastirma_alanlari/climate_tech_ve_karbon_yakalama/) | Climate tech ve karbon yakalama alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Contex Engineering](ozel_arastirma_alanlari/contex_engineering/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Cyber Physical Systems](ozel_arastirma_alanlari/cyber_physical_systems/) | Cyber physical systems alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Fintek Ai](ozel_arastirma_alanlari/fintek_ai/) | Fintek ai alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Guvenlik Bilimleri Ve Strateji](ozel_arastirma_alanlari/guvenlik_bilimleri_ve_strateji/) | Guvenlik bilimleri ve strateji alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Hukuk Ve Ai Etigi](ozel_arastirma_alanlari/hukuk_ve_ai_etigi/) | Hukuk ve ai etigi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Kamu Guvenligi Muhendisligi](ozel_arastirma_alanlari/kamu_guvenligi_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Kuantum Iletisim Ve Kriptografi](ozel_arastirma_alanlari/kuantum_iletisim_ve_kriptografi/) | Kuantum iletisim ve kriptografi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Kuantum Muhendisligi](ozel_arastirma_alanlari/kuantum_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Longevity Science Advanced](ozel_arastirma_alanlari/longevity_science_advanced/) | Longevity science advanced alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Merkeziyetsiz Finans Defi](ozel_arastirma_alanlari/merkeziyetsiz_finans_defi/) | Merkeziyetsiz finans defi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Metaverse](ozel_arastirma_alanlari/metaverse/) | Metaverse alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Muhendislik Ortak](ozel_arastirma_alanlari/muhendislik_ortak/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Nanoteknoloji Ai](ozel_arastirma_alanlari/nanoteknoloji_ai/) | Nanoteknoloji ai alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Neuro Design](ozel_arastirma_alanlari/neuro_design/) | Neuro design alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Noro Muhendisligi](ozel_arastirma_alanlari/noro_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Optik Muhendisligi](ozel_arastirma_alanlari/optik_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Osint Ileri Seviye](ozel_arastirma_alanlari/osint_ileri_seviye/) | Osint ileri seviye alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Osint Ve Siber Istihbarat](ozel_arastirma_alanlari/osint_ve_siber_istihbarat/) | Osint ve siber istihbarat alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Patlayici Muhendisligi](ozel_arastirma_alanlari/patlayici_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Prompt Engineering Pro](ozel_arastirma_alanlari/prompt_engineering_pro/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Prompt Muhendisligi](ozel_arastirma_alanlari/prompt_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Psikolojik Harp Ve Sosyal Muhendislik](ozel_arastirma_alanlari/psikolojik_harp_ve_sosyal_muhendislik/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Regenerative Medicine](ozel_arastirma_alanlari/regenerative_medicine/) | Regenerative medicine alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Savunma Sanayii Stratejileri](ozel_arastirma_alanlari/savunma_sanayii_stratejileri/) | Savunma sanayii stratejileri alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Ton Os Ekosistemi](ozel_arastirma_alanlari/ton_os_ekosistemi/) | Ton os ekosistemi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Ulusal Guvenlik Arastirmalari Ileri](ozel_arastirma_alanlari/ulusal_guvenlik_arastirmalari_ileri/) | Ulusal guvenlik arastirmalari ileri alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Uzay Madenciligi Ve Lojistigi](ozel_arastirma_alanlari/uzay_madenciligi_ve_lojistigi/) | Uzay madenciligi ve lojistigi alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Yurtdisi Cikarlarin Guvenligi Ve Korunmasi](ozel_arastirma_alanlari/yurtdisi_cikarlarin_guvenligi_ve_korunmasi/) | Yurtdisi cikarlarin guvenligi ve korunmasi alanında teorik ve pratik uzmanlık çalışmaları. |
+| [3D Print Ai](ozel_arastirma_alanlari/3d_print_ai/) | 3D Print Ai disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Agro Tek Ve Topraksiz Tarim](ozel_arastirma_alanlari/agro_tek_ve_topraksiz_tarim/) | Agro Tek Ve Topraksiz Tarim disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Akustik Mühendisliği](ozel_arastirma_alanlari/akustik_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Algorithmic Governance](ozel_arastirma_alanlari/algorithmic_governance/) | Algorithmic Governance disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Artirilmis Gerceklik Mühendisliği](ozel_arastirma_alanlari/artirilmis_gerceklik_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Bci](ozel_arastirma_alanlari/bci/) | Bci disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Bio Hacking Ve Longevity](ozel_arastirma_alanlari/bio_hacking_ve_longevity/) | Bio Hacking Ve Longevity disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Biyoinformatik](ozel_arastirma_alanlari/biyoinformatik/) | Biyoinformatik disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Biyoteknik Nanotip](ozel_arastirma_alanlari/biyoteknik_nanotip/) | Biyoteknik Nanotip disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Blokzincir Ve Web3](ozel_arastirma_alanlari/blokzincir_ve_web3/) | Blokzincir Ve Web3 disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Climate Tech Ve Karbon Yakalama](ozel_arastirma_alanlari/climate_tech_ve_karbon_yakalama/) | Climate Tech Ve Karbon Yakalama disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Contex Engineering](ozel_arastirma_alanlari/contex_engineering/) | Contex Engineering disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Cyber Physical Systems](ozel_arastirma_alanlari/cyber_physical_systems/) | Cyber Physical Systems disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Fintek Ai](ozel_arastirma_alanlari/fintek_ai/) | Fintek Ai disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Guvenlik Bilimleri Ve Strateji](ozel_arastirma_alanlari/guvenlik_bilimleri_ve_strateji/) | Guvenlik Bilimleri Ve Strateji disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Hukuk Ve Ai Etigi](ozel_arastirma_alanlari/hukuk_ve_ai_etigi/) | Hukuk Ve Ai Etigi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Kamu Guvenligi Mühendisliği](ozel_arastirma_alanlari/kamu_guvenligi_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Kuantum Iletisim Ve Kriptografi](ozel_arastirma_alanlari/kuantum_iletisim_ve_kriptografi/) | Kuantum Iletisim Ve Kriptografi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Kuantum Mühendisliği](ozel_arastirma_alanlari/kuantum_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Longevity Science Advanced](ozel_arastirma_alanlari/longevity_science_advanced/) | Longevity Science Advanced disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Merkeziyetsiz Finans Defi](ozel_arastirma_alanlari/merkeziyetsiz_finans_defi/) | Merkeziyetsiz Finans Defi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Metaverse](ozel_arastirma_alanlari/metaverse/) | Metaverse disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Muhendislik Ortak](ozel_arastirma_alanlari/muhendislik_ortak/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Nanoteknoloji Ai](ozel_arastirma_alanlari/nanoteknoloji_ai/) | Nanoteknoloji Ai disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Neuro Design](ozel_arastirma_alanlari/neuro_design/) | Neuro Design disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Noro Mühendisliği](ozel_arastirma_alanlari/noro_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Optik Mühendisliği](ozel_arastirma_alanlari/optik_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Osint Ileri Seviye](ozel_arastirma_alanlari/osint_ileri_seviye/) | Osint Ileri Seviye disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Osint Ve Siber Istihbarat](ozel_arastirma_alanlari/osint_ve_siber_istihbarat/) | Osint Ve Siber Istihbarat disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Patlayici Mühendisliği](ozel_arastirma_alanlari/patlayici_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Prompt Engineering Pro](ozel_arastirma_alanlari/prompt_engineering_pro/) | Prompt Engineering Pro disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Prompt Mühendisliği](ozel_arastirma_alanlari/prompt_muhendisligi/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Psikolojik Harp Ve Sosyal Muhendislik](ozel_arastirma_alanlari/psikolojik_harp_ve_sosyal_muhendislik/) | Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı. |
+| [Regenerative Medicine](ozel_arastirma_alanlari/regenerative_medicine/) | Regenerative Medicine disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Savunma Sanayii Stratejileri](ozel_arastirma_alanlari/savunma_sanayii_stratejileri/) | Savunma Sanayii Stratejileri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ton Os Ekosistemi](ozel_arastirma_alanlari/ton_os_ekosistemi/) | Ton Os Ekosistemi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Ulusal Guvenlik Arastirmalari Ileri](ozel_arastirma_alanlari/ulusal_guvenlik_arastirmalari_ileri/) | Ulusal Guvenlik Arastirmalari Ileri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Uzay Madenciligi Ve Lojistigi](ozel_arastirma_alanlari/uzay_madenciligi_ve_lojistigi/) | Uzay Madenciligi Ve Lojistigi disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Yurtdisi Cikarlarin Guvenligi Ve Korunmasi](ozel_arastirma_alanlari/yurtdisi_cikarlarin_guvenligi_ve_korunmasi/) | Yurtdisi Cikarlarin Guvenligi Ve Korunmasi disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
 
 <details>
-<summary><b>🚀 Kariyer ve Sertifikasyonlar (12 Alan)</b></summary>
+<summary><b>🚀 Kariyer, Portfolyo & Sertifika (12 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Aws Certified Architect](kariyer_ve_sertifikasyonlar/aws_certified_architect/) | Aws certified architect alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Cfa Chartered Financial Analyst](kariyer_ve_sertifikasyonlar/cfa_chartered_financial_analyst/) | Cfa chartered financial analyst alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Cisco Ccna Ccnp](kariyer_ve_sertifikasyonlar/cisco_ccna_ccnp/) | Cisco ccna ccnp alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Comptia A Plus Sec Plus](kariyer_ve_sertifikasyonlar/comptia_a_plus_sec_plus/) | Comptia a plus sec plus alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Delf Dalf Fransizca](kariyer_ve_sertifikasyonlar/delf_dalf_fransizca/) | Delf dalf fransizca alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Goethe Zertifikat Almanca](kariyer_ve_sertifikasyonlar/goethe_zertifikat_almanca/) | Goethe zertifikat almanca alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Google Cloud Professional](kariyer_ve_sertifikasyonlar/google_cloud_professional/) | Google cloud professional alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Itil V4 Foundation](kariyer_ve_sertifikasyonlar/itil_v4_foundation/) | Itil v4 foundation alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Microsoft Azure Solutions](kariyer_ve_sertifikasyonlar/microsoft_azure_solutions/) | Microsoft azure solutions alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Pmp Proje Yonetimi](kariyer_ve_sertifikasyonlar/pmp_proje_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Six Sigma Green Black Belt](kariyer_ve_sertifikasyonlar/six_sigma_green_black_belt/) | Six sigma green black belt alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Toefl Ielts Ingilizce](kariyer_ve_sertifikasyonlar/toefl_ielts_ingilizce/) | Toefl ielts ingilizce alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Aws Certified Architect](kariyer_ve_sertifikasyonlar/aws_certified_architect/) | Aws Certified Architect disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Cfa Chartered Financial Analyst](kariyer_ve_sertifikasyonlar/cfa_chartered_financial_analyst/) | Cfa Chartered Financial Analyst disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Cisco Ccna Ccnp](kariyer_ve_sertifikasyonlar/cisco_ccna_ccnp/) | Cisco Ccna Ccnp disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Comptia A Plus Sec Plus](kariyer_ve_sertifikasyonlar/comptia_a_plus_sec_plus/) | Comptia A Plus Sec Plus disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Delf Dalf Fransizca](kariyer_ve_sertifikasyonlar/delf_dalf_fransizca/) | Delf Dalf Fransizca disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Goethe Zertifikat Almanca](kariyer_ve_sertifikasyonlar/goethe_zertifikat_almanca/) | Goethe Zertifikat Almanca disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Google Cloud Professional](kariyer_ve_sertifikasyonlar/google_cloud_professional/) | Google Cloud Professional disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Itil V4 Foundation](kariyer_ve_sertifikasyonlar/itil_v4_foundation/) | Itil V4 Foundation disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Microsoft Azure Solutions](kariyer_ve_sertifikasyonlar/microsoft_azure_solutions/) | Microsoft Azure Solutions disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Pmp Proje Yonetimi](kariyer_ve_sertifikasyonlar/pmp_proje_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Six Sigma Green Black Belt](kariyer_ve_sertifikasyonlar/six_sigma_green_black_belt/) | Six Sigma Green Black Belt disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Toefl Ielts Ingilizce](kariyer_ve_sertifikasyonlar/toefl_ielts_ingilizce/) | Toefl Ielts Ingilizce disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
 
 <details>
-<summary><b>🧠 Meta-Yetkinlikler ve Gelişim (8 Alan)</b></summary>
+<summary><b>🧠 Meta-Zihin & Kişisel Disiplin (8 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Finansal Okuryazarlik Ve Yatirim](meta_yetkinlikler_ve_gelisim/finansal_okuryazarlik_ve_yatirim/) | Finansal okuryazarlik ve yatirim alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Hizli Ogrenme Teknikleri](meta_yetkinlikler_ve_gelisim/hizli_ogrenme_teknikleri/) | Hizli ogrenme teknikleri alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Liderlik Ve Ekip Yonetimi](meta_yetkinlikler_ve_gelisim/liderlik_ve_ekip_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Monk Mode Disiplin Sistemi](meta_yetkinlikler_ve_gelisim/monk_mode_disiplin_sistemi/) | Yüksek odaklanma, dijital detoks ve kişisel hedeflere tam adanmışlık disiplini. |
-| [Müzakere Ve Ikna Sanati](meta_yetkinlikler_ve_gelisim/müzakere_ve_ikna_sanati/) | Müzakere ve ikna sanati alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Stoisizm Ve Mental Dayaniklılık](meta_yetkinlikler_ve_gelisim/stoisizm_ve_mental_dayaniklılık/) | Stoisizm ve mental dayaniklılık alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Sun Tzu Stratejik Düşünce](meta_yetkinlikler_ve_gelisim/sun_tzu_stratejik_düşünce/) | Sun tzu stratejik düşünce alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Zaman Yonetimi Ve U U](meta_yetkinlikler_ve_gelisim/zaman_yonetimi_ve_u_u/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
+| [Finansal Okuryazarlik Ve Yatirim](meta_yetkinlikler_ve_gelisim/finansal_okuryazarlik_ve_yatirim/) | Finansal Okuryazarlik Ve Yatirim disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Hizli Ogrenme Teknikleri](meta_yetkinlikler_ve_gelisim/hizli_ogrenme_teknikleri/) | Hizli Ogrenme Teknikleri disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Liderlik Ve Ekip Yonetimi](meta_yetkinlikler_ve_gelisim/liderlik_ve_ekip_yonetimi/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Monk Mode Disiplin Sistemi](meta_yetkinlikler_ve_gelisim/monk_mode_disiplin_sistemi/) | Yüksek odaklanma ve sarsılmaz bir irade için zihinsel işletim sistemi. |
+| [Müzakere Ve Ikna Sanati](meta_yetkinlikler_ve_gelisim/müzakere_ve_ikna_sanati/) | Müzakere Ve Ikna Sanati disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Stoisizm Ve Mental Dayaniklılık](meta_yetkinlikler_ve_gelisim/stoisizm_ve_mental_dayaniklılık/) | Stoisizm Ve Mental Dayaniklılık disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Sun Tzu Stratejik Düşünce](meta_yetkinlikler_ve_gelisim/sun_tzu_stratejik_düşünce/) | Sun Tzu Stratejik Düşünce disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Zaman Yonetimi Ve U U](meta_yetkinlikler_ve_gelisim/zaman_yonetimi_ve_u_u/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
 
 </details>
 
 <details>
-<summary><b>📂 Genel ve Ortak Alanlar (3 Alan)</b></summary>
+<summary><b>📂 Genel Arşiv & Ortak Alanlar (3 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Akademik Odak / Misyon |
+| Branş / Alan | Akademik Misyon & Odak |
 | :--- | :--- |
-| [Afet Yonetimi Ve Acil Durum Teknolojileri](genel/afet_yonetimi_ve_acil_durum_teknolojileri/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
-| [Erasmus Ve Global Degisim Programlari](genel/erasmus_ve_global_degisim_programlari/) | Erasmus ve global degisim programlari alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Staj Ve Profesyonel Is Hayati Giris](genel/staj_ve_profesyonel_is_hayati_giris/) | Staj ve profesyonel is hayati giris alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Afet Yonetimi Ve Acil Durum Teknolojileri](genel/afet_yonetimi_ve_acil_durum_teknolojileri/) | Operasyonel ve stratejik karar destek mekanizmalarının yönetimi. |
+| [Erasmus Ve Global Degisim Programlari](genel/erasmus_ve_global_degisim_programlari/) | Erasmus Ve Global Degisim Programlari disiplinine ait teorik ve pratik uzmanlık deposu. |
+| [Staj Ve Profesyonel Is Hayati Giris](genel/staj_ve_profesyonel_is_hayati_giris/) | Staj Ve Profesyonel Is Hayati Giris disiplinine ait teorik ve pratik uzmanlık deposu. |
 
 </details>
 
 
 ---
 
-## 🛠️ Profesyonel Enstrümantasyon (V.2025)
-- **Çekirdek Zeka:** Gemini 2.0 / Claude 3.5 Sonnet
-- **IDE:** Cursor / Windsurf
-- **Mimari:** 7-Kademeli Standartlaştırılmış İskelet
+## 🛠️ PROFESYONEL ARAÇLAR & MİMARİ
+- **Çekirdek Akıl:** Gemini 2.0 / Claude 3.5 Sonnet
+- **Ontoloji:** 7-Tier Standardize Scaffolding
+- **Geliştirici:** Bahattin Yunus Çetin (*Mühendis & AOS Mimarı*)
 
 ---
-
-## ⚖️ Lisans
-Bu proje **MIT Lisansı** ile korunmaktadır.
 
 <div align="center">
 
-**Hazırlayan:** Bahattin Yunus Çetin  
-*Mühendis ve AOS Mimarı*
+**[Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)**
 
-[Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)
+*"İlim, müminin yitik malıdır; nerede bulursa alsın."*
 
 ---
-*"İlim, müminin yitik malıdır; nerede bulursa alsın."*
+© 2025 AOS - Tüm Hakları Bilim ve Hikmete Aittir.
 </div>

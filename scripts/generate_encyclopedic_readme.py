@@ -2,73 +2,48 @@ import os
 
 ROOT_DIR = r"g:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\github repolarım\engineering-courses"
 
+# Container mappings for display
 CONTAINERS = {
-    'meta_muhendislik': '🛠️ Mühendislik Bilimleri',
-    'mimarlik_ve_tasarim': '🏛️ Mimarlık ve Tasarım',
-    'guzel_sanatlar': '🖼️ Güzel Sanatlar',
-    'saglik': '🩺 Sağlık Bilimleri',
-    'ogretmenlik': '🎓 Eğitim ve Öğretmenlik',
-    'spor_bilimleri': '🏅 Spor Bilimleri',
-    'sosyal_ve_beseri_bilimler': '⚖️ Sosyal ve Beşeri Bilimler',
-    'temel_bilimler': '🧪 Temel Bilimler',
-    'edebiyat_ve_diller': '📚 Edebiyat ve Diller',
-    'iletisim': '📡 İletişim Bilimleri',
-    'turizm_ve_gastronomi': '🏨 Turizm ve Gastronomi',
-    'tarim_ve_ziraat_bilimleri': '🌱 Tarım ve Ziraat Bilimleri',
-    'askeri_bilimler_ve_savunma_teknolojileri': '⚔️ Askeri Bilimler ve Savunma',
-    'hukuk_bilimi': '⚖️ Hukuk',
-    'ilahiyat_ve_din': '🕌 İlahiyat ve Din',
-    'on_lisans_programlari': '📋 Ön Lisans Programları',
-    'ozel_arastirma_alanlari': '🔬 Özel Araştırma Alanları',
-    'kariyer_ve_sertifikasyonlar': '🚀 Kariyer ve Sertifikasyonlar',
-    'meta_yetkinlikler_ve_gelisim': '🧠 Meta-Yetkinlikler ve Gelişim',
-    'genel': '📂 Genel ve Ortak Alanlar'
+    'meta_muhendislik': '🛠️ Mühendislik & İleri Teknoloji',
+    'mimarlik_ve_tasarim': '🏛️ Mimarlık, Tasarım & Şehircilik',
+    'guzel_sanatlar': '🖼️ Güzel Sanatlar & Estetik',
+    'saglik': '🩺 Sağlık Bilimleri & Tıp',
+    'ogretmenlik': '🎓 Eğitim Fakültesi & Pedagoji',
+    'spor_bilimleri': '🏅 Spor Bilimleri & Performans',
+    'sosyal_ve_beseri_bilimler': '⚖️ Sosyal, Beşeri & İdari Bilimler',
+    'temel_bilimler': '🧪 Temel Fen Bilimleri',
+    'edebiyat_ve_diller': '📚 Filoloji, Dil & Edebiyat',
+    'iletisim': '📡 İletişim & Medya Bilimleri',
+    'turizm_ve_gastronomi': '🏨 Turizm, Otelcilik & Gastronomi',
+    'tarim_ve_ziraat_bilimleri': '🌱 Tarım, Ziraat & Doğa Bilimleri',
+    'askeri_bilimler_ve_savunma_teknolojileri': '⚔️ Savunma Sanayii & Güvenlik Stratejileri',
+    'hukuk_bilimi': '⚖️ Adalet & Hukuk Bilimleri',
+    'ilahiyat_ve_din': '🕌 İlahiyat, Din & Felsefe',
+    'on_lisans_programlari': '📋 Mesleki Yüksekokul (Ön Lisans)',
+    'ozel_arastirma_alanlari': '🔬 Disiplinlerarası & Özel Araştırma',
+    'kariyer_ve_sertifikasyonlar': '🚀 Kariyer, Portfolyo & Sertifika',
+    'meta_yetkinlikler_ve_gelisim': '🧠 Meta-Zihin & Kişisel Disiplin',
+    'genel': '📂 Genel Arşiv & Ortak Alanlar'
 }
 
 SPECIAL_DESCRIPTIONS = {
-    # Engineering
-    'elektrik_elektronik_muhendisligi': 'Enerji üretimi, iletimi ve elektronik devre tasarımı üzerine odaklanan temel mühendislik branşı.',
-    'beyin_bilgisayar_arayuzu_bci_muhendisligi': 'Nöral sinyallerin dijital sistemlere aktarımı ve insan-makine etkileşimi üzerine ileri araştırma.',
-    'yapay_zeka_ve_verii_muhendisligi': 'Büyük veri analizi, makine öğrenmesi ve otonom sistemlerin algoritma tasarımı.',
-    'siber_guvenlik_muhendisligi': 'Dijital varlıkların korunması, sızma testleri ve güvenli sistem mimarileri geliştirme.',
-    'yuksek_guclu_yariiletken_bilimi_ve_muhendisligi': 'Yeni nesil enerji elektroniği ve yarı iletken komponent teknolojileri üretimi.',
-    'dusuk_irtifa_teknolojisi_ve_iha': 'Dronelar ve alçak irtifa hava araçlarının aerodinamik ve sistem tasarımı.',
-    
-    # China Export Specials
-    'geleneksel_cin_tibbi': 'Binlerce yıllık kadim Çin tıp öğretileri ve bitkisel tedavi metodolojileri.',
-    'kahve_bilimi_ve_muhendisligi': 'Kahve bitkisinin üretiminden işleme teknolojilerine ve kimyasal analizine kadar tüm süreçler.',
-    'futbol_bilimi': 'Futbolun teknik, taktik, biyomekanik ve yönetimsel boyutlarının akademik analizi.',
-    'tutun_bilimi': 'Tütün bitkisinin yetiştirilmesi, endüstriyel işlenmesi ve kalite kontrol süreçleri.',
-    'ipek_muhendisligi_ve_serikultur': 'İpek böcekçiliği ve tekstil mühendisliğinin ipek üretimi özelindeki kesişimi.',
-    
-    # Meta Skills
-    'monk_mode_disiplin_sistemi': 'Yüksek odaklanma, dijital detoks ve kişisel hedeflere tam adanmışlık disiplini.',
-    'sun_tzu_stratejik_dunce': 'Antik savaş stratejilerinin modern iş ve yaşam yönetimine uygulanması.',
-    'stoisizm_ve_mental_dayaniklilik': 'Stoacı fıkırlerin modern stres yönetimi ve sarsılmaz bir zihin yapısı için uygulanması.',
-    
-    # Defense
-    'komuta_kontrol_ve_strateji': 'Askeri operasyonların yönetimi, karar destek sistemleri ve stratejik planlama.',
-    'siber_savunma_ve_elektronik_harp': 'Dijital cephede savunma ve radar/sinyal sistemlerinde üstünlük sağlama yöntemleri.',
+    'elektrik_elektronik_muhendisligi': 'Enerji, sinyal ve sistem teorisinin modern mühendislik zirvesi.',
+    'yapay_zeka_ve_veri_muhendisligi': 'Veriden anlam çıkaran otonom sistemlerin mimarisi.',
+    'siber_guvenlik_muhendisligi': 'Dijital kalelerin savunma ve strateji merkezi.',
+    'havacilik_ve_uzay_muhendisligi': 'Yeryüzü sınırlarını aşan yüksek fizik ve itki mühendisliği.',
+    'monk_mode_disiplin_sistemi': 'Yüksek odaklanma ve sarsılmaz bir irade için zihinsel işletim sistemi.',
+    'tutun_bilimi': 'Tütün bitkisinin agronomik, endüstriyel ve kimyasal süreçlerinin akademik analizi.',
+    'deniz_hukuku_ve_stratejisi': 'Mavi Vatan ve uluslararası sularda egemenlik haklarının hukuki temelleri.',
 }
 
 def get_desc(folder, container):
     if folder in SPECIAL_DESCRIPTIONS:
         return SPECIAL_DESCRIPTIONS[folder]
-    
-    # Fallback logic
     t = folder.lower()
-    if 'muhendis' in t or 'engineering' in t:
-        return 'Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu.'
-    if 'dili' in t or 'edebiyati' in t:
-        return 'İlgili dilin dilbilgisi yapısı, edebiyat tarihi ve kültürel bağlamının akademik incelenmesi.'
-    if 'onlisans' in t or container == 'on_lisans_programlari':
-        return 'Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi.'
-    if 'teknolojisi' in t:
-        return 'Modern teknolojik araçların ve süreçlerin ilgili alan özelinde uygulanması ve yönetimi.'
-    if 'yonetimi' in t:
-        return 'Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi.'
-    
-    return f"{folder.replace('_', ' ').capitalize()} alanında teorik ve pratik uzmanlık çalışmaları."
+    if 'muhendis' in t: return 'Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı.'
+    if 'dili' in t: return 'Filolojik yapı ve kültürel mirasın derinlemesine incelenmesi.'
+    if 'yonetimi' in t: return 'Operasyonel ve stratejik karar destek mekanizmalarının yönetimi.'
+    return f"{folder.replace('_', ' ').title()} disiplinine ait teorik ve pratik uzmanlık deposu."
 
 def generate_encyclopedic_readme():
     header = """<div align="center">
@@ -76,43 +51,50 @@ def generate_encyclopedic_readme():
 ![AOS Hero Banner](assets/aos_hero_banner.png)
 
 # 🏛️ AKADEMİK İŞLETİM SİSTEMİ (AOS)
-### *Yapay Zeka Çağı İçin Küresel ve Mültidisipliner Bir Bilgi Ontolojisi* 🌐💎🚀
+### *Yapay Zeka Çağı İçin Küresel Bilgi Nizamı ve Mültidisipliner Ontoloji* 🌐💎🚀
 
-[![Versiyon](https://img.shields.io/badge/VERSİYON-v2025.Elite-00A9E0?style=for-the-badge&logo=target)](./)
-[![Kapsam](https://img.shields.io/badge/KAPSAM-372_Branş-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
-[![Düşünce](https://img.shields.io/badge/VİZYON-Gelecek_İçin_Bilim-black?style=for-the-badge&logo=openai&logoColor=white)](./)
+[![Versiyon](https://img.shields.io/badge/VERSION-2025.Elite-00A9E0?style=for-the-badge&logo=target)](./)
+[![Kapsam](https://img.shields.io/badge/SCOPE-372_Disciplines-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
+[![Standard](https://img.shields.io/badge/STANDARD-7--Tier_Elite-black?style=for-the-badge&logo=gitbook)](./)
+[![Philosophy](https://img.shields.io/badge/VISION-Double_Wing-18453B?style=for-the-badge&logo=openai&logoColor=white)](./)
 
 ---
 
-## 📜 AOS Manifestosu: Bilgi ve Metodoloji
-**Akademik İşletim Sistemi (AOS)**, modern dünyanın parçalı bilgi yapısına karşı geliştirilmiş, mültidisipliner ustalığı hedefleyen evrensel bir bilgi çerçevesidir. **Bilimsel Metodoloji** ve **Akademik Tarafsızlık** üzerine kurulu olan AOS, 372+ branşı tek bir nizam (Systemum) altında birleştirir.
+## 📜 AOS ANA DÜSTURU VE MANİFESTO
+**Akademik İşletim Sistemi (AOS)**, bilginin parçalandığı bu çağda, her disiplini tek bir rasyonel ve metodolojik çatı altında birleştiren "Zülcenahayn" (Çift Kanatlı) bir dökümantasyon ekosistemidir.
 
-> [!TIP]
-> **Bilim bir yöntem, merak ise motorumuzdur.** AOS; aklı fenle, zihni nizamla donatan profesyonel bir akademik iskelettir.
+> [!IMPORTANT]
+> **Bilim bir yöntem, merak ise motorumuzdur.** AOS; aklı fenle (bilimle), ruhu yüksek bir vizyonla donatan profesyonel bir akademik iskelettir. Burada bilim metodolojidir, hakikat ise nihai gayedir.
 
 ---
 
 </div>
 
-## ⚙️ Elit 7-Kademeli Mimari (00-06)
-Sistemdeki her bir branş, rastgele notlar yerine **7 katmanlı elit bir niyaraşi** üzerine inşa edilmiştir. Bu yapı, bir konuyu "sıfırdan" ele alıp "endüstriyel uzmanlığa" taşıyan tek standarttır:
+## ⚙️ ELİT 7-KADEMELİ HİYERARŞİ (Systemum 0-6)
+AOS içindeki her branş, rastgele notlar yerine **7 katmanlı elit bir nizam** üzerine inşa edilmiştir:
 
-**`00`** Hazırlık **`01`** Teori **`02`** Çekirdek **`03`** Uzmanlık **`04`** Üretim **`05`** Akademi **`06`** Standart
-
----
-
-## 🕌 Vizyoner Miras ve Ruh
-AOS, modern bilimsel metodolojiyi temel **Yöntem** olarak kullanırken; ilhamını ve derinliğini, kalbi ve aklı birleştiren "Medresetü’z-Zehra" gibi kadim vizyonlardan alır.
-
-| ✍️ Düstur | 🏛️ AOS Prensibi |
-| :--- | :--- |
-| **"Din ilimleriyle fen ilimlerinin imtizacı elzemdir."** | **Mültidisipliner Bütünlük** |
-| **"Eyleme dökülmeyen ilim, yerinde sayan bir gölge gibidir."** | **Aktif Üretim & Mühendislik** |
-| **"Hiç bilenlerle bilmeyenler bir olur mu?"** | **Entelektüel Üstünlük** |
+| Kademe | Tanım | Akademik Hedef |
+| :--- | :--- | :--- |
+| **`00`** | **Hazırlık** | Dil yeterliliği ve temel metodolojik oryantasyon. |
+| **`01`** | **Teori** | Alanın üzerine inşa edildiği sayısal ve kuramsal temel. |
+| **`02`** | **Çekirdek** | En zorunlu ve temel branş yetkinliklerinin inşası. |
+| **`03`** | **Uzmanlık** | Seçmeli ve ileri seviye branş derinleşmesi. |
+| **`04`** | **Üretim** | Orijinal bitirme projeleri ve AR-GE çıktıları. |
+| **`05`** | **Akademi** | Lisansüstü ve bilimsel araştırma metodolojileri. |
+| **`06`** | **Dünya** | Sektörel sertifikasyonlar ve küresel standartlar. |
 
 ---
 
-## 📚 Ansiklopedik Bölüm Dizini (372 Alan)
+## 🏛️ VİZYONER MİRAS: "RUHUMUZUN DERİNLİĞİ"
+AOS, modern bilimsel metodolojiyi rasyonel bir **Yöntem** olarak kullanır. Ancak bu devasa iskelete can veren ruh; kalbi ve aklı, fenle dinin imtizacını hedefleyen **Medresetü’z-Zehra** gibi kadim ve vizyoner miraslardan beslenir.
+
+> [!TIP]
+> **"Aklın nuru fünun-u medeniyedir, vicdanın ziyası ulûm-u diniyedir."**
+> Bizim için bilim, "Varlığın Büyük Nizamı"nı anlama çabasıdır.
+
+---
+
+## 📚 ANSİKLOPEDİK BÖLÜM DİZİNİ (372 BRANŞ)
 
 Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder.
 
@@ -131,11 +113,13 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
             continue
             
         section = f"<details>\n<summary><b>{title} ({len(depts)} Alan)</b></summary>\n<br>\n\n"
-        section += "| Bölüm / Alan | Akademik Odak / Misyon |\n"
+        section += "| Branş / Alan | Akademik Misyon & Odak |\n"
         section += "| :--- | :--- |\n"
         
         for d in depts:
             dept_name = d.replace('_', ' ').title()
+            # Turkish specific title fix
+            dept_name = dept_name.replace('Muhendisligi', 'Mühendisliği').replace('Bilisim', 'Bilişim').replace('Insaat', 'İnşaat').replace('Ulasim', 'Ulaşım').replace('Isletme', 'İşletme')
             link = f"[{dept_name}]({folder}/{d}/)"
             desc = get_desc(d, folder)
             section += f"| {link} | {desc} |\n"
@@ -148,25 +132,21 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
     footer = f"""
 ---
 
-## 🛠️ Profesyonel Enstrümantasyon (V.2025)
-- **Çekirdek Zeka:** Gemini 2.0 / Claude 3.5 Sonnet
-- **IDE:** Cursor / Windsurf
-- **Mimari:** 7-Kademeli Standartlaştırılmış İskelet
+## 🛠️ PROFESYONEL ARAÇLAR & MİMARİ
+- **Çekirdek Akıl:** Gemini 2.0 / Claude 3.5 Sonnet
+- **Ontoloji:** 7-Tier Standardize Scaffolding
+- **Geliştirici:** Bahattin Yunus Çetin (*Mühendis & AOS Mimarı*)
 
 ---
-
-## ⚖️ Lisans
-Bu proje **MIT Lisansı** ile korunmaktadır.
 
 <div align="center">
 
-**Hazırlayan:** Bahattin Yunus Çetin  
-*Mühendis ve AOS Mimarı*
+**[Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)**
 
-[Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)
+*"İlim, müminin yitik malıdır; nerede bulursa alsın."*
 
 ---
-*"İlim, müminin yitik malıdır; nerede bulursa alsın."*
+© 2025 AOS - Tüm Hakları Bilim ve Hikmete Aittir.
 </div>
 """
 
@@ -175,7 +155,7 @@ Bu proje **MIT Lisansı** ile korunmaktadır.
     with open(os.path.join(ROOT_DIR, 'README.md'), 'w', encoding='utf-8') as f:
         f.write(full_content)
         
-    print(f"README.md updated with AOS branding (Soul kept). Total: {total_count}")
+    print(f"README.md updated with 'The Ayar' (Ultimate Refinement). Total: {total_count}")
 
 if __name__ == "__main__":
     generate_encyclopedic_readme()
