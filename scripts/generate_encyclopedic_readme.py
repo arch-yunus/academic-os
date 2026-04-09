@@ -75,57 +75,57 @@ def generate_encyclopedic_readme():
 
 ![MZ-OS Hero Banner](assets/aos_hero_banner.png)
 
-# 🏛️ MEDRESETÜ’Z-ZEHRA OPERATING SYSTEM (MZ-OS)
-### *A Rigorous Multidisciplinary Knowledge Ontology for the AI Era* 🌐💎🚀
+# 🏛️ MEDRESETÜ’Z-ZEHRA İŞLETİM SİSTEMİ (MZ-İS)
+### *Yapay Zeka Çağı İçin Kapsamlı ve Mültidisipliner Bilgi Ontolojisi* 🌐💎🚀
 
-[![Versiyon](https://img.shields.io/badge/VERSION-v2025.Elite-00A9E0?style=for-the-badge&logo=target)](./)
-[![Kapsam](https://img.shields.io/badge/SCOPE-385_Unique_Areas-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
-[![Standard](https://img.shields.io/badge/STANDARD-7--Tier_Hierarchy-black?style=for-the-badge&logo=gitbook)](./)
-[![Heritage](https://img.shields.io/badge/HERITAGE-Medresetü’z--Zehra-18453B?style=for-the-badge&logo=openai&logoColor=white)](./)
+[![Versiyon](https://img.shields.io/badge/VERSİYON-v2025.Elite-00A9E0?style=for-the-badge&logo=target)](./)
+[![Kapsam](https://img.shields.io/badge/KAPSAM-385_Benzersiz_Alan-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
+[![Standart](https://img.shields.io/badge/STANDART-7_Kademeli_Hiyerarşi-black?style=for-the-badge&logo=gitbook)](./)
+[![Miras](https://img.shields.io/badge/MİRAS-Medresetü’z--Zehra-18453B?style=for-the-badge&logo=openai&logoColor=white)](./)
 
 ---
 
-## 🏗️ Technical Magnitude & Methodology
-**Medresetü’z-Zehra Operating System (MZ-OS)** is a high-density academic ecosystem designed to harmonize diverse knowledge streams into a single, standardized framework. Leading with **Scientific Neutrality** and **Empirical Rigor**, the system categorizes 385 unique disciplines into a unified 7-tier architecture.
+## 🏗️ Teknik Kapasite ve Metodoloji
+**Medresetü’z-Zehra İşletim Sistemi (MZ-İS)**, farklı bilgi akışlarını tek bir standart çerçevede birleştirmek için tasarlanmış yüksek yoğunluklu bir akademik ekosistemdir. **Bilimsel Tarafsızlık** ve **Ampirik Titizlik** ilkesiyle hareket eden sistem, 385 benzersiz disiplini 7 kademeli bir mimari altında sınıflandırır.
 
 > [!NOTE]
-> **Methodology:** We utilize a strictly academic approach where science and engineering are the primary methods of inquiry. All curriculum structures (YÖK & MoE China) are integrated with professional objectivity.
+> **Metodoloji:** Bilim ve mühendisliği temel sorgulama yöntemi olarak kullanan, katı bir akademik yaklaşım benimsiyoruz. Tüm müfredat yapıları (YÖK ve Çin MoE) profesyonel bir nesnellikle entegre edilmiştir.
 
 ---
 
 </div>
 
-## ⚙️ The Elite 7-Tier Architecture (00-06)
-Every single discipline in this 385-area ontology is scaffolded into a rigorous, industry-standard hierarchy:
+## ⚙️ Elit 7-Kademeli Mimari (00-06)
+Bu ontolojideki her bir disiplin, endüstriyel standartlara uygun, katı bir hiyerarşi ile yapılandırılmıştır:
 
-| Tier | Category | Objective |
+| Kademe | Kategori | Hedef |
 | :--- | :--- | :--- |
-| **`00`** | **Academic Prep** | Language proficiency and foundational orientation. |
-| **`01`** | **Basic Sciences** | The theoretical and numerical bedrock of the field. |
-| **`02`** | **Core Modules** | Essential technical expertise and required courses. |
-| **`03`** | **Advanced App** | Elective specializations and master-level practice. |
-| **`04`** | **Research & Dev** | Capstone projects, theses, and original output. |
-| **`05`** | **Graduate Path** | Master & PhD level academic trajectories. |
-| **`06`** | **Global Std** | Certifications and industrial professional benchmarks. |
+| **`00`** | **Akademik Hazırlık** | Dil yeterliliği ve temel oryantasyon süreci. |
+| **`01`** | **Temel Bilimler** | Alanın üzerine inşa edildiği teorik ve sayısal temel. |
+| **`02`** | **Çekirdek Modüller** | Zorunlu ana branş dersleri ve teknik uzmanlık. |
+| **`03`** | **İleri Uygulama** | Seçmeli uzmanlıklar ve usta seviyesi pratikler. |
+| **`04`** | **Araştırma & Geliştirme** | Bitirme projeleri, tezler ve orijinal akademik çıktılar. |
+| **`05`** | **Lisansüstü Yol** | Yüksek Lisans ve Doktora seviyesindeki akademik rotalar. |
+| **`06`** | **Küresel Standartlar** | Sertifikasyonlar ve endüstriyel profesyonel kıstaslar. |
 
 ---
 
-## 🕌 Philosophical Foundations: The "Soul" of MZ-OS
+## 🕌 Felsefi Temeller: MZ-İS'in Ruhu
 *"Vicdanın ziyası ulûm-u diniye, aklın nuru fünun-u medeniyedir."*
 
-While MZ-OS uses modern scientific methodologies as its **Method**, it derives its **Inspiration** and **Ethical Soul** from the Medresetü’z-Zehra vision—the harmonization of the heart and the mind.
+MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlhamını** ve **Etik Ruhunu** Medresetü’z-Zehra vizyonundan —kalp ve aklın imtizacından— alır.
 
-| ✍️ Düstur | 🏛️ MZ-OS Principle |
+| ✍️ Düstur | 🏛️ MZ-İS Prensibi |
 | :--- | :--- |
-| **"Knowledge without action is a shadow."** | **Active Production & Engineering** |
-| **"Faith and Science must coexist for Truth."** | **Multidisciplinary Integrity** |
-| **"Strive to know the Great Order of existence."** | **Empirical Inquiry & Rigor** |
+| **"Eyleme dökülmeyen ilim, yerinde sayan bir gölge gibidir."** | **Aktif Üretim ve Mühendislik** |
+| **"Hakikat için Din ve Fen bir arada olmalıdır."** | **Mültidisipliner Bütünlük** |
+| **"Varlığın büyük nizamını bilmek için çabala."** | **Ampirik Sorgulama ve Titizlik** |
 
 ---
 
-## 📚 Encyclopedic Index (385 Disciplines)
+## 📚 Ansiklopedik Dizin (385 Disiplin)
 
-Grouped into 20 strategic containers, each area provides a standardized path for mastery.
+20 stratejik konteyner altında gruplanan her alan, uzmanlık için standart bir yol sunar.
 
 """
 
@@ -142,7 +142,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
             continue
             
         section = f"<details>\n<summary><b>{title} ({len(depts)} Alan)</b></summary>\n<br>\n\n"
-        section += "| Bölüm / Alan | Academic Focus / Mission |\n"
+        section += "| Bölüm / Alan | Akademik Odak / Misyon |\n"
         section += "| :--- | :--- |\n"
         
         for d in depts:
@@ -159,19 +159,19 @@ Grouped into 20 strategic containers, each area provides a standardized path for
     footer = f"""
 ---
 
-## 🛠️ Professional Instrumentation (V.2025)
-- **Core Intelligence:** Gemini 2.0 / Claude 3.5 Sonnet / GPT-o1
-- **Development & IDE:** Cursor / Windsurf
-- **Research Engine:** Perplexity Pro Pro
-- **Architecture:** 7-Tier Standardized Scaffolding
+## 🛠️ Profesyonel Enstrümantasyon (V.2025)
+- **Çekirdek Zeka:** Gemini 2.0 / Claude 3.5 Sonnet / GPT-o1
+- **Geliştirme & IDE:** Cursor / Windsurf
+- **Araştırma Motoru:** Perplexity Pro
+- **Mimari:** 7-Kademeli Standartlaştırılmış İskelet
 
-## ⚖️ License
-This project is protected under the **MIT License**.
+## ⚖️ Lisans
+Bu proje **MIT Lisansı** ile korunmaktadır.
 
 <div align="center">
 
-**Prepared By:** Bahattin Yunus Çetin  
-*Engineer & MZ-OS Architect*
+**Hazırlayan:** Bahattin Yunus Çetin  
+*Mühendis ve MZ-İS Mimarı*
 
 [Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)
 
@@ -185,7 +185,7 @@ This project is protected under the **MIT License**.
     with open(os.path.join(ROOT_DIR, 'README.md'), 'w', encoding='utf-8') as f:
         f.write(full_content)
         
-    print(f"README.md updated with Science-First balance. Total: {total_count}")
+    print(f"README.md updated in pure Turkish. Total: {total_count}")
 
 if __name__ == "__main__":
     generate_encyclopedic_readme()

@@ -2,63 +2,63 @@
 
 ![MZ-OS Hero Banner](assets/aos_hero_banner.png)
 
-# 🏛️ MEDRESETÜ’Z-ZEHRA OPERATING SYSTEM (MZ-OS)
-### *A Rigorous Multidisciplinary Knowledge Ontology for the AI Era* 🌐💎🚀
+# 🏛️ MEDRESETÜ’Z-ZEHRA İŞLETİM SİSTEMİ (MZ-İS)
+### *Yapay Zeka Çağı İçin Kapsamlı ve Mültidisipliner Bilgi Ontolojisi* 🌐💎🚀
 
-[![Versiyon](https://img.shields.io/badge/VERSION-v2025.Elite-00A9E0?style=for-the-badge&logo=target)](./)
-[![Kapsam](https://img.shields.io/badge/SCOPE-385_Unique_Areas-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
-[![Standard](https://img.shields.io/badge/STANDARD-7--Tier_Hierarchy-black?style=for-the-badge&logo=gitbook)](./)
-[![Heritage](https://img.shields.io/badge/HERITAGE-Medresetü’z--Zehra-18453B?style=for-the-badge&logo=openai&logoColor=white)](./)
+[![Versiyon](https://img.shields.io/badge/VERSİYON-v2025.Elite-00A9E0?style=for-the-badge&logo=target)](./)
+[![Kapsam](https://img.shields.io/badge/KAPSAM-385_Benzersiz_Alan-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
+[![Standart](https://img.shields.io/badge/STANDART-7_Kademeli_Hiyerarşi-black?style=for-the-badge&logo=gitbook)](./)
+[![Miras](https://img.shields.io/badge/MİRAS-Medresetü’z--Zehra-18453B?style=for-the-badge&logo=openai&logoColor=white)](./)
 
 ---
 
-## 🏗️ Technical Magnitude & Methodology
-**Medresetü’z-Zehra Operating System (MZ-OS)** is a high-density academic ecosystem designed to harmonize diverse knowledge streams into a single, standardized framework. Leading with **Scientific Neutrality** and **Empirical Rigor**, the system categorizes 385 unique disciplines into a unified 7-tier architecture.
+## 🏗️ Teknik Kapasite ve Metodoloji
+**Medresetü’z-Zehra İşletim Sistemi (MZ-İS)**, farklı bilgi akışlarını tek bir standart çerçevede birleştirmek için tasarlanmış yüksek yoğunluklu bir akademik ekosistemdir. **Bilimsel Tarafsızlık** ve **Ampirik Titizlik** ilkesiyle hareket eden sistem, 385 benzersiz disiplini 7 kademeli bir mimari altında sınıflandırır.
 
 > [!NOTE]
-> **Methodology:** We utilize a strictly academic approach where science and engineering are the primary methods of inquiry. All curriculum structures (YÖK & MoE China) are integrated with professional objectivity.
+> **Metodoloji:** Bilim ve mühendisliği temel sorgulama yöntemi olarak kullanan, katı bir akademik yaklaşım benimsiyoruz. Tüm müfredat yapıları (YÖK ve Çin MoE) profesyonel bir nesnellikle entegre edilmiştir.
 
 ---
 
 </div>
 
-## ⚙️ The Elite 7-Tier Architecture (00-06)
-Every single discipline in this 385-area ontology is scaffolded into a rigorous, industry-standard hierarchy:
+## ⚙️ Elit 7-Kademeli Mimari (00-06)
+Bu ontolojideki her bir disiplin, endüstriyel standartlara uygun, katı bir hiyerarşi ile yapılandırılmıştır:
 
-| Tier | Category | Objective |
+| Kademe | Kategori | Hedef |
 | :--- | :--- | :--- |
-| **`00`** | **Academic Prep** | Language proficiency and foundational orientation. |
-| **`01`** | **Basic Sciences** | The theoretical and numerical bedrock of the field. |
-| **`02`** | **Core Modules** | Essential technical expertise and required courses. |
-| **`03`** | **Advanced App** | Elective specializations and master-level practice. |
-| **`04`** | **Research & Dev** | Capstone projects, theses, and original output. |
-| **`05`** | **Graduate Path** | Master & PhD level academic trajectories. |
-| **`06`** | **Global Std** | Certifications and industrial professional benchmarks. |
+| **`00`** | **Akademik Hazırlık** | Dil yeterliliği ve temel oryantasyon süreci. |
+| **`01`** | **Temel Bilimler** | Alanın üzerine inşa edildiği teorik ve sayısal temel. |
+| **`02`** | **Çekirdek Modüller** | Zorunlu ana branş dersleri ve teknik uzmanlık. |
+| **`03`** | **İleri Uygulama** | Seçmeli uzmanlıklar ve usta seviyesi pratikler. |
+| **`04`** | **Araştırma & Geliştirme** | Bitirme projeleri, tezler ve orijinal akademik çıktılar. |
+| **`05`** | **Lisansüstü Yol** | Yüksek Lisans ve Doktora seviyesindeki akademik rotalar. |
+| **`06`** | **Küresel Standartlar** | Sertifikasyonlar ve endüstriyel profesyonel kıstaslar. |
 
 ---
 
-## 🕌 Philosophical Foundations: The "Soul" of MZ-OS
+## 🕌 Felsefi Temeller: MZ-İS'in Ruhu
 *"Vicdanın ziyası ulûm-u diniye, aklın nuru fünun-u medeniyedir."*
 
-While MZ-OS uses modern scientific methodologies as its **Method**, it derives its **Inspiration** and **Ethical Soul** from the Medresetü’z-Zehra vision—the harmonization of the heart and the mind.
+MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlhamını** ve **Etik Ruhunu** Medresetü’z-Zehra vizyonundan —kalp ve aklın imtizacından— alır.
 
-| ✍️ Düstur | 🏛️ MZ-OS Principle |
+| ✍️ Düstur | 🏛️ MZ-İS Prensibi |
 | :--- | :--- |
-| **"Knowledge without action is a shadow."** | **Active Production & Engineering** |
-| **"Faith and Science must coexist for Truth."** | **Multidisciplinary Integrity** |
-| **"Strive to know the Great Order of existence."** | **Empirical Inquiry & Rigor** |
+| **"Eyleme dökülmeyen ilim, yerinde sayan bir gölge gibidir."** | **Aktif Üretim ve Mühendislik** |
+| **"Hakikat için Din ve Fen bir arada olmalıdır."** | **Mültidisipliner Bütünlük** |
+| **"Varlığın büyük nizamını bilmek için çabala."** | **Ampirik Sorgulama ve Titizlik** |
 
 ---
 
-## 📚 Encyclopedic Index (385 Disciplines)
+## 📚 Ansiklopedik Dizin (385 Disiplin)
 
-Grouped into 20 strategic containers, each area provides a standardized path for mastery.
+20 stratejik konteyner altında gruplanan her alan, uzmanlık için standart bir yol sunar.
 
 <details>
 <summary><b>🛠️ Mühendislik Bilimleri (78 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Adli Bilisim Muhendisligi](meta_muhendislik/adli_bilisim_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Akilli Deniz Ekipmanlari](meta_muhendislik/akilli_deniz_ekipmanlari/) | Akilli deniz ekipmanlari alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -145,7 +145,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>🏛️ Mimarlık ve Tasarım (14 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Cizgi Film Ve Animasyon](mimarlik_ve_tasarim/cizgi_film_ve_animasyon/) | Cizgi film ve animasyon alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Endustriyel Tasarim](mimarlik_ve_tasarim/endustriyel_tasarim/) | Endustriyel tasarim alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -168,7 +168,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>🖼️ Güzel Sanatlar (7 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Dijital Tiyatro](guzel_sanatlar/dijital_tiyatro/) | Dijital tiyatro alanında teorik ve pratik uzmanlık çalışmaları. |
 | [El Sanatlari](guzel_sanatlar/el_sanatlari/) | El sanatlari alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -184,7 +184,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>🩺 Sağlık Bilimleri (30 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Acil Yardim Ve Afet Yonetimi](saglik/acil_yardim_ve_afet_yonetimi/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
 | [Akupunktur Ve Moxibustion](saglik/akupunktur_ve_moxibustion/) | Akupunktur ve moxibustion alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -223,7 +223,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>🎓 Eğitim ve Öğretmenlik (15 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Beden Egitimi Ve Spor Ogretmenligi](ogretmenlik/beden_egitimi_ve_spor_ogretmenligi/) | Beden egitimi ve spor ogretmenligi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Bilgisayar Ve Ogretim Teknolojileri Egitimi](ogretmenlik/bilgisayar_ve_ogretim_teknolojileri_egitimi/) | Bilgisayar ve ogretim teknolojileri egitimi alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -247,7 +247,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>🏅 Spor Bilimleri (8 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Antrenorluk Egitimi](spor_bilimleri/antrenorluk_egitimi/) | Antrenorluk egitimi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Beden Egitimi Ve Spor Bilimleri](spor_bilimleri/beden_egitimi_ve_spor_bilimleri/) | Beden egitimi ve spor bilimleri alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -264,7 +264,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>⚖️ Sosyal ve Beşeri Bilimler (39 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Aktüerya Bilimleri](sosyal_ve_beseri_bilimler/aktüerya_bilimleri/) | Aktüerya bilimleri alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Antropoloji](sosyal_ve_beseri_bilimler/antropoloji/) | Antropoloji alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -312,7 +312,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>🧪 Temel Bilimler (12 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Astronomi Ve Uzay Bilimleri](temel_bilimler/astronomi_ve_uzay_bilimleri/) | Astronomi ve uzay bilimleri alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Biyoistatistik](temel_bilimler/biyoistatistik/) | Biyoistatistik alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -333,7 +333,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>📚 Edebiyat ve Diller (17 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Alman Dili Ve Edebiyati](edebiyat_ve_diller/alman_dili_ve_edebiyati/) | İlgili dilin dilbilgisi yapısı, edebiyat tarihi ve kültürel bağlamının akademik incelenmesi. |
 | [Arap Dili Ve Edebiyati](edebiyat_ve_diller/arap_dili_ve_edebiyati/) | İlgili dilin dilbilgisi yapısı, edebiyat tarihi ve kültürel bağlamının akademik incelenmesi. |
@@ -359,7 +359,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>📡 İletişim Bilimleri (4 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Gazetecilik](iletisim/gazetecilik/) | Gazetecilik alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Halkla Iliskiler Ve Reklamcilik](iletisim/halkla_iliskiler_ve_reklamcilik/) | Halkla iliskiler ve reklamcilik alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -372,7 +372,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>🏨 Turizm ve Gastronomi (7 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Gastronomi Ve Mutfak Sanatlari](turizm_ve_gastronomi/gastronomi_ve_mutfak_sanatlari/) | Gastronomi ve mutfak sanatlari alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Kahve Bilimi Ve Muhendisligi](turizm_ve_gastronomi/kahve_bilimi_ve_muhendisligi/) | Kahve bitkisinin üretiminden işleme teknolojilerine ve kimyasal analizine kadar tüm süreçler. |
@@ -388,7 +388,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>🌱 Tarım ve Ziraat Bilimleri (8 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Bahce Bitkileri](tarim_ve_ziraat_bilimleri/bahce_bitkileri/) | Bahce bitkileri alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Bitki Koruma](tarim_ve_ziraat_bilimleri/bitki_koruma/) | Bitki koruma alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -405,7 +405,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>⚔️ Askeri Bilimler ve Savunma (6 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Askeri Havacilik Ve Uzay](askeri_bilimler_ve_savunma_teknolojileri/askeri_havacilik_ve_uzay/) | Askeri havacilik ve uzay alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Askeri Istihbarat Analizi](askeri_bilimler_ve_savunma_teknolojileri/askeri_istihbarat_analizi/) | Askeri istihbarat analizi alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -420,7 +420,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>⚖️ Hukuk (1 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Hukuk](hukuk_bilimi/hukuk/) | Hukuk alanında teorik ve pratik uzmanlık çalışmaları. |
 
@@ -430,7 +430,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>🕌 İlahiyat ve Din (1 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Ilahiyat](ilahiyat_ve_din/ilahiyat/) | Ilahiyat alanında teorik ve pratik uzmanlık çalışmaları. |
 
@@ -440,7 +440,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>📋 Ön Lisans Programları (72 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Adalet](on_lisans_programlari/adalet/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
 | [Agiz Ve Dis Sagligi](on_lisans_programlari/agiz_ve_dis_sagligi/) | Belirli bir mesleğe yönelik uygulamalı teknik beceriler ve operasyonel yetkinlikler eğitimi. |
@@ -521,7 +521,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>🔬 Özel Araştırma Alanları (43 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [3D Print Ai](ozel_arastirma_alanlari/3d_print_ai/) | 3d print ai alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Agro Tek Ve Topraksiz Tarim](ozel_arastirma_alanlari/agro_tek_ve_topraksiz_tarim/) | Agro tek ve topraksiz tarim alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -573,7 +573,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>🚀 Kariyer ve Sertifikasyonlar (12 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Aws Certified Architect](kariyer_ve_sertifikasyonlar/aws_certified_architect/) | Aws certified architect alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Cfa Chartered Financial Analyst](kariyer_ve_sertifikasyonlar/cfa_chartered_financial_analyst/) | Cfa chartered financial analyst alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -594,7 +594,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>🧠 Meta-Yetkinlikler ve Gelişim (8 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Finansal Okuryazarlik Ve Yatirim](meta_yetkinlikler_ve_gelisim/finansal_okuryazarlik_ve_yatirim/) | Finansal okuryazarlik ve yatirim alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Hizli Ogrenme Teknikleri](meta_yetkinlikler_ve_gelisim/hizli_ogrenme_teknikleri/) | Hizli ogrenme teknikleri alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -611,7 +611,7 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 <summary><b>📂 Genel ve Ortak Alanlar (3 Alan)</b></summary>
 <br>
 
-| Bölüm / Alan | Academic Focus / Mission |
+| Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Afet Yonetimi Ve Acil Durum Teknolojileri](genel/afet_yonetimi_ve_acil_durum_teknolojileri/) | Süreçlerin, kaynakların ve organizasyonların stratejik ve operasyonel olarak yönetilmesi. |
 | [Erasmus Ve Global Degisim Programlari](genel/erasmus_ve_global_degisim_programlari/) | Erasmus ve global degisim programlari alanında teorik ve pratik uzmanlık çalışmaları. |
@@ -622,19 +622,19 @@ Grouped into 20 strategic containers, each area provides a standardized path for
 
 ---
 
-## 🛠️ Professional Instrumentation (V.2025)
-- **Core Intelligence:** Gemini 2.0 / Claude 3.5 Sonnet / GPT-o1
-- **Development & IDE:** Cursor / Windsurf
-- **Research Engine:** Perplexity Pro Pro
-- **Architecture:** 7-Tier Standardized Scaffolding
+## 🛠️ Profesyonel Enstrümantasyon (V.2025)
+- **Çekirdek Zeka:** Gemini 2.0 / Claude 3.5 Sonnet / GPT-o1
+- **Geliştirme & IDE:** Cursor / Windsurf
+- **Araştırma Motoru:** Perplexity Pro
+- **Mimari:** 7-Kademeli Standartlaştırılmış İskelet
 
-## ⚖️ License
-This project is protected under the **MIT License**.
+## ⚖️ Lisans
+Bu proje **MIT Lisansı** ile korunmaktadır.
 
 <div align="center">
 
-**Prepared By:** Bahattin Yunus Çetin  
-*Engineer & MZ-OS Architect*
+**Hazırlayan:** Bahattin Yunus Çetin  
+*Mühendis ve MZ-İS Mimarı*
 
 [Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)
 
