@@ -2,16 +2,14 @@
 
 Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. Tüm bölümler YÖK standartlarına ve küresel (Örn: Çin MoE) profesyonel gerekliliklere göre gruplandırılmıştır.
 
-**Toplam Kapsam:** 381 Akademik ve Profesyonel Alan (Global 7-Tier Elite Structure)
+**Toplam Kapsam:** 372 Akademik ve Profesyonel Alan (Global 7-Tier Elite Structure)
 
 ## 🛠️ Mühendislik Bilimleri
 
 | Bölüm / Alan | Yol |
 |--------------|-----|
 | Adli Bilisim Muhendisligi | [adli_bilisim_muhendisligi](meta_muhendislik/adli_bilisim_muhendisligi/) |
-| Akilli Deniz Ekipmanlari | [akilli_deniz_ekipmanlari](meta_muhendislik/akilli_deniz_ekipmanlari/) |
 | Akilli Gorsel Isitsel Muhendislik | [akilli_gorsel_isitsel_muhendislik](meta_muhendislik/akilli_gorsel_isitsel_muhendislik/) |
-| Akilli Malzemeler Ve Teknoloji | [akilli_malzemeler_ve_teknoloji](meta_muhendislik/akilli_malzemeler_ve_teknoloji/) |
 | Akilli Molekuler Muhendislik | [akilli_molekuler_muhendislik](meta_muhendislik/akilli_molekuler_muhendislik/) |
 | Akilli Sebeke Bilgi Ve Muhendisligi | [akilli_sebeke_bilgi_ve_muhendisligi](meta_muhendislik/akilli_sebeke_bilgi_ve_muhendisligi/) |
 | Ambalaj Muhendisligi | [ambalaj_muhendisligi](meta_muhendislik/ambalaj_muhendisligi/) |
@@ -29,13 +27,11 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. T
 | Deri Muhendisligi | [deri_muhendisligi](meta_muhendislik/deri_muhendisligi/) |
 | Dusuk Irtifa Teknolojisi Ve Iha | [dusuk_irtifa_teknolojisi_ve_iha](meta_muhendislik/dusuk_irtifa_teknolojisi_ve_iha/) |
 | Elektrik Elektronik Muhendisligi | [elektrik_elektronik_muhendisligi](meta_muhendislik/elektrik_elektronik_muhendisligi/) |
-| Elektronik Bilgi Materyalleri | [elektronik_bilgi_materyalleri](meta_muhendislik/elektronik_bilgi_materyalleri/) |
 | Elektronik Ve Haberlesme Muhendisligi | [elektronik_ve_haberlesme_muhendisligi](meta_muhendislik/elektronik_ve_haberlesme_muhendisligi/) |
 | Endustri Muhendisligi | [endustri_muhendisligi](meta_muhendislik/endustri_muhendisligi/) |
 | Endustriyel Tasarim Muhendisligi | [endustriyel_tasarim_muhendisligi](meta_muhendislik/endustriyel_tasarim_muhendisligi/) |
 | Enerji Sistemleri Muhendisligi | [enerji_sistemleri_muhendisligi](meta_muhendislik/enerji_sistemleri_muhendisligi/) |
 | Fizik Muhendisligi | [fizik_muhendisligi](meta_muhendislik/fizik_muhendisligi/) |
-| Fonksiyonel Malzeme Bilimi | [fonksiyonel_malzeme_bilimi](meta_muhendislik/fonksiyonel_malzeme_bilimi/) |
 | Gemi Insaati Ve Gemi Makineleri Muhendisligi | [gemi_insaati_ve_gemi_makineleri_muhendisligi](meta_muhendislik/gemi_insaati_ve_gemi_makineleri_muhendisligi/) |
 | Gemi Makineleri Isletme Muhendisligi | [gemi_makineleri_isletme_muhendisligi](meta_muhendislik/gemi_makineleri_isletme_muhendisligi/) |
 | Geomatik Muhendisligi | [geomatik_muhendisligi](meta_muhendislik/geomatik_muhendisligi/) |
@@ -56,23 +52,19 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. T
 | Matematik Muhendisligi | [matematik_muhendisligi](meta_muhendislik/matematik_muhendisligi/) |
 | Mekatronik Muhendisligi | [mekatronik_muhendisligi](meta_muhendislik/mekatronik_muhendisligi/) |
 | Metalurji Ve Malzeme Muhendisligi | [metalurji_ve_malzeme_muhendisligi](meta_muhendislik/metalurji_ve_malzeme_muhendisligi/) |
-| Mikro Elektro Mekanik Sistemler Mems | [mikro_elektro_mekanik_sistemler_mems](meta_muhendislik/mikro_elektro_mekanik_sistemler_mems/) |
-| Mikro Nano Sistemler Ve Cihazlar | [mikro_nano_sistemler_ve_cihazlar](meta_muhendislik/mikro_nano_sistemler_ve_cihazlar/) |
+| Mikro Nano Sistemler Ve Mems | [mikro_nano_sistemler_ve_mems](meta_muhendislik/mikro_nano_sistemler_ve_mems/) |
 | Modelleme Ve Simulasyon | [modelleme_ve_simulasyon](meta_muhendislik/modelleme_ve_simulasyon/) |
 | Mucevherat Ve Degerli Tas Bilimi | [mucevherat_ve_degerli_tas_bilimi](meta_muhendislik/mucevherat_ve_degerli_tas_bilimi/) |
 | Nanoteknoloji Muhendisligi | [nanoteknoloji_muhendisligi](meta_muhendislik/nanoteknoloji_muhendisligi/) |
 | Nukleer Enerji Muhendisligi | [nukleer_enerji_muhendisligi](meta_muhendislik/nukleer_enerji_muhendisligi/) |
-| Nukleer Kimya Muhendisligi | [nukleer_kimya_muhendisligi](meta_muhendislik/nukleer_kimya_muhendisligi/) |
 | Orman Muhendisligi | [orman_muhendisligi](meta_muhendislik/orman_muhendisligi/) |
 | Otomotiv Muhendisligi | [otomotiv_muhendisligi](meta_muhendislik/otomotiv_muhendisligi/) |
 | Rayli Sistemler Muhendisligi | [rayli_sistemler_muhendisligi](meta_muhendislik/rayli_sistemler_muhendisligi/) |
 | Seramik Tasarimi Ve Muhendisligi | [seramik_tasarimi_ve_muhendisligi](meta_muhendislik/seramik_tasarimi_ve_muhendisligi/) |
-| Sevk Ve Itki Muhendisligi | [sevk_ve_itki_muhendisligi](meta_muhendislik/sevk_ve_itki_muhendisligi/) |
 | Siber Guvenlik Muhendisligi | [siber_guvenlik_muhendisligi](meta_muhendislik/siber_guvenlik_muhendisligi/) |
 | Su Urunleri Muhendisligi | [su_urunleri_muhendisligi](meta_muhendislik/su_urunleri_muhendisligi/) |
 | Tarim Makineleri Ve Teknolojileri Muhendisligi | [tarim_makineleri_ve_teknolojileri_muhendisligi](meta_muhendislik/tarim_makineleri_ve_teknolojileri_muhendisligi/) |
 | Tekstil Muhendisligi | [tekstil_muhendisligi](meta_muhendislik/tekstil_muhendisligi/) |
-| Tekstil Tasarimi | [tekstil_tasarimi](meta_muhendislik/tekstil_tasarimi/) |
 | Tutun Bilimi | [tutun_bilimi](meta_muhendislik/tutun_bilimi/) |
 | Ucak Muhendisligi | [ucak_muhendisligi](meta_muhendislik/ucak_muhendisligi/) |
 | Ulasim Muhendisligi | [ulasim_muhendisligi](meta_muhendislik/ulasim_muhendisligi/) |
@@ -80,7 +72,6 @@ Bu dosya `scripts/generate_summary.py` tarafından otomatik oluşturulmuştur. T
 | Yapay Zeka Ve Veri Muhendisligi | [yapay_zeka_ve_veri_muhendisligi](meta_muhendislik/yapay_zeka_ve_veri_muhendisligi/) |
 | Yazilim Muhendisligi | [yazilim_muhendisligi](meta_muhendislik/yazilim_muhendisligi/) |
 | Yuksek Guclu Yariiletken Bilimi Ve Muhendisligi | [yuksek_guclu_yariiletken_bilimi_ve_muhendisligi](meta_muhendislik/yuksek_guclu_yariiletken_bilimi_ve_muhendisligi/) |
-| Yumusak Madde Bilimi Ve Muhendisligi | [yumusak_madde_bilimi_ve_muhendisligi](meta_muhendislik/yumusak_madde_bilimi_ve_muhendisligi/) |
 | Ziraat Muhendisligi | [ziraat_muhendisligi](meta_muhendislik/ziraat_muhendisligi/) |
 
 ## 🏛️ Mimarlık ve Tasarım

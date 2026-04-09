@@ -1,6 +1,6 @@
-# Yumusak Madde Bilimi Ve Mühendisliği
+# Mikro-Nano Sistemler ve MEMS
 
-Bu klasör **Yumusak Madde Bilimi Ve Muhendisligi** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
+Bu klasör **Mikro Elektro Mekanik Sistemler Mems** alanına ait akademik notlar, araştırmalar, lisansüstü çalışmalar ve sektörel standartlar içindir.
 
 ---
 

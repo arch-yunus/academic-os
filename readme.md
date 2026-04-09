@@ -55,15 +55,13 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 20 stratejik konteyner altında gruplanan her alan, uzmanlık için standart bir yol sunar.
 
 <details>
-<summary><b>🛠️ Mühendislik Bilimleri (74 Alan)</b></summary>
+<summary><b>🛠️ Mühendislik Bilimleri (65 Alan)</b></summary>
 <br>
 
 | Bölüm / Alan | Akademik Odak / Misyon |
 | :--- | :--- |
 | [Adli Bilisim Muhendisligi](meta_muhendislik/adli_bilisim_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Akilli Deniz Ekipmanlari](meta_muhendislik/akilli_deniz_ekipmanlari/) | Akilli deniz ekipmanlari alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Akilli Gorsel Isitsel Muhendislik](meta_muhendislik/akilli_gorsel_isitsel_muhendislik/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Akilli Malzemeler Ve Teknoloji](meta_muhendislik/akilli_malzemeler_ve_teknoloji/) | Akilli malzemeler ve teknoloji alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Akilli Molekuler Muhendislik](meta_muhendislik/akilli_molekuler_muhendislik/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Akilli Sebeke Bilgi Ve Muhendisligi](meta_muhendislik/akilli_sebeke_bilgi_ve_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Ambalaj Muhendisligi](meta_muhendislik/ambalaj_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
@@ -81,13 +79,11 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 | [Deri Muhendisligi](meta_muhendislik/deri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Dusuk Irtifa Teknolojisi Ve Iha](meta_muhendislik/dusuk_irtifa_teknolojisi_ve_iha/) | Dronelar ve alçak irtifa hava araçlarının aerodinamik ve sistem tasarımı. |
 | [Elektrik Elektronik Muhendisligi](meta_muhendislik/elektrik_elektronik_muhendisligi/) | Enerji üretimi, iletimi ve elektronik devre tasarımı üzerine odaklanan temel mühendislik branşı. |
-| [Elektronik Bilgi Materyalleri](meta_muhendislik/elektronik_bilgi_materyalleri/) | Elektronik bilgi materyalleri alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Elektronik Ve Haberlesme Muhendisligi](meta_muhendislik/elektronik_ve_haberlesme_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Endustri Muhendisligi](meta_muhendislik/endustri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Endustriyel Tasarim Muhendisligi](meta_muhendislik/endustriyel_tasarim_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Enerji Sistemleri Muhendisligi](meta_muhendislik/enerji_sistemleri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Fizik Muhendisligi](meta_muhendislik/fizik_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Fonksiyonel Malzeme Bilimi](meta_muhendislik/fonksiyonel_malzeme_bilimi/) | Fonksiyonel malzeme bilimi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Gemi Insaati Ve Gemi Makineleri Muhendisligi](meta_muhendislik/gemi_insaati_ve_gemi_makineleri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Gemi Makineleri Isletme Muhendisligi](meta_muhendislik/gemi_makineleri_isletme_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Geomatik Muhendisligi](meta_muhendislik/geomatik_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
@@ -108,23 +104,19 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 | [Matematik Muhendisligi](meta_muhendislik/matematik_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Mekatronik Muhendisligi](meta_muhendislik/mekatronik_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Metalurji Ve Malzeme Muhendisligi](meta_muhendislik/metalurji_ve_malzeme_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Mikro Elektro Mekanik Sistemler Mems](meta_muhendislik/mikro_elektro_mekanik_sistemler_mems/) | Mikro elektro mekanik sistemler mems alanında teorik ve pratik uzmanlık çalışmaları. |
-| [Mikro Nano Sistemler Ve Cihazlar](meta_muhendislik/mikro_nano_sistemler_ve_cihazlar/) | Mikro nano sistemler ve cihazlar alanında teorik ve pratik uzmanlık çalışmaları. |
+| [Mikro Nano Sistemler Ve Mems](meta_muhendislik/mikro_nano_sistemler_ve_mems/) | Mikro nano sistemler ve mems alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Modelleme Ve Simulasyon](meta_muhendislik/modelleme_ve_simulasyon/) | Modelleme ve simulasyon alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Mucevherat Ve Degerli Tas Bilimi](meta_muhendislik/mucevherat_ve_degerli_tas_bilimi/) | Mucevherat ve degerli tas bilimi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Nanoteknoloji Muhendisligi](meta_muhendislik/nanoteknoloji_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Nukleer Enerji Muhendisligi](meta_muhendislik/nukleer_enerji_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Nukleer Kimya Muhendisligi](meta_muhendislik/nukleer_kimya_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Orman Muhendisligi](meta_muhendislik/orman_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Otomotiv Muhendisligi](meta_muhendislik/otomotiv_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Rayli Sistemler Muhendisligi](meta_muhendislik/rayli_sistemler_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Seramik Tasarimi Ve Muhendisligi](meta_muhendislik/seramik_tasarimi_ve_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Sevk Ve Itki Muhendisligi](meta_muhendislik/sevk_ve_itki_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Siber Guvenlik Muhendisligi](meta_muhendislik/siber_guvenlik_muhendisligi/) | Dijital varlıkların korunması, sızma testleri ve güvenli sistem mimarileri geliştirme. |
 | [Su Urunleri Muhendisligi](meta_muhendislik/su_urunleri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Tarim Makineleri Ve Teknolojileri Muhendisligi](meta_muhendislik/tarim_makineleri_ve_teknolojileri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Tekstil Muhendisligi](meta_muhendislik/tekstil_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
-| [Tekstil Tasarimi](meta_muhendislik/tekstil_tasarimi/) | Tekstil tasarimi alanında teorik ve pratik uzmanlık çalışmaları. |
 | [Tutun Bilimi](meta_muhendislik/tutun_bilimi/) | Tütün bitkisinin yetiştirilmesi, endüstriyel işlenmesi ve kalite kontrol süreçleri. |
 | [Ucak Muhendisligi](meta_muhendislik/ucak_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Ulasim Muhendisligi](meta_muhendislik/ulasim_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
@@ -132,7 +124,6 @@ MZ-İS, modern bilimsel metodolojiyi bir **Yöntem** olarak kullanırken, **İlh
 | [Yapay Zeka Ve Veri Muhendisligi](meta_muhendislik/yapay_zeka_ve_veri_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Yazilim Muhendisligi](meta_muhendislik/yazilim_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Yuksek Guclu Yariiletken Bilimi Ve Muhendisligi](meta_muhendislik/yuksek_guclu_yariiletken_bilimi_ve_muhendisligi/) | Yeni nesil enerji elektroniği ve yarı iletken komponent teknolojileri üretimi. |
-| [Yumusak Madde Bilimi Ve Muhendisligi](meta_muhendislik/yumusak_madde_bilimi_ve_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 | [Ziraat Muhendisligi](meta_muhendislik/ziraat_muhendisligi/) | Modern mühendislik prensipleriyle ilgili sistemin tasarımı, analizi ve optimizasyonu. |
 
 </details>
