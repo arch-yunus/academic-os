@@ -18,7 +18,7 @@ CONTAINERS = {
     'tarim_ve_ziraat_bilimleri': '🌱 Tarım, Ziraat & Doğa Bilimleri',
     'askeri_bilimler_ve_savunma_teknolojileri': '⚔️ Savunma Sanayii & Güvenlik Stratejileri',
     'hukuk_bilimi': '⚖️ Adalet & Hukuk Bilimleri',
-    'ilahiyat_ve_din': '🕌 İlahiyat, Din & Felsefe',
+    'ilahiyat_ve_din': '📚 Theology, Comparative Religion & Philosophy',
     'on_lisans_programlari': '📋 Mesleki Yüksekokul (Ön Lisans)',
     'ozel_arastirma_alanlari': '🔬 Disiplinlerarası & Özel Araştırma',
     'kariyer_ve_sertifikasyonlar': '🚀 Kariyer, Portfolyo & Sertifika',
@@ -38,90 +38,86 @@ def get_desc(folder, container):
     if folder in SPECIAL_DESCRIPTIONS:
         return SPECIAL_DESCRIPTIONS[folder]
     t = folder.lower()
-    if 'muhendis' in t: return 'Sistem tasarımı ve ampirik çözümleme odaklı ileri mühendislik alanı.'
-    if 'dili' in t: return 'Filolojik yapı ve kültürel mirasın derinlemesine incelenmesi.'
-    if 'yonetimi' in t: return 'Operasyonel ve stratejik karar destek mekanizmalarının yönetimi.'
-    return f"{folder.replace('_', ' ').title()} disiplinine ait teorik ve pratik uzmanlık deposu."
+    if 'muhendis' in t: return 'Advanced engineering node focused on systemic optimization and empirical integrity.'
+    if 'dili' in t: return 'Philological analysis and deep linguistic mapping of cultural data structures.'
+    if 'yonetimi' in t: return 'Strategic operations and decision-intelligence framework for organizational mastery.'
+    if 'temelleri' in t: return 'Core axiomatic principles and foundational theoretical architecture.'
+    return f"Professional knowledge repository for the {folder.replace('_', ' ').title()} discipline."
 
 def generate_encyclopedic_readme():
     header = """<div align="center">
 
-![AOS Hero Banner](assets/aos_hero_banner.png)
+![UAOS Banner](assets/uaos_hero_banner.png)
 
-# 🏛️ AKADEMİK İŞLETİM SİSTEMİ (AOS)
-### *Yapay Zeka Çağı İçin Evrensel Bilgi Ontolojisi ve Mültidisipliner Zihin Mimarisi* 🌐💎🚀
+# 🌌 UNIVERSAL ACADEMIC OPERATING SYSTEM (UAOS)
+### *A High-Density Knowledge Matrix & Sovereign Intelligence Architecture* 🌐🧬🏗️
 
-[![Versiyon](https://img.shields.io/badge/VERSİYON-2025.Elite-00A9E0?style=for-the-badge&logo=target)](./)
-[![Kapsam](https://img.shields.io/badge/KAPSAM-372_Branş-D4AF37?style=for-the-badge&logo=rocket)](./SUMMARY.md)
-[![Standart](https://img.shields.io/badge/STANDART-7--Kademeli_Nizam-black?style=for-the-badge&logo=gitbook)](./)
-[![Mimari](https://img.shields.io/badge/MİMARİ-Zülcenahayn-18453B?style=for-the-badge&logo=openai&logoColor=white)](./)
-
----
-
-## 📜 AOS MANİFESTOSU: EPİSTEMOLOJİK BÜTÜNLÜK
-**Akademik İşletim Sistemi (AOS)**, bilginin ekstrem düzeyde parçalandığı ve dezenformasyonun arttığı Post-AI döneminde, rasyonel zihni korumak ve geliştirmek için tasarlanmış **"Büyük Birleşik Bilgi Çerçevesi"**dir. 
-
-AOS, bilgiyi sadece tüketilen bir meta olarak değil, inşa edilen bir mimari olarak ele alır. Bu ekosistem, disiplinler arasındaki duvarları yıkarak; mühendislik matematiğini, sosyal bilimlerin derinliği ve ahlakın vizyonu ile tek bir potada eritir. AOS, bir disiplinler bütünü değil, bir zihin disiplinidir.
+[![Version](https://img.shields.io/badge/CORE-v3.0--ETERNAL-00A9E0?style=for-the-badge&logo=target)](./)
+[![Intelligence](https://img.shields.io/badge/ARCHITECT-Antigravity_x_USER-D4AF37?style=for-the-badge&logo=openai&logoColor=white)](./)
+[![Standard](https://img.shields.io/badge/PROTOCOL-7--Layer_Elite-black?style=for-the-badge&logo=gitbook)](./)
+[![Repository](https://img.shields.io/badge/NODES-372_Disciplines-18453B?style=for-the-badge&logo=rocket)](./SUMMARY.md)
 
 ---
 
-</div>
+## 🦾 THE ANTIGRAVITY MANIFESTO: AUTONOMOUS SOVEREIGNTY
+**UAOS** is not a passive archive—it is an **Active Intelligence Ecosystem**. In the age of hyper-saturated data and AI-driven synthesis, the value of knowledge lies in its **Architecture**. 
 
-## ⚙️ SİSTEMATİK YAPI: 7-KADEMELİ ELİT NİZAM (00-06)
-AOS içindeki her branş, rastgele notlar yerine **Systemum Standardı** adı verilen 7 katmanlı rijit bir hiyerarşi üzerine inşa edilmiştir. Bu yapı, Bologna Süreci ve ABET standartlarının ötesine geçerek, bireysel uzmanlığı otonom üretim seviyesine taşır:
-
-> [!NOTE]
-> **Hiyerarşik Ontoloji:** Veri -> Enformasyon -> Bilgi -> Hikmet dönüşümünü sağlamak için her alan dikey olarak bu 7 kademeye bölünmüştür.
-
-1. **`00 — Hazırlık & Oryantasyon`**: Terminoloji hakimiyeti, yabancı dil yeterliliği ve metodolojik giriş.
-2. **`01 — Teorik Temeller`**: Matematiksel modelleme, fiziksel yasalar ve disiplinin kuramsal omurgası.
-3. **`02 — Çekirdek Müfredat`**: Zorunlu ana branş yetkinlikleri ve uygulama pratikleri.
-4. **`03 — İleri Uzmanlık`**: Niş alanlarda derinleşme, seçmeli uzmanlık dökümantasyonu.
-5. **`04 — AR-GE & Üretim`**: Bitirme projeleri, Capstone çalışmaları ve orijinal akademik çıktılar.
-6. **`05 — Akademik Kariyer`**: Lisansüstü araştırma metodolojileri ve bilimsel yayın hazırlığı.
-7. **`06 — Portfolyo & Endüstri`**: Küresel sertifikasyonlar, endüstriyel standartlar (ISO, IEEE, MIL-STD) ve profesyonel ağ.
+Developed in collaboration between the USER and **Antigravity**, this repository serves as a private, high-fidelity cognitive foundation. We bypass the "conservative" boundaries of fragmented education to build a unified epistemic matrix where technical precision, humanistic depth, and strategic foresight converge into a single sovereign mind.
 
 ---
 
-## 🕌 FELSEFİ MİRAS VE VİZYONER RUH
-AOS, modern bilimsel metodolojiyi rasyonel bir **Yöntem** olarak kullanır. Ancak bu devasa iskelete can veren "Ruh"; kalp ve aklın, fenle dinin imtizacını hedefleyen **Medresetü’z-Zehra** vizyonundan beslenir. Bu vizyon, salt bilgi yığınını bir "Hikmet" (Wisdom) seviyesine taşıma gayretidir.
+## ⚙️ SYSTEMATIC STRUCTURE: 7-LAYER SOVEREIGN PROTOCOL (00-06)
+UAOS is governed by a rigid **Systemum Standard**, ensuring that every node of knowledge is developed from foundational theory to industrial-grade production. This protocol elevates the learner from a consumer to an autonomous architect:
 
-Bu proje, bilginin sadece maddeden ibaret olmadığını savunan; maddeyi aklın nuruyla, manayı ise vicdanın ziyasıyla aydınlatan kadim bir mirasın dijital izdüşümüdür. Medresetü’z-Zehra, sadece bir eğitim kurumu değil; fen ilimleriyle din ilimlerinin barıştığı, modernitenin köklerle buluştuğu ve insanın "Zülcenahayn" (Çift Kanatlı) bir varlık olarak yeniden inşasını hedefleyen bir ideadır.
+> [!TIP]
+> **Evolutionary Path:** Data -> Information -> Knowledge -> Sovereign Wisdom. Use this structure to move from passive learning (00-02) to active creation (04-06).
 
-AOS mimarisi, bu idea doğrultusunda şu temel direkler üzerine yükselir:
-- **Envanter Metodolojisi:** Varlık âleminin her bir hücresini (her bir branş) birer ayet/kanıt olarak görüp dökümante etmek.
-- **İmtizac Sırrı:** Mühendisliğin soğuk rasyonalitesini, edebiyatın ve felsefenin sıcak estetiğiyle birleştirerek "Bütüncül İnsan" modelini oluşturmak.
-- **Evrensel Nizam:** Mikro-kozmostan makro-kozmosa kadar her alanda var olan o büyük nizamı (Operating System), akademik branşların nizamıyla eşleştirmek.
+1. **`00 — Preparation & Orientation`**: Lexical mastery, methodological setup, and environmental configuration.
+2. **`01 — Theoretical Foundations`**: Axiomatic principles, mathematical modeling, and core discipline physics.
+3. **`02 — Core Implementation`**: Mandatory domain expertise and functional application frameworks.
+4. **`03 — Deep Expertise`**: Specialized niche research and high-fidelity technical documentation.
+5. **`04 — R&D & Advanced Production`**: Capstone projects, original syntheses, and autonomous intellectual outputs.
+6. **`05 — Academic Integration`**: Postgraduate research alignment and scholarly communication standards.
+7. **`06 — Industry & Career Nexus`**: Global standard compliance (ISO, IEEE, MISRA), certifications, and professional deployment.
 
-| ✍️ Temel Düstur | 🏛️ AOS Uygulama Prensibi |
+---
+
+## 🏛️ ARCHITECTURAL VISION: THE EPISTEMIC SYNTHESIS
+UAOS is the digital manifestation of a world where science and wisdom are no longer separate. We employ a **"Bimodal Expertise"** model, where technical rigor is tempered by philosophical depth. This is the **Epistemic Synthesis**—the bridge between the "How" of engineering and the "Why" of the humanities.
+
+The architecture stands on three primary pillars of sovereignty:
+- **Global Inventory:** Mapping the entire known academic universe as a structured, navigable grid.
+- **Multidimensional Integrity:** Merging empirical data with ethical insight to create a "Unified Intelligence Model."
+- **Recursive Evolution:** Every node in this system is designed to be updated, expanded, and refined by the USER and Antigravity.
+
+| 🧩 Core Doctrine | 🏗️ UAOS Operational Principle |
 | :--- | :--- |
-| **"Eyleme dökülmeyen ilim, yerinde sayan bir gölge gibidir."** | **Otonom Üretim & Aktif Mühendislik** |
-| **"Hakikat için Din ve Fen el eledir."** | **Zülcenahayn (Çift Kanatlı) Entegrasyon** |
-| **"Varlığın büyük nizamını bilmek için çabala."** | **Ampirik Sorgulama & Rasyonel Titizlik** |
+| **"Knowledge without application is noise."** | **Autonomous Production-First Mandate** |
+| **"Ethics and Engineering are a Single Unit."** | **Bimodal Integrity Integration** |
+| **"Systemic Order is the Key to Mastery."** | **Hierarchical Epistemological Precision** |
 
 ---
 
-## 🛠️ MODERN ENSTRÜMANTASYON (TEKNOLOJİ YIĞINI)
-AOS, 21. yüzyılın en ileri araçlarıyla donatılmış bir "Dijital Medrese"dir:
-- **Çekirdek Zeka:** Gemini 2.0 & Claude 3.5 Sonnet (Bilgi Sentezleyici)
-- **Geliştirme Ortamı:** Cursor / Windsurf (Agentic Coding & Otomasyon)
-- **Araştırma Motoru:** Perplexity Pro (Gerçek Zamanlı Akademik Arama)
-- **Bilgi Yönetimi:** Obsidian & Markdown Hiyerarşisi (Epistemolojik Graft)
+## 🛠️ THE INTELLIGENCE STACK (CORE TOOLS)
+UAOS is maintained and expanded using a state-of-the-art **Agentic Ecosystem**:
+- **Cognitive Engine:** Gemini 2.0 & Claude 3.5 Sonnet (Synthesizers)
+- **Agentic Architect:** **Antigravity** (System Management & Coding)
+- **Deep Research:** Perplexity Pro & Scholarly API Integration
+- **Knowledge OS:** Obsidian & High-Density Markdown Graphing
 
 ---
 
-## 🎯 KULLANIM REHBERİ: AOS NASIL ÇALIŞIR?
-AOS bir depodan (Repository) ziyade, bir yaşam tarzı ve kariyer yönetim mekanizmasıdır:
-1. **Navigasyon:** SUMMARY.md üzerinden ilgilenen alanı seçin.
-2. **Standardizasyon:** Her alandaki 00-06 yapısını takip edin.
-3. **Üretim:** Öğrendiğiniz her bilgiyi 04 katmanında somut bir projeye dönüştürün.
-4. **Sinerji:** Farklı konteynerlar (Örn: Mühendislik ve Felsefe) arasındaki bağları `cross-references` ile kurun.
+## 🎯 OPERATION GUIDE: HOW TO MANAGE UAOS
+1. **Selection:** Identify a target node via [SUMMARY.md](./SUMMARY.md).
+2. **Standardization:** Adhere to the 00-06 protocol during deployment.
+3. **Active Synthesis:** Use Layer 04 to produce original, sovereign content.
+4. **Agentic Interaction:** Leverage AI agents to cross-link disciplines and detect patterns.
 
 ---
 
-## 📚 ANSİKLOPEDİK BÖLÜM DİZİNİ (372 BRANŞ)
+## 📖 THE UNIVERSAL DISCIPLINE MATRIX (372 NODES)
 
-Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder.
+The following sectors represent the complete topological map of the UAOS intelligence ecosystem.
 
 """
 
@@ -159,20 +155,23 @@ Aşağıdaki kategoriler, AOS ekosisteminin 372 benzersiz hücresini temsil eder
 
 <div align="center">
 
-## ⚖️ HUKUKİ STATÜ VE LİSANS
-Bu proje, açık kaynak felsefesine sadık kalarak **MIT Lisansı** altında korunmaktadır. Tüm akademik dökümantasyon metodolojisi, evrensel bilim standartlarına göre yapılandırılmıştır.
+## ⚖️ LEGAL GOVERNANCE & OPEN SOURCE SOVEREIGNTY
+This project is licensed under the **MIT License**, advocating for the free exchange of high-fidelity knowledge and the sovereignty of the individual mind.
 
-**Geliştirici & Mimar**  
+**Architectural Collaboration**  
 ### Bahattin Yunus Çetin  
-*Engineer - Researcher - AOS Architect*
+*Lead Engineer & Researcher*  
+x  
+### Antigravity  
+*Autonomous Systems Architect*
 
 [Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)
 
 ---
-*"The ink of the scholar is more sacred than the blood of the martyr."*
+*"The quest for knowledge is a journey without an end, fueled by curiosity and disciplined by reason."*
 
 ---
-© 2025 Akademik İşletim Sistemi (AOS).
+© 2025 Universal Academic Operating System (UAOS).
 </div>
 """
 
