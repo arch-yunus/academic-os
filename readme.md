@@ -76,8 +76,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>🛠️ Mühendislik & İleri Teknoloji (64 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Adli Bilişim Mühendisliği](meta_muhendislik/adli_bilisim_muhendisligi/) | Bilisim Muhendisligi alanının kriminalistik metodoloji ve yasal kanıt bilimi ile entegrasyonu. |
 | [Akilli Gorsel Isitsel Muhendislik](meta_muhendislik/akilli_gorsel_isitsel_muhendislik/) | Gorsel Isitsel Muhendislik alanında otonom sistemler ve AI tabanlı yapılar kurgulayan ileri düğüm. |
 | [Akilli Molekuler Muhendislik](meta_muhendislik/akilli_molekuler_muhendislik/) | Molekuler Muhendislik alanında otonom sistemler ve AI tabanlı yapılar kurgulayan ileri düğüm. |
@@ -149,8 +149,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>🏛️ Mimarlık, Tasarım & Şehircilik (15 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Cizgi Film Ve Animasyon](mimarlik_ve_tasarim/cizgi_film_ve_animasyon/) | Mekansal kurgu ve estetik fonksiyonelliğin bilimsel tasarım protokolü. |
 | [Endustriyel Tasarim](mimarlik_ve_tasarim/endustriyel_tasarim/) | Mekansal kurgu ve estetik fonksiyonelliğin bilimsel tasarım protokolü. |
 | [Gorsel Iletisim Tasarimi](mimarlik_ve_tasarim/gorsel_iletisim_tasarimi/) | Fonksiyonel estetik, kullanıcı deneyimi ve endüstriyel tasarım mimarisi. |
@@ -173,8 +173,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>🖼️ Güzel Sanatlar & Estetik (8 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Dijital Tiyatro](guzel_sanatlar/dijital_tiyatro/) | Sanatsal ifade ve estetik kuramın yüksek yoğunluklu yaratıcılık laboratuvarı. |
 | [El Sanatlari](guzel_sanatlar/el_sanatlari/) | Sanatsal ifade ve estetik kuramın yüksek yoğunluklu yaratıcılık laboratuvarı. |
 | [Fotograf](guzel_sanatlar/fotograf/) | Sanatsal ifade ve estetik kuramın yüksek yoğunluklu yaratıcılık laboratuvarı. |
@@ -190,8 +190,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>🩺 Sağlık Bilimleri & Tıp (30 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Acil Yardim Ve Afet Yonetimi](saglik/acil_yardim_ve_afet_yonetimi/) | Stratejik karar zekası, operasyonel verimlilik ve organizasyonel liderlik çerçevesi. |
 | [Akupunktur Ve Moxibustion](saglik/akupunktur_ve_moxibustion/) | Klinik doğruluk ve insan biyolojisi eksenli medikal uzmanlık katmanı. |
 | [Ameliyathane Hizmetleri](saglik/ameliyathane_hizmetleri/) | Klinik doğruluk ve insan biyolojisi eksenli medikal uzmanlık katmanı. |
@@ -229,8 +229,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>🎓 Eğitim Fakültesi & Pedagoji (16 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Beden Egitimi Ve Spor Ogretmenligi](ogretmenlik/beden_egitimi_ve_spor_ogretmenligi/) | Bilgi aktarımı, pedagojik formasyon ve öğretim metodolojilerinin uzmanlık alanı. |
 | [Bilgisayar Ve Ogretim Teknolojileri Egitimi](ogretmenlik/bilgisayar_ve_ogretim_teknolojileri_egitimi/) | Gelişmekte olan araçlar, metodolojik altyapılar ve teknolojik realizasyon odaklı alan. |
 | [Din Kulturu Ve Ahlak Bilgisi Ogretmenligi](ogretmenlik/din_kulturu_ve_ahlak_bilgisi_ogretmenligi/) | Bilgi aktarımı, pedagojik formasyon ve öğretim metodolojilerinin uzmanlık alanı. |
@@ -254,8 +254,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>🏅 Spor Bilimleri & Performans (8 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Antrenorluk Egitimi](spor_bilimleri/antrenorluk_egitimi/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
 | [Beden Egitimi Ve Spor Bilimleri](spor_bilimleri/beden_egitimi_ve_spor_bilimleri/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
 | [Buz Ve Kar Dansi Performansi](spor_bilimleri/buz_ve_kar_dansi_performansi/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
@@ -271,8 +271,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>⚖️ Sosyal, Beşeri & İdari Bilimler (39 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Aktüerya Bilimleri](sosyal_ve_beseri_bilimler/aktüerya_bilimleri/) | İnsan ve toplum dinamiklerinin analitik ve teorik inceleme merkezi. |
 | [Antropoloji](sosyal_ve_beseri_bilimler/antropoloji/) | İnsan türünün zamansal gelişimi, kültürel varyasyonları ve biyolojik evriminin bütüncül analizi. |
 | [Arkeoloji](sosyal_ve_beseri_bilimler/arkeoloji/) | İnsan ve toplum dinamiklerinin analitik ve teorik inceleme merkezi. |
@@ -319,8 +319,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>🧪 Temel Fen Bilimleri (12 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Astronomi Ve Uzay Bilimleri](temel_bilimler/astronomi_ve_uzay_bilimleri/) | Varlığın temel yasalarının aksiyomatik ve matematiksel modelleme düğümü. |
 | [Biyoistatistik](temel_bilimler/biyoistatistik/) | Varlığın temel yasalarının aksiyomatik ve matematiksel modelleme düğümü. |
 | [Biyoloji](temel_bilimler/biyoloji/) | Varlığın temel yasalarının aksiyomatik ve matematiksel modelleme düğümü. |
@@ -340,8 +340,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>📚 Filoloji, Dil & Edebiyat (17 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Alman Dili Ve Edebiyati](edebiyat_ve_diller/alman_dili_ve_edebiyati/) | Dilsel yapılar, filolojik evrim ve edebi eserlerin kültürel veri analizi. |
 | [Arap Dili Ve Edebiyati](edebiyat_ve_diller/arap_dili_ve_edebiyati/) | Dilsel yapılar, filolojik evrim ve edebi eserlerin kültürel veri analizi. |
 | [Cin Dili Ve Edebiyati](edebiyat_ve_diller/cin_dili_ve_edebiyati/) | Dilsel yapılar, filolojik evrim ve edebi eserlerin kültürel veri analizi. |
@@ -366,8 +366,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>📡 İletişim & Medya Bilimleri (4 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Gazetecilik](iletisim/gazetecilik/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
 | [Halkla Iliskiler Ve Reklamcilik](iletisim/halkla_iliskiler_ve_reklamcilik/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
 | [Radyo Televizyon Ve Sinema](iletisim/radyo_televizyon_ve_sinema/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
@@ -379,8 +379,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>🏨 Turizm, Otelcilik & Gastronomi (7 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Gastronomi Ve Mutfak Sanatlari](turizm_ve_gastronomi/gastronomi_ve_mutfak_sanatlari/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
 | [Kahve Bilimi Ve Mühendisliği](turizm_ve_gastronomi/kahve_bilimi_ve_muhendisligi/) | Sistem optimizasyonu ve ampirik bütünlüğe odaklanmış ileri mühendislik düğümü. |
 | [Konaklama İşletmeciligi](turizm_ve_gastronomi/konaklama_isletmeciligi/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
@@ -395,8 +395,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>🌱 Tarım, Ziraat & Doğa Bilimleri (8 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Bahce Bitkileri](tarim_ve_ziraat_bilimleri/bahce_bitkileri/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
 | [Bitki Koruma](tarim_ve_ziraat_bilimleri/bitki_koruma/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
 | [Biyolojik Islah Teknolojisi](tarim_ve_ziraat_bilimleri/biyolojik_islah_teknolojisi/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
@@ -412,8 +412,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>⚔️ Savunma Sanayii & Güvenlik Stratejileri (6 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Askeri Havacilik Ve Uzay](askeri_bilimler_ve_savunma_teknolojileri/askeri_havacilik_ve_uzay/) | Stratejik savunma hatları ve yüksek teknoloji güvenlik konseptleri. |
 | [Askeri Istihbarat Analizi](askeri_bilimler_ve_savunma_teknolojileri/askeri_istihbarat_analizi/) | Stratejik savunma hatları ve yüksek teknoloji güvenlik konseptleri. |
 | [Deniz Harp Ve Su Alti Stratejileri](askeri_bilimler_ve_savunma_teknolojileri/deniz_harp_ve_su_alti_stratejileri/) | Stratejik savunma hatları ve yüksek teknoloji güvenlik konseptleri. |
@@ -427,8 +427,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>⚖️ Adalet & Hukuk Bilimleri (2 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Deniz Hukuku Ve Stratejisi](hukuk_bilimi/deniz_hukuku_ve_stratejisi/) | Yasal ontoloji ve düzenleyici mekanizmaların normatif analiz çerçevesi. |
 | [Hukuk](hukuk_bilimi/hukuk/) | Adalet mekanizmalarının ve toplumsal nizamın normatif ve analitik yaklaşımlarla kurgulandığı yasal ontoloji. |
 
@@ -438,8 +438,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>📚 Theology, Comparative Religion & Philosophy (1 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Ilahiyat](ilahiyat_ve_din/ilahiyat/) | Teolojik doktrinler ve dini fenomenlerin metodolojik ve felsefi analizi. |
 
 </details>
@@ -448,8 +448,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>📋 Mesleki Yüksekokul (Ön Lisans) (72 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Adalet](on_lisans_programlari/adalet/) | Uygulamalı teknik yetkinlik ve sektörel operasyonel uzmanlık odağı. |
 | [Agiz Ve Dis Sagligi](on_lisans_programlari/agiz_ve_dis_sagligi/) | Uygulamalı teknik yetkinlik ve sektörel operasyonel uzmanlık odağı. |
 | [Aricilik](on_lisans_programlari/aricilik/) | Uygulamalı teknik yetkinlik ve sektörel operasyonel uzmanlık odağı. |
@@ -529,8 +529,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>🔬 Disiplinlerarası & Özel Araştırma (39 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [3D Print Ai](ozel_arastirma_alanlari/3d_print_ai/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
 | [Agro Tek Ve Topraksiz Tarim](ozel_arastirma_alanlari/agro_tek_ve_topraksiz_tarim/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
 | [Akustik Mühendisliği](ozel_arastirma_alanlari/akustik_muhendisligi/) | Sistem optimizasyonu ve ampirik bütünlüğe odaklanmış ileri mühendislik düğümü. |
@@ -577,8 +577,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>🚀 Kariyer, Portfolyo & Sertifika (12 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Aws Certified Architect](kariyer_ve_sertifikasyonlar/aws_certified_architect/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
 | [Cfa Chartered Financial Analyst](kariyer_ve_sertifikasyonlar/cfa_chartered_financial_analyst/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
 | [Cisco Ccna Ccnp](kariyer_ve_sertifikasyonlar/cisco_ccna_ccnp/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
@@ -598,8 +598,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>🧠 Meta-Zihin & Kişisel Disiplin (8 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Finansal Okuryazarlik Ve Yatirim](meta_yetkinlikler_ve_gelisim/finansal_okuryazarlik_ve_yatirim/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
 | [Hizli Ogrenme Teknikleri](meta_yetkinlikler_ve_gelisim/hizli_ogrenme_teknikleri/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
 | [Liderlik Ve Ekip Yonetimi](meta_yetkinlikler_ve_gelisim/liderlik_ve_ekip_yonetimi/) | Stratejik karar zekası, operasyonel verimlilik ve organizasyonel liderlik çerçevesi. |
@@ -615,8 +615,8 @@ The following sectors represent the complete topological map of the UAOS intelli
 <summary><b>📂 Genel Arşiv & Ortak Alanlar (3 Alan)</b></summary>
 <br>
 
-| Branş / Alan | Akademik Misyon & Stratejik Odak |
-| :--- | :--- |
+| Branş / Alan |
+| :--- |
 | [Afet Yonetimi Ve Acil Durum Teknolojileri](genel/afet_yonetimi_ve_acil_durum_teknolojileri/) | Stratejik karar zekası, operasyonel verimlilik ve organizasyonel liderlik çerçevesi. |
 | [Erasmus Ve Global Degisim Programlari](genel/erasmus_ve_global_degisim_programlari/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
 | [Staj Ve Profesyonel Is Hayati Giris](genel/staj_ve_profesyonel_is_hayati_giris/) | Evrensel akademik standartlara göre yapılandırılmış bilgi düğümü. |
