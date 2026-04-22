@@ -1,0 +1,3 @@
+# EAR Restoration Draft
+This is a high-density restoration of the EAR README.
+...

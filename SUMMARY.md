@@ -1,4 +1,4 @@
-# 🗂️ University Courses: Evrensel Akademik Müfredat ve Bilgi İndeksi
+# 🗂️ UNIVERSITY COURSES: Evrensel Akademik Müfredat ve Bilgi İndeksi
 
 Bu dosya otomatik olarak oluşturulmuştur. Tüm sektörler uluslararası akademik standartlara ve küresel profesyonel gerekliliklere göre gruplandırılmıştır.
 
