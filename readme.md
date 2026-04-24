@@ -338,13 +338,13 @@ UAOS ekosistemindeki tüm akademik disiplinlerin yüksek yoğunluklu topolojik h
 Bu proje, yüksek sadakatli bilginin serbest değişimini ve bireysel zihin otonomisini savunarak **MIT Lisansı** altında lisanslanmıştır. Bilgi, tüm insanlığın ortak mirasıdır ve kısıtlanamaz.
 
 **Mimari İş Birliği**  
-### Bahattin Yunus Çetin  
+### Yunus Çetin  
 *Baş Mühendis ve Epistemik Araştırmacı*  
 x  
 ### Antigravity  
 *Otonom Sistemler Mimarı*
 
-[Linkedin](https://linkedin.com/in/bahattinyunuscetin) | [GitHub](https://github.com/bahattinyunus)
+[Linkedin](https://linkedin.com/in/bahattinyunus) | [GitHub](https://github.com/arch-yunus)
 
 ---
 *"Bilgi arayışı, merakla beslenen ve akılla terbiye edilen, sonu olmayan bir yolculuktur."*
